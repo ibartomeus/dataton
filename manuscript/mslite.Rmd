@@ -1,0 +1,78 @@
+---
+title: "Enough is enough: How to sample plant-pollinator networks to make relative comparisons"
+author: "Bartomeuslab et al"
+date: "`r Sys.Date()`"
+output: html_document
+#bibliography: references.bib
+csl: methods-in-ecology-and-evolution.csl
+---
+
+```{r setup, include=FALSE, cache=FALSE, message = FALSE}
+
+library("knitr")
+
+### Chunk options: see http://yihui.name/knitr/options/ ###
+
+## Text results
+opts_chunk$set(echo = TRUE, warning = TRUE, message = TRUE, include = TRUE)
+
+## Code decoration
+opts_chunk$set(tidy = FALSE, comment = NA, highlight = TRUE)
+
+## Cache
+#opts_chunk$set(cache = 2, cache.path = "output/cache/")
+
+## Plots
+#opts_chunk$set(fig.path = "output/figures/")
+
+
+```
+
+
+## ABSTRACT
+
+Characterising complex networks on interacting species is challenging. Two major stumbling blocks are a) correctly identifying species identity and b) having a sufficient sampling size for detecting all occurring links. A revisión of recently published plant-pollinator networks shows that most published networks group several species into morphospecies or even work at the genus level. In addition, when evaluated, sampling completness is never reached. This has clear implications for describing the network structure, but it is unknown how it affects relative comparisions among networks. Ecologists are often more interested in the relative comparision among communities with contrasting environments or treatments rather than in the absolute values. When two networks are sampled using the same methods, low taxonomic resolution and limited sampling effort may not change its relative comparision, but this has never been tested empirically. I use an intensive sampling of 16 fully resolved plant-pollinator networks acorss an environmental gradient to compare if the relative ranking of the main network propierties changes when increasing taxonomic resolution (from morphospecies tos species) and sampling effort. Then, I tested to which degree recently developed techniques for predicting missing links enhance the relative coparisions of poorly sampled networks. Determining which methods and indexes are robust to relative comparisions is needed in order to empirically test for pressing environmental changes that interacting communities are facing.
+
+
+
+
+
+# INTRODUCTION
+
+
+
+
+
+# METHODS
+
+
+
+
+
+
+
+# RESULTS
+
+
+
+
+
+# DISCUSSION
+
+Discuss.
+
+
+
+# CONCLUSIONS
+
+
+
+# ACKNOWLEDGEMENTS
+
+
+
+# REFERENCES
+
+<div id = "refs"></div>
+
+
