@@ -13,7 +13,7 @@
 #Data can be used pooled (1469 interactions ; 5706 visits) for 
 #general question abouts trait matching or splited by site (`Site_ID`) and `Round`.
 
-int <- read.csv("data/interactions.csv", h = T)
+int <- read.csv("data/interactions_clean.csv", h = T)
 head(int)
 nrow(int)
 sum(int$Frequency, na.rm = TRUE)
@@ -142,19 +142,88 @@ ranks_transfocal
 #bind the three treatments
 ranking_species<-rbind(ranks, ranks_trans, ranks_transfocal)
 
-#plot
 
-ranking_species
+#for different taxa levels
 
-connectance <- matrix(data=NA, nrow=(length(levels(int$Site_ID))), ncol = length(levels(int$Out)))
-connectance[,1]<- ranks_trans$connectance
-connectance[,2]<- ranks_transfocal$connectance
-connectance[,3]<- ranks$connectance
+#removing sp and NA
+int
+levels(int$Pollinator_species)
 
-colnames(connectance) <- c("transect","transfocal","all")
-row.names(connectance) <-levels(int$Site_ID)
+int_non_sp<-int[!int$Pollinator_species == "sp",]
+which(is.na(int_non_sp$Pollinator_species))
+int_non_sp<-int_non_sp[-c(which(is.na(int_non_sp$Pollinator_species))),]
 
-dotplot(connectance)
+
+sites <- unique(int$Site_ID)
+ntw_m <- data.frame(site = sites, connectance = NA, links_per_species = NA, nestedness = NA, 
+                    H2 = NA, weightedNODF = NA, interaction_evenness = NA)
+for(i in 1:length(sites)){
+    temp <- subset(int_non_sp, Site_ID == sites[i])
+    temp <- droplevels(temp)
+    web <- dcast(temp, Plant_gen_sp ~ Pollinator_gen_sp, fun.aggregate = sum, value.var = "Frequency")
+    rownames(web) <- web$Plant_gen_sp
+    web <- web[,-1]
+    ntw_m[i,2:7] <- networklevel(web = web, index = c("connectance", "links per species", "nestedness", 
+                                                      "H2", "weighted NODF", "interaction evenness"))
+}
+
+#We removed row without species level
+ranks_non_sp <- data.frame(site = sites, treatment = "all", resolution = "not genus", connectance = NA, links_per_species = NA, nestedness = NA, 
+                    H2 = NA, weightedNODF = NA, interaction_evenness = NA)
+
+for(i in 1:ncol(ntw_m)){
+    ranks_non_sp[,4] <- rank(ntw_m$connectance)
+    ranks_non_sp[,5] <- rank(ntw_m$links_per_species)
+    ranks_non_sp[,6] <- rank(ntw_m$nestedness)
+    ranks_non_sp[,7] <- rank(ntw_m$H2)
+    ranks_non_sp[,8] <- rank(ntw_m$weightedNODF)
+    ranks_non_sp[,9] <- rank(ntw_m$interaction_evenness)
+}    
+
+
+ranks_non_sp
+#We remove morphs, sp, and NA
+int
+levels(int$Pollinator_species)
+
+int_non_sp<-int[!int$Pollinator_species == "sp",]
+which(is.na(int_non_sp$Pollinator_species))
+int_non_sp<-int_non_sp[-c(which(is.na(int_non_sp$Pollinator_species))),]
+
+which(int_non_sp$Pollinator_species=="morpho1")
+int_non_sp_morph<-int_non_sp[-c(which(int_non_sp$Pollinator_species=="morpho1"),
+                                which(int_non_sp$Pollinator_species=="morpho2"),
+                                which(int_non_sp$Pollinator_species=="morpho3")),]
+
+sites <- unique(int$Site_ID)
+ntw_m <- data.frame(site = sites, connectance = NA, links_per_species = NA, nestedness = NA, 
+                    H2 = NA, weightedNODF = NA, interaction_evenness = NA)
+for(i in 1:length(sites)){
+    temp <- subset(int_non_sp_morph, Site_ID == sites[i])
+    temp <- droplevels(temp)
+    web <- dcast(temp, Plant_gen_sp ~ Pollinator_gen_sp, fun.aggregate = sum, value.var = "Frequency")
+    rownames(web) <- web$Plant_gen_sp
+    web <- web[,-1]
+    ntw_m[i,2:7] <- networklevel(web = web, index = c("connectance", "links per species", "nestedness", 
+                                                      "H2", "weighted NODF", "interaction evenness"))
+}
+
+#We removed row without species level
+ranks_non_sp_morph <- data.frame(site = sites, treatment = "all", resolution = "neither genus nor morph", connectance = NA, links_per_species = NA, nestedness = NA, 
+                           H2 = NA, weightedNODF = NA, interaction_evenness = NA)
+
+for(i in 1:ncol(ntw_m)){
+    ranks_non_sp_morph[,4] <- rank(ntw_m$connectance)
+    ranks_non_sp_morph[,5] <- rank(ntw_m$links_per_species)
+    ranks_non_sp_morph[,6] <- rank(ntw_m$nestedness)
+    ranks_non_sp_morph[,7] <- rank(ntw_m$H2)
+    ranks_non_sp_morph[,8] <- rank(ntw_m$weightedNODF)
+    ranks_non_sp_morph[,9] <- rank(ntw_m$interaction_evenness)
+}    
+
+
+ranks_non_sp_morph
+
 
 
 
@@ -164,6 +233,16 @@ dotplot(connectance)
 
 unique(int$Pollinator_gen_sp)
 unique(int$Plant_gen_sp)
+
+
+
+
+
+
+
+
+
+
 
 #assumptions to test:
 
