@@ -46,4 +46,4 @@ dataclean2 <- merge(as.data.frame(dataclean), morfo[,c(1,4)],
 head(dataclean2)
 
 #maybe recode column order?
-write_csv(dataclean, "data/interactions_clean.csv")
+write_csv(dataclean2, "data/interactions_clean.csv")
