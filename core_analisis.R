@@ -72,6 +72,68 @@ library(reshape2)
 
 head(int)
 
+#Subset only 1/2 transects
+int_trans<-subset(int, subset=(int$Out == "transect"))
+
+unique(int$Round)
+int_trans_1 <- subset(int_trans, Round %in% c(1,3,5))
+int_trans_2 <- subset(int_trans, Round %in% c(2,4,6))
+
+sites <- unique(int_trans_1$Site_ID)
+ntw_m <- data.frame(site = sites, connectance = NA, links_per_species = NA, nestedness = NA, 
+                    H2 = NA, weightedNODF = NA, interaction_evenness = NA)
+for(i in 1:length(sites)){
+    temp <- subset(int_trans_1, Site_ID == sites[i])
+    temp <- droplevels(temp)
+    web <- dcast(temp, Plant_gen_sp ~ Pollinator_gen_sp, fun.aggregate = sum, value.var = "Frequency")
+    rownames(web) <- web$Plant_gen_sp
+    web <- web[,-1]
+    ntw_m[i,2:7] <- networklevel(web = web, index = c("connectance", "links per species", "nestedness", 
+                                                      "H2", "weighted NODF", "interaction evenness"))
+}
+
+ranks_trans_1 <- data.frame(site = sites, treatment = "transect_half1", resolution = "species", connectance = NA, links_per_species = NA, nestedness = NA, 
+                          H2 = NA, weightedNODF = NA, interaction_evenness = NA)
+
+for(i in 1:ncol(ntw_m)){
+    ranks_trans_1[,4] <- rank(ntw_m$connectance)
+    ranks_trans_1[,5] <- rank(ntw_m$links_per_species)
+    ranks_trans_1[,6] <- rank(ntw_m$nestedness)
+    ranks_trans_1[,7] <- rank(ntw_m$H2)
+    ranks_trans_1[,8] <- rank(ntw_m$weightedNODF)
+    ranks_trans_1[,9] <- rank(ntw_m$interaction_evenness)
+}    
+
+ranks_trans_1
+
+#The other 1/2 transects
+sites <- unique(int_trans_2$Site_ID)
+ntw_m <- data.frame(site = sites, connectance = NA, links_per_species = NA, nestedness = NA, 
+                    H2 = NA, weightedNODF = NA, interaction_evenness = NA)
+for(i in 1:length(sites)){
+    temp <- subset(int_trans_2, Site_ID == sites[i])
+    temp <- droplevels(temp)
+    web <- dcast(temp, Plant_gen_sp ~ Pollinator_gen_sp, fun.aggregate = sum, value.var = "Frequency")
+    rownames(web) <- web$Plant_gen_sp
+    web <- web[,-1]
+    ntw_m[i,2:7] <- networklevel(web = web, index = c("connectance", "links per species", "nestedness", 
+                                                      "H2", "weighted NODF", "interaction evenness"))
+}
+
+ranks_trans_2 <- data.frame(site = sites, treatment = "transect_half2", resolution = "species", connectance = NA, links_per_species = NA, nestedness = NA, 
+                            H2 = NA, weightedNODF = NA, interaction_evenness = NA)
+
+for(i in 1:ncol(ntw_m)){
+    ranks_trans_2[,4] <- rank(ntw_m$connectance)
+    ranks_trans_2[,5] <- rank(ntw_m$links_per_species)
+    ranks_trans_2[,6] <- rank(ntw_m$nestedness)
+    ranks_trans_2[,7] <- rank(ntw_m$H2)
+    ranks_trans_2[,8] <- rank(ntw_m$weightedNODF)
+    ranks_trans_2[,9] <- rank(ntw_m$interaction_evenness)
+}    
+
+ranks_trans_2
+
 #Subset only with transects
 int_trans<-subset(int, subset=(int$Out == "transect"))
 #Checking that we subset only transects
@@ -141,6 +203,7 @@ ranks_transfocal
 
 #bind the three treatments----
 ranking_species<-rbind(ranks, ranks_trans, ranks_transfocal)
+ranking_species<-rbind(ranks_trans_2, ranks_trans_1, ranks_trans)
 
 
 #for different taxa levels
