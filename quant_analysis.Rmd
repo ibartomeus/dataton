@@ -1,0 +1,153 @@
+---
+title: "Quantitative analysis"
+author: "Nestor & Paco"
+date: "27 June 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, cache = TRUE)
+```
+
+```{r}
+int <- read.csv("data/interactions_clean.csv", header = TRUE)
+
+```
+
+
+## calculate metrics
+
+```{r}
+calculate_metrics <- function(df = int, treatment) {
+
+  if (treatment == "transects") df <- subset(df, df$Out == "transect")
+  if (treatment == "transfocal") df <- subset(df, df$Out == "transect" | df$Out == "focal")
+  if (treatment == "all") df = df
+
+  sites <- unique(df$Site_ID)
+  ntw_m <- data.frame(site = sites, connectance = NA, links_per_species = NA,
+                      nestedness = NA, H2 = NA, weightedNODF = NA,
+                      interaction_evenness = NA)
+  for (i in 1:length(sites)) {
+    temp <- subset(df, Site_ID == sites[i])
+    temp <- droplevels(temp)
+    web <- reshape2::dcast(temp, Plant_gen_sp ~ Pollinator_gen_sp, fun.aggregate = sum, value.var = "Frequency")
+    rownames(web) <- web$Plant_gen_sp
+    web <- web[,-1]
+    ntw_m[i,2:7] <- bipartite::networklevel(web = web, index = c("connectance", "links per species", "nestedness",
+                                                      "H2", "weighted NODF", "interaction evenness"))
+  }
+
+  ntw_m$treatment <- treatment
+
+  ntw_m
+
+}
+
+
+transects <- calculate_metrics(int, treatment = "transects")
+transects.focal <- calculate_metrics(int, treatment = "transfocal")
+all <- calculate_metrics(int, treatment = "all")
+
+comparison <- dplyr::bind_rows(transects, transects.focal, all)
+
+metrics <- c("connectance", "links_per_species", "nestedness", "H2", 
+         "weightedNODF", "interaction_evenness")
+```
+
+
+## DATAVIZ
+
+```{r}
+library(ggplot2)
+
+comparison$treatment <- factor(comparison$treatment,
+                               levels = c("transects", "transfocal", "all"))
+
+plot_comparison <- function(metric, df) {
+    
+    p <- ggplot(df, aes(x = treatment, group = site, colour = site)) +
+        aes_string(y = metric) +
+        geom_line() +
+        geom_point()
+    
+    print(p)
+    
+}
+
+plots <- lapply(metrics, plot_comparison, df = comparison)
+
+
+```
+
+
+```{r}
+library(reshape2)
+
+compar.plot <- function(metric, df = comparison) {
+    
+    df2 <- reshape2::dcast(df, site ~ treatment, value.var = metric)
+    require(ggplot2)
+    p1 <- ggplot(df2, aes(transects, all, colour = site)) + 
+        xlim(min(df2$transects, df2$all), max(df2$transects, df2$all)) +
+        ylim(min(df2$transects, df2$all), max(df2$transects, df2$all)) +
+        geom_point(size = 2) + 
+        labs(title = metric) +
+        geom_abline(intercept = 0, slope = 1)
+print(p1)
+    p2 <- ggplot(df2, aes(transfocal, all, colour = site)) + 
+        xlim(min(df2$transfocal, df2$all), max(df2$transfocal, df2$all)) +
+        ylim(min(df2$transfocal, df2$all), max(df2$transfocal, df2$all)) +
+        geom_point(size = 2) + 
+        labs(title = metric) +
+        geom_abline(intercept = 0, slope = 1)
+print(p2)
+    
+}
+
+lapply(metrics, compar.plot)
+
+```
+
+
+## MODELS
+
+```{r}
+summary(comparison)
+```
+
+```{r warning=FALSE, eval=FALSE}
+df = comparison
+
+for (i in metrics) {
+    cat(i)
+    df2 <- df
+    names(df2)[names(df2) == i] <- "response"
+        m1 <- lme4::lmer(response ~ (1 + treatment | site) + treatment, data = df2)
+        summary(m1)
+        DHARMa::simulateResiduals(m1, plot = TRUE)
+        sjPlot::sjp.lmer(m1, type = "coef")
+        require(effects)
+        plot(allEffects(m1), ylab = i)
+
+}
+
+
+for (i in metrics) {
+    cat(i)
+    df2 <- df
+    names(df2)[names(df2) == i] <- "response"
+        m1 <- lm(response ~ site*treatment, data = df2)
+        summary(m1)
+        #DHARMa::simulateResiduals(m1, plot = TRUE)
+        #sjPlot::sjp.lmer(m1, type = "coef")
+        require(effects)
+        plot(allEffects(m1), ylab = i)
+
+}
+
+
+
+
+```
+
