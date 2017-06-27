@@ -139,13 +139,13 @@ for(i in 1:ncol(ntw_m)){
 
 ranks_transfocal
 
-#bind the three treatments
+#bind the three treatments----
 ranking_species<-rbind(ranks, ranks_trans, ranks_transfocal)
 
 
 #for different taxa levels
 
-#removing sp and NA
+#removing sp and NA----
 int
 levels(int$Pollinator_species)
 
@@ -182,7 +182,7 @@ for(i in 1:ncol(ntw_m)){
 
 
 ranks_non_sp
-#We remove morphs, sp, and NA
+#We remove morphs, sp, and NA------
 int
 levels(int$Pollinator_species)
 
@@ -224,11 +224,75 @@ for(i in 1:ncol(ntw_m)){
 
 ranks_non_sp_morph
 
+#Dataframe at genus level----
+head(interactions_clean)
+#Subset only with transects
+int_genus<-interactions_clean
+head(int_genus)
+sites <- unique(interactions_clean$Site_ID)
+ntw_m <- data.frame(site = sites, connectance = NA, links_per_species = NA, nestedness = NA, 
+                    H2 = NA, weightedNODF = NA, interaction_evenness = NA)
+for(i in 1:length(sites)){
+    temp <- subset(int_genus, Site_ID == sites[i])
+    temp <- droplevels(temp)
+    web <- dcast(temp, Plant_gen_sp ~ Pollinator_genus, fun.aggregate = sum, value.var = "Frequency")
+    rownames(web) <- web$Plant_gen_sp
+    web <- web[,-1]
+    ntw_m[i,2:7] <- networklevel(web = web, index = c("connectance", "links per species", "nestedness", 
+                                                      "H2", "weighted NODF", "interaction evenness"))
+}
 
+ranks_genus <- data.frame(site = sites, treatment = "all", resolution = "genus", connectance = NA, links_per_species = NA, nestedness = NA, 
+                          H2 = NA, weightedNODF = NA, interaction_evenness = NA)
 
+for(i in 1:ncol(ntw_m)){
+    ranks_genus[,4] <- rank(ntw_m$connectance)
+    ranks_genus[,5] <- rank(ntw_m$links_per_species)
+    ranks_genus[,6] <- rank(ntw_m$nestedness)
+    ranks_genus[,7] <- rank(ntw_m$H2)
+    ranks_genus[,8] <- rank(ntw_m$weightedNODF)
+    ranks_genus[,9] <- rank(ntw_m$interaction_evenness)
+}    
 
+ranks_genus
 
+#Dataframe at morph level----
+head(interactions_clean)
+#Subset only with transects
+int_morph<-interactions_clean
+head(int_morph)
+sites <- unique(interactions_clean$Site_ID)
+ntw_m <- data.frame(site = sites, connectance = NA, links_per_species = NA, nestedness = NA, 
+                    H2 = NA, weightedNODF = NA, interaction_evenness = NA)
+for(i in 1:length(sites)){
+    temp <- subset(int_morph, Site_ID == sites[i])
+    temp <- droplevels(temp)
+    web <- dcast(temp, Plant_gen_sp ~ Morphospecie2, fun.aggregate = sum, value.var = "Frequency")
+    rownames(web) <- web$Plant_gen_sp
+    web <- web[,-1]
+    ntw_m[i,2:7] <- networklevel(web = web, index = c("connectance", "links per species", "nestedness", 
+                                                      "H2", "weighted NODF", "interaction evenness"))
+}
 
+ranks_morph <- data.frame(site = sites, treatment = "all", resolution = "morph", connectance = NA, links_per_species = NA, nestedness = NA, 
+                          H2 = NA, weightedNODF = NA, interaction_evenness = NA)
+
+for(i in 1:ncol(ntw_m)){
+    ranks_morph[,4] <- rank(ntw_m$connectance)
+    ranks_morph[,5] <- rank(ntw_m$links_per_species)
+    ranks_morph[,6] <- rank(ntw_m$nestedness)
+    ranks_morph[,7] <- rank(ntw_m$H2)
+    ranks_morph[,8] <- rank(ntw_m$weightedNODF)
+    ranks_morph[,9] <- rank(ntw_m$interaction_evenness)
+}    
+
+ranks_morph
+
+ranking_resolution<-rbind(ranks, ranks_genus, ranks_morph, ranks_non_sp, ranks_non_sp_morph)
+
+#dataframes to analyze----
+ranking_species
+ranking_resolution
 
 
 unique(int$Pollinator_gen_sp)
@@ -260,5 +324,5 @@ unique(int$Plant_gen_sp)
 #transects
 #trasects + focal
 #transects + focal + out
-
+interactions_clean
 
