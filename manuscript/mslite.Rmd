@@ -45,7 +45,6 @@ Characterising complex networks on interacting species is challenging. Two major
 
 # METHODS
 
-Material and Methods:
 We selected 16 sites in the southwest of the iberian peninsula (Huelva and Seville) for the samplings. These sites were selected from very low modified sites to very modified having crops and houses nearby (Table S.X). A site was selected when they had enough flowering plants that could attract pollinators (Cistus sp., Lavandula sp., Rosmarinus officinalis, Myrtus communis).
 
 We used pollinators because is a system that [...]
@@ -53,10 +52,21 @@ All the pollinators were collected and noted in 2015 from March to June using th
 
 Due to the amount of bees captured we conserved them frozen in the cooler at -20ºC, then they were pinned and labeled in the lab. Later we identify them using the scarce taxonomic information through determination keys. All the species were sent to a taxonomic expert to check the identification done and to identify the remaining unidentified species.
 
+The data collected for every site was re-classified and divided summing the sampling effort from less to more (transect, transect + focal census, transect + focal census + out of transect) and taxonomic level considered from less to more determination effort (species, genus or morphotype). Then we wanted to compare the effect of picking different levels of sampling effort and determination effort for different basic ecological indexes. For the realised proportion of possible links we used "connectance"" and for the mean number of links per species we used "links per species"",  
 
 
+PONGO AQUÍ LA DEFINICIÓN DE LAS VARIABLES ECOLÓGICAS MEDIDAS PARA INTEGRARLAS AL TEXTO
+connectance: Realised proportion of possible links (Dunne et al. 2002): sum of links divided by number of cells in the matrix (= number of higher times number of lower trophic level species). This is the standardised number of species combinations often used in co-occurrence analyses (Gotelli & Graves 1996)
 
+links per species: Mean number of links per species (qualitative): sum of links divided by number of species.
 
+nestedness: Nestedness temperature of the matrix (0 means cold, i.e. high nestedness, 100 means hot, i.e. chaos). For details see nestedness and Rodriguez-Girones & Santamaría (2002). Notice that the function nestedness does not calculate any null model, simply because it is too computer-intensive. networklevel calls nestedtemp! If you are interested in the different null models, please use the function nestedness or nestedtemp in vegan directly. For the network structure and specialization we used nestedness, H2 
+
+H2:H2’ is a network-level measure of specialisation. It ranges between 0 (no spe- cialisation) and 1 (complete specialisation). H2’ is a measure of discrimination, i.e. calculated in comparison of no specialisation (see H2fun for details. To avoid confusion of keys (apostrophe vs. accent), we call the H2’ only H2 here.
+
+weighted NODF: Another quantitative (=weighted) index for nestedness, building on NODF (see nestednodf in vegan). High values indicate nestedness. According to the anal- ysis of Almeida-Neto et al. (2008, 2010), NODF is more consistent and “better” than usual measures of nestedness.
+
+interaction evennes:Shannon’s evenness for the web entries. Note that the two options are rather different. By definition, IE = H/Hmax; H = -sum(p.i.mat*log(p.i.mat)), where p.i.mat = matrix/sum(entries in matrix). This means, when calculating H, do we treat all possible links as species, and the interactions (cell values) as measure of their abundance? By definition, Hmax = ln(N). The key question is: What is the right value for N? Since we treat the matrix cells as species, it is (clearly?) the number of matrix cells, i.e. number of higher trophic level species x number of lower trophic level species. We think this logic justifies our default "prod". However, others argue in favour of N=number of links. Please see note for our discussion on this point.
 
 
 # RESULTS
