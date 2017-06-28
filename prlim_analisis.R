@@ -358,51 +358,10 @@ ranking_species
 ranking_resolution
 
 
-#null models test (DELETE)----
-
-#mi resultado
-ranks
-
-#creo modelo nulo
-head(int)
-sites <- unique(int$Site_ID)
-
-levels(int$Plant_gen_sp)
-ntw_m <- data.frame(site = sites, nestedness = NA)
-ntw_null <- data.frame(site = sites, nestedness = NA)
-for(i in 1:length(sites)){
-    temp <- subset(int, Site_ID == sites[i])
-    temp <- droplevels(temp)
-    webs <- dcast(temp, Plant_gen_sp ~ Pollinator_gen_sp, fun.aggregate = sum, value.var = "Frequency")
-    rownames(webs) <- web$Plant_gen_sp
-    webs <- webs[,-1]
-    webnull<-nullmodel(webs, N=100, method = "r2d")
-    ntw_m[i,2] <- networklevel(web = webs, index = "nestedness")
-    
-}
-View(webs)
-nestedness(int)
-ranks <- data.frame(site = sites, treatment = "all", resolution = "species", connectance = NA, links_per_species = NA, nestedness = NA, 
-                    H2 = NA, weightedNODF = NA, interaction_evenness = NA)
-
-for(i in 1:ncol(ntw_m)){
-    ranks[,4] <- rank(ntw_m$connectance)
-    ranks[,5] <- rank(ntw_m$links_per_species)
-    ranks[,6] <- rank(ntw_m$nestedness)
-    ranks[,7] <- rank(ntw_m$H2)
-    ranks[,8] <- rank(ntw_m$weightedNODF)
-    ranks[,9] <- rank(ntw_m$interaction_evenness)
-}    
 
 
-ranks
-
-unique(int$Pollinator_gen_sp)
-unique(int$Plant_gen_sp)
 
 
-unique(int$Pollinator_gen_sp)
-unique(int$Plant_gen_sp)
 
 
 
@@ -430,5 +389,4 @@ unique(int$Plant_gen_sp)
 #transects
 #trasects + focal
 #transects + focal + out
-interactions_clean
 
