@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = TRUE, cache = TRUE)
 ```
 
 ```{r}
-int <- read.csv("data/interactions_clean.csv", header = TRUE)
+intdata <- read.csv("data/interactions_clean.csv", header = TRUE)
 
 ```
 
@@ -18,41 +18,82 @@ int <- read.csv("data/interactions_clean.csv", header = TRUE)
 ## calculate metrics
 
 ```{r}
-calculate_metrics <- function(df = int, treatment) {
-
-  if (treatment == "transects") df <- subset(df, df$Out == "transect")
-  if (treatment == "transfocal") df <- subset(df, df$Out == "transect" | df$Out == "focal")
-  if (treatment == "all") df = df
-
-  sites <- unique(df$Site_ID)
-  ntw_m <- data.frame(site = sites, connectance = NA, links_per_species = NA,
-                      nestedness = NA, H2 = NA, weightedNODF = NA,
-                      interaction_evenness = NA)
-  for (i in 1:length(sites)) {
-    temp <- subset(df, Site_ID == sites[i])
-    temp <- droplevels(temp)
-    web <- reshape2::dcast(temp, Plant_gen_sp ~ Pollinator_gen_sp, fun.aggregate = sum, value.var = "Frequency")
-    rownames(web) <- web$Plant_gen_sp
-    web <- web[,-1]
-    ntw_m[i,2:7] <- bipartite::networklevel(web = web, index = c("connectance", "links per species", "nestedness",
-                                                      "H2", "weighted NODF", "interaction evenness"))
-  }
-
-  ntw_m$treatment <- treatment
-
-  ntw_m
-
+calculate_metrics <- function(df = intdata, treatment = "transects", taxores = NULL) {
+    
+    
+        if (treatment == "transects") df <- subset(df, df$Out == "transect")
+        if (treatment == "transfocal") df <- subset(df, df$Out == "transect" | df$Out == "focal")
+        if (treatment == "all") df = df
+        
+        
+        if (!is.null(taxores)) {
+        
+        if (treatment != "transects") stop("For analyses with taxonomic resolution, treatment must be = transects")
+    }
+    
+   
+    sites <- unique(df$Site_ID)
+    ntw_m <- data.frame(site = sites, connectance = NA, links_per_species = NA,
+                        nestedness = NA, H2 = NA, weightedNODF = NA,
+                        interaction_evenness = NA)
+    for (i in 1:length(sites)) {
+        temp <- subset(df, Site_ID == sites[i])
+        temp <- droplevels(temp)
+        
+        if (is.null(taxores)) {
+            form <- as.formula("Plant_gen_sp ~ Pollinator_gen_sp")
+        } else {
+            form <- as.formula(paste0("Plant_gen_sp ~ ", taxores))
+        }
+        web <- reshape2::dcast(temp, form, fun.aggregate = sum, value.var = "Frequency")
+        rownames(web) <- web$Plant_gen_sp
+        web <- web[,-1]
+        ntw_m[i,2:7] <- bipartite::networklevel(web = web, index = c("connectance", "links per species", "nestedness", "H2", "weighted NODF", "interaction evenness"))
+        
+        ## insert here null model stuff
+    }
+    
+    ntw_m$treatment <- treatment
+    
+    if (!is.null(taxores)) ntw_m$taxores <- taxores
+    
+    ntw_m
+    
 }
 
 
-transects <- calculate_metrics(int, treatment = "transects")
-transects.focal <- calculate_metrics(int, treatment = "transfocal")
-all <- calculate_metrics(int, treatment = "all")
-
-comparison <- dplyr::bind_rows(transects, transects.focal, all)
-
 metrics <- c("connectance", "links_per_species", "nestedness", "H2", 
-         "weightedNODF", "interaction_evenness")
+             "weightedNODF", "interaction_evenness")
+```
+
+
+## ANALYSIS OF SAMPLING METHOD
+
+```{r}
+transects <- calculate_metrics(intdata, treatment = "transects")
+transects.focal <- calculate_metrics(intdata, treatment = "transfocal")
+all <- calculate_metrics(intdata, treatment = "all")
+
+sampling.comparison <- dplyr::bind_rows(transects, transects.focal, all)
+sampling.comparison$treatment <- factor(sampling.comparison$treatment,
+                               levels = c("transects", "transfocal", "all"))
+levels(sampling.comparison$treatment) <- c("Transects", "TransFocal", "TransFocalObs")
+```
+
+
+## ANALYSIS OF TAXONOMIC RESOLUTION
+
+```{r}
+genus <- calculate_metrics(intdata, treatment = "transects", taxores = "Pollinator_genus")
+genus.sp <- calculate_metrics(intdata, treatment = "transects", taxores = "Pollinator_gen_sp")
+morphosp <- calculate_metrics(intdata, treatment = "transects", taxores = "Morphospecie2")
+
+taxa.comparison <- dplyr::bind_rows(genus, genus.sp, morphosp)
+taxa.comparison$taxores <- factor(taxa.comparison$taxores,
+                               levels = c("Pollinator_genus", 
+                                          "Morphospecie2", 
+                                          "Pollinator_gen_sp"))
+levels(taxa.comparison$taxores) <- c("Genus", "Morphospecies", "Species")
 ```
 
 
@@ -61,93 +102,115 @@ metrics <- c("connectance", "links_per_species", "nestedness", "H2",
 ```{r}
 library(ggplot2)
 
-comparison$treatment <- factor(comparison$treatment,
-                               levels = c("transects", "transfocal", "all"))
-
-plot_comparison <- function(metric, df) {
+plot_comparison <- function(metric, taxa = FALSE, df) {
     
-    p <- ggplot(df, aes(x = treatment, group = site, colour = site)) +
-        aes_string(y = metric) +
+    if (isTRUE(taxa)) {
+        xvar <- "taxores"
+        lab <- "Taxonomic resolution"
+    } else {
+        xvar = "treatment"
+        lab = "Sampling method"
+    }
+    
+    p <- ggplot(df, aes(group = site, colour = site)) +
+        aes_string(x = xvar, y = metric) +
         geom_line() +
-        geom_point()
+        geom_point() +
+        labs(x = lab) +
+        theme_bw() +
+        theme(axis.text.x = element_text(angle = 45, vjust = 0.5)) +
+        scale_colour_discrete() # change  
     
     print(p)
     
 }
-
-plots <- lapply(metrics, plot_comparison, df = comparison)
-
-
 ```
 
+
+```{r}
+sampling.plots <- lapply(metrics, plot_comparison, taxa = FALSE, df = sampling.comparison)
+```
+
+
+```{r}
+taxa.plots <- lapply(metrics, plot_comparison, taxa = TRUE, df = taxa.comparison)
+```
+
+
+## COMPARE APPROACHES
+
+### Sampling method
 
 ```{r}
 library(reshape2)
 
-compar.plot <- function(metric, df = comparison) {
+compare_methods <- function(metric, df, taxa = FALSE) {
     
-    df2 <- reshape2::dcast(df, site ~ treatment, value.var = metric)
+    if (isTRUE(taxa)) {
+        best <- "Species"
+        form <- as.formula("site ~ taxores")
+    } else {
+        best <- "TransFocalObs"
+        form <- as.formula("site ~ treatment")
+    }
+    
+    
+    df2 <- reshape2::dcast(df, form, value.var = metric)
     require(ggplot2)
-    p1 <- ggplot(df2, aes(transects, all, colour = site)) + 
-        xlim(min(df2$transects, df2$all), max(df2$transects, df2$all)) +
-        ylim(min(df2$transects, df2$all), max(df2$transects, df2$all)) +
-        geom_point(size = 2) + 
-        labs(title = metric) +
-        geom_abline(intercept = 0, slope = 1)
-print(p1)
-    p2 <- ggplot(df2, aes(transfocal, all, colour = site)) + 
-        xlim(min(df2$transfocal, df2$all), max(df2$transfocal, df2$all)) +
-        ylim(min(df2$transfocal, df2$all), max(df2$transfocal, df2$all)) +
-        geom_point(size = 2) + 
-        labs(title = metric) +
-        geom_abline(intercept = 0, slope = 1)
-print(p2)
     
-}
+    ggfun <- function(df = df2, respo = best, xvar, metrica = metric) {
+        p1 <- ggplot(df, aes(colour = site)) + 
+        aes_string(y = best, x = xvar) +
+        xlim(min(df[[xvar]], df[[respo]]), max(df[[xvar]], df[[respo]])) +
+        ylim(min(df[[xvar]], df[[respo]]), max(df[[xvar]], df[[respo]])) +
+        geom_point(size = 2) + 
+        labs(title = metrica) +
+        geom_abline(intercept = 0, slope = 1) +
+        theme_bw()
+        print(p1)
+        
+    }
+    
+    if (isTRUE(taxa)) {
+        ggfun(xvar = "Morphospecies")
+        ggfun(xvar = "Genus")
+        model1 <- lm(Species ~ Morphospecies, data = df2)
+        model2 <- lm(Species ~ Genus, data = df2)
+        models <- list(Morphospecies = model1, Genus = model2)
+    } else {
+        ggfun(xvar = "Transects")
+        ggfun(xvar = "TransFocal") 
+        model1 <- lm(TransFocalObs ~ Transects, data = df2)
+        model2 <- lm(TransFocalObs ~ TransFocal, data = df2)
+        models <- list(Transects = model1, TransFocal = model2)
+        
+    }
+    
+    return(models)
 
-lapply(metrics, compar.plot)
+}
 
 ```
 
-
-## MODELS
 
 ```{r}
-summary(comparison)
+sampling.results <- lapply(metrics, compare_methods, df = sampling.comparison, taxa = FALSE)
+names(sampling.results) <- metrics
+
+library(broom)
+lapply(unlist(sampling.results, recursive = FALSE, use.names = TRUE), tidy)
+lapply(unlist(sampling.results, recursive = FALSE, use.names = TRUE), glance)
 ```
 
-```{r warning=FALSE, eval=FALSE}
-df = comparison
+```{r}
+taxa.results <- lapply(metrics, compare_methods, df = taxa.comparison, taxa = TRUE)
+names(taxa.results) <- metrics
 
-for (i in metrics) {
-    cat(i)
-    df2 <- df
-    names(df2)[names(df2) == i] <- "response"
-        m1 <- lme4::lmer(response ~ (1 + treatment | site) + treatment, data = df2)
-        summary(m1)
-        DHARMa::simulateResiduals(m1, plot = TRUE)
-        sjPlot::sjp.lmer(m1, type = "coef")
-        require(effects)
-        plot(allEffects(m1), ylab = i)
-
-}
-
-
-for (i in metrics) {
-    cat(i)
-    df2 <- df
-    names(df2)[names(df2) == i] <- "response"
-        m1 <- lm(response ~ site*treatment, data = df2)
-        summary(m1)
-        #DHARMa::simulateResiduals(m1, plot = TRUE)
-        #sjPlot::sjp.lmer(m1, type = "coef")
-        require(effects)
-        plot(allEffects(m1), ylab = i)
-
-}
-
-
-
-
+library(broom)
+lapply(unlist(taxa.results, recursive = FALSE, use.names = TRUE), tidy)
+lapply(unlist(taxa.results, recursive = FALSE, use.names = TRUE), glance)
 ```
+
+
+
 
