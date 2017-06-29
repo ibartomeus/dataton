@@ -1,0 +1,21 @@
+Specie,Kingdom,Role,Degree,Sum(connections strength),Networks presence
+"Apis mellifera","Animals","Pollinator",5,45.0000,108
+"Ceratina tabescens","Animals","Pollinator",2,13.0000,9
+"Cratopus aurostriatus","Animals","Pollinator",1,4.0000,25
+"Hemipyrellia germana","Animals","Pollinator",1,6.0000,33
+"Lasioglossum mahense","Animals","Pollinator",7,55.0000,47
+"Megachile seychellensis","Animals","Pollinator",3,6.0000,19
+"Neophyllomyza approximatonervis","Animals","Pollinator",2,3.0000,27
+"Ornidia obesa","Animals","Pollinator",1,4.0000,47
+"Pachycerina seychellensis","Animals","Pollinator",1,2.0000,11
+"Phelsuma sp1 M_PL_113","Animals","Pollinator",2,3.0000,1
+"Rhiparida seychellensis","Animals","Pollinator",2,53.0000,29
+"Simosyrphus aegyptius","Animals","Pollinator",2,2.0000,13
+"Unidentified sp1 M_PL_113","Animals","Pollinator",1,13.0000,1
+"Canthium bibracteatum","Plants","Plant",3,23.0000,20
+"Chrysobalanus icaco","Plants","Plant",2,17.0000,16
+"Deckenia nobilis","Plants","Plant",7,35.0000,6
+"Euphorbia pyrifolia","Plants","Plant",3,18.0000,1
+"Memecylon eleagni","Plants","Plant",3,4.0000,36
+"Nephrosperma vanhoutteanum","Plants","Plant",7,63.0000,38
+"Phoenicophorium borsigianum","Plants","Plant",5,49.0000,20

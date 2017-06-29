@@ -1,0 +1,66 @@
+Specie,Kingdom,Role,Degree,Sum(connections strength),Networks presence
+"Actea sp1 M_PL_013","Animals","Pollinator",1,1.0000,1
+"Apis mellifera","Animals","Pollinator",3,5.0000,108
+"Arge sp1 M_PL_013","Animals","Pollinator",1,1.0000,1
+"Aspilocoryphus fasciativentris","Animals","Pollinator",6,147.0000,1
+"Atrichelaphinis tigrina","Animals","Pollinator",5,72.0000,1
+"Cyrtothyrea marginalis","Animals","Pollinator",4,57.0000,1
+"Dacus sp1 M_PL_013","Animals","Pollinator",1,1.0000,1
+"Diptera sp1 M_PL_013","Animals","Pollinator",1,1.0000,1
+"Diptera sp2 M_PL_013","Animals","Pollinator",1,1.0000,1
+"Diptera sp3 M_PL_013","Animals","Pollinator",4,18.0000,1
+"Hemipepsis hilaris","Animals","Pollinator",6,91.0000,1
+"Homoecerus annulatus","Animals","Pollinator",1,1.0000,1
+"Microphthalma sp1 M_PL_013","Animals","Pollinator",1,1.0000,1
+"Microphthalma sp2 M_PL_013","Animals","Pollinator",1,1.0000,1
+"Musca domestica","Animals","Pollinator",2,5.0000,26
+"Sarcophaga sp1 M_PL_013","Animals","Pollinator",5,72.0000,1
+"Spilostethus rivularis","Animals","Pollinator",1,1.0000,1
+"Tiphia sp1 M_PL_013","Animals","Pollinator",1,1.0000,1
+"Unidentified sp1 M_PL_013","Animals","Pollinator",1,1.0000,1
+"Unidentified sp10 M_PL_013","Animals","Pollinator",2,2.0000,1
+"Unidentified sp11 M_PL_013","Animals","Pollinator",3,3.0000,1
+"Unidentified sp12 M_PL_013","Animals","Pollinator",1,3.0000,1
+"Unidentified sp13 M_PL_013","Animals","Pollinator",2,4.0000,1
+"Unidentified sp14 M_PL_013","Animals","Pollinator",1,1.0000,1
+"Unidentified sp15 M_PL_013","Animals","Pollinator",3,15.0000,1
+"Unidentified sp16 M_PL_013","Animals","Pollinator",1,2.0000,1
+"Unidentified sp17 M_PL_013","Animals","Pollinator",1,2.0000,1
+"Unidentified sp18 M_PL_013","Animals","Pollinator",1,1.0000,1
+"Unidentified sp19 M_PL_013","Animals","Pollinator",2,8.0000,1
+"Unidentified sp2 M_PL_013","Animals","Pollinator",1,2.0000,1
+"Unidentified sp20 M_PL_013","Animals","Pollinator",4,12.0000,1
+"Unidentified sp21 M_PL_013","Animals","Pollinator",1,1.0000,1
+"Unidentified sp22 M_PL_013","Animals","Pollinator",1,1.0000,1
+"Unidentified sp23 M_PL_013","Animals","Pollinator",1,1.0000,1
+"Unidentified sp24 M_PL_013","Animals","Pollinator",1,1.0000,1
+"Unidentified sp25 M_PL_013","Animals","Pollinator",2,8.0000,1
+"Unidentified sp26 M_PL_013","Animals","Pollinator",1,1.0000,1
+"Unidentified sp27 M_PL_013","Animals","Pollinator",1,1.0000,1
+"Unidentified sp28 M_PL_013","Animals","Pollinator",2,3.0000,1
+"Unidentified sp29 M_PL_013","Animals","Pollinator",1,1.0000,1
+"Unidentified sp3 M_PL_013","Animals","Pollinator",1,1.0000,1
+"Unidentified sp30 M_PL_013","Animals","Pollinator",2,2.0000,1
+"Unidentified sp31 M_PL_013","Animals","Pollinator",1,1.0000,1
+"Unidentified sp32 M_PL_013","Animals","Pollinator",1,1.0000,1
+"Unidentified sp33 M_PL_013","Animals","Pollinator",2,4.0000,1
+"Unidentified sp34 M_PL_013","Animals","Pollinator",1,1.0000,1
+"Unidentified sp35 M_PL_013","Animals","Pollinator",1,1.0000,1
+"Unidentified sp36 M_PL_013","Animals","Pollinator",1,1.0000,1
+"Unidentified sp37 M_PL_013","Animals","Pollinator",1,1.0000,1
+"Unidentified sp38 M_PL_013","Animals","Pollinator",1,2.0000,1
+"Unidentified sp4 M_PL_013","Animals","Pollinator",4,6.0000,1
+"Unidentified sp5 M_PL_013","Animals","Pollinator",2,2.0000,1
+"Unidentified sp6 M_PL_013","Animals","Pollinator",3,12.0000,1
+"Unidentified sp7 M_PL_013","Animals","Pollinator",1,2.0000,1
+"Unidentified sp8 M_PL_013","Animals","Pollinator",1,2.0000,1
+"Unidentified sp9 M_PL_013","Animals","Pollinator",1,4.0000,1
+"Asclepias cucullata","Plants","Plant",4,6.0000,1
+"Asclepias woodii","Plants","Plant",8,30.0000,1
+"Aspidonepsis diploglossa","Plants","Plant",7,10.0000,1
+"Miraglossum pilosum","Plants","Plant",1,9.0000,1
+"Miraglossum verticillare","Plants","Plant",8,30.0000,1
+"Pachycarpus natalensis","Plants","Plant",13,53.0000,1
+"Sisyranthus trichostomus","Plants","Plant",12,98.0000,1
+"Xysmalobium gerrardii","Plants","Plant",35,329.0000,1
+"Xysmalobium involucratum","Plants","Plant",15,29.0000,1

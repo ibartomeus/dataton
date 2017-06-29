@@ -1,0 +1,27 @@
+Specie,Kingdom,Role,Degree,Sum(connections strength),Networks presence
+"Apis mellifera","Animals","Pollinator",4,552.0000,108
+"Centris aenea","Animals","Pollinator",13,7072.0000,1
+"Centris caxiensis","Animals","Pollinator",10,5236.0000,1
+"Centris flavifrons","Animals","Pollinator",7,2260.0000,1
+"Centris fuscata","Animals","Pollinator",13,6396.0000,1
+"Centris obsoleta","Animals","Pollinator",1,912.0000,1
+"Centris sp1 M_PL_059","Animals","Pollinator",1,368.0000,1
+"Centris sp2 M_PL_059","Animals","Pollinator",1,368.0000,1
+"Centris tarsata","Animals","Pollinator",10,2368.0000,1
+"Centris trigonoides","Animals","Pollinator",4,1532.0000,1
+"Epicharis sp1 M_PL_059","Animals","Pollinator",4,836.0000,1
+"Xylocopa grisescens","Animals","Pollinator",1,84.0000,1
+"Xylocopa sp1 M_PL_059","Animals","Pollinator",2,240.0000,1
+"Banisteriopsis muricata","Plants","Plant",12,3972.0000,1
+"Banisteriopsis schizoptera","Plants","Plant",4,696.0000,1
+"Banisteriopsis stellaris","Plants","Plant",4,952.0000,1
+"Byrsonima gardnerana","Plants","Plant",6,4128.0000,1
+"Carolus chasei","Plants","Plant",4,1688.0000,1
+"Dicella bracteosa","Plants","Plant",5,2080.0000,1
+"Diplopterys pubipetala","Plants","Plant",9,5664.0000,1
+"Heteropterys sp1 M_PL_059","Plants","Plant",8,3088.0000,1
+"Heteropterys sp2 M_PL_059","Plants","Plant",7,2812.0000,1
+"Janusia anisandra","Plants","Plant",3,528.0000,1
+"Stigmaphyllon auriculatum","Plants","Plant",4,668.0000,1
+"Stigmaphyllon ciliatum","Plants","Plant",3,628.0000,1
+"Stigmaphyllon paralias","Plants","Plant",2,1320.0000,1

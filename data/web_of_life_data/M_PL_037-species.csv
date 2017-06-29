@@ -1,0 +1,51 @@
+Specie,Kingdom,Role,Degree,Sum(connections strength),Networks presence
+"Apocrita sp1 M_PL_037","Animals","Pollinator",3,3.0000,1
+"Bombus lapidarius","Animals","Pollinator",4,4.0000,9
+"Bombus lucorum","Animals","Pollinator",1,1.0000,7
+"Bombus pascuorum","Animals","Pollinator",4,4.0000,10
+"Bombus terrestris","Animals","Pollinator",2,2.0000,11
+"Ceuthorrhynchus assimilis ","Animals","Pollinator",1,1.0000,3
+"Chrysomela fastuosa","Animals","Pollinator",1,1.0000,2
+"Eoseristalis horticola","Animals","Pollinator",1,1.0000,2
+"Episyrphus balteatus","Animals","Pollinator",3,3.0000,17
+"Epuraea depressa Illiger","Animals","Pollinator",1,1.0000,3
+"Eumerus tuberculatus ","Animals","Pollinator",2,2.0000,4
+"Leptura rubra","Animals","Pollinator",1,1.0000,4
+"Melanostoma scalare","Animals","Pollinator",1,1.0000,12
+"Meligethes sp1 M_PL_037","Animals","Pollinator",7,7.0000,1
+"Mesapamea secalis","Animals","Pollinator",1,1.0000,2
+"Nemophora degeerella","Animals","Pollinator",1,1.0000,4
+"Olibrus aeneus ","Animals","Pollinator",2,2.0000,4
+"Pieris napi","Animals","Pollinator",1,1.0000,6
+"Psithyrus bohemicus","Animals","Pollinator",1,1.0000,2
+"Scaeva pyrastri","Animals","Pollinator",1,1.0000,5
+"Strangalia maculata","Animals","Pollinator",1,1.0000,3
+"Syrphus ribesii","Animals","Pollinator",1,1.0000,7
+"Syrphus vitripennis ","Animals","Pollinator",1,1.0000,8
+"Thymelicus sylvestris","Animals","Pollinator",2,2.0000,5
+"Unidentified sp1 M_PL_037","Animals","Pollinator",4,4.0000,1
+"Unidentified sp10 M_PL_037","Animals","Pollinator",1,1.0000,1
+"Unidentified sp11 M_PL_037","Animals","Pollinator",1,1.0000,1
+"Unidentified sp12 M_PL_037","Animals","Pollinator",1,1.0000,1
+"Unidentified sp13 M_PL_037","Animals","Pollinator",1,1.0000,1
+"Unidentified sp14 M_PL_037","Animals","Pollinator",1,1.0000,1
+"Unidentified sp15 M_PL_037","Animals","Pollinator",1,1.0000,1
+"Unidentified sp2 M_PL_037","Animals","Pollinator",4,4.0000,1
+"Unidentified sp3 M_PL_037","Animals","Pollinator",3,3.0000,1
+"Unidentified sp4 M_PL_037","Animals","Pollinator",3,3.0000,1
+"Unidentified sp5 M_PL_037","Animals","Pollinator",2,2.0000,1
+"Unidentified sp6 M_PL_037","Animals","Pollinator",2,2.0000,1
+"Unidentified sp7 M_PL_037","Animals","Pollinator",1,1.0000,1
+"Unidentified sp8 M_PL_037","Animals","Pollinator",1,1.0000,1
+"Unidentified sp9 M_PL_037","Animals","Pollinator",1,1.0000,1
+"Zygaena filipendulae ","Animals","Pollinator",1,1.0000,4
+"Allium scorodoprasum","Plants","Plant",5,5.0000,2
+"Calystegia sepium","Plants","Plant",5,5.0000,2
+"Cirsium arvense","Plants","Plant",17,17.0000,7
+"Eupatorium cannabinum","Plants","Plant",9,9.0000,3
+"Juncus effusus","Plants","Plant",6,6.0000,3
+"Lychnis flos-cuculi","Plants","Plant",6,6.0000,4
+"Silene dioica","Plants","Plant",1,1.0000,6
+"Sonchus arvensis","Plants","Plant",6,6.0000,2
+"Sonchus palustris","Plants","Plant",8,8.0000,2
+"Stachys palustris","Plants","Plant",9,9.0000,3

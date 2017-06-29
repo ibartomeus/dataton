@@ -1,0 +1,39 @@
+Specie,Kingdom,Role,Degree,Sum(connections strength),Networks presence
+"Apis mellifera","Animals","Pollinator",5,20.0000,108
+"Brachymyrmex sp1 M_PL_083","Animals","Pollinator",1,10.0000,1
+"Chaetocnema sp1 M_PL_083","Animals","Pollinator",3,7.0000,1
+"Chrysomya megacephala ","Animals","Pollinator",4,7.0000,25
+"Dysauxes florida","Animals","Pollinator",1,4.0000,15
+"Eristalinus flaveolus","Animals","Pollinator",1,3.0000,17
+"Fannia pusio ","Animals","Pollinator",1,1.0000,15
+"Macroglossum milvus","Animals","Pollinator",1,1.0000,7
+"Musca confiscata","Animals","Pollinator",1,1.0000,1
+"Musca domestica","Animals","Pollinator",4,13.0000,26
+"Nacoleia sp1 M_PL_083","Animals","Pollinator",1,2.0000,1
+"Ophyra capensis ","Animals","Pollinator",3,3.0000,7
+"Ornidia obesa","Animals","Pollinator",2,2.0000,47
+"Orthellia albigena ","Animals","Pollinator",2,4.0000,12
+"Paragus borbonicus","Animals","Pollinator",3,3.0000,15
+"Pheidole megacephala","Animals","Pollinator",1,3.0000,4
+"Phelsuma cepediana","Animals","Pollinator",1,1.0000,10
+"Polistes hebraeus","Animals","Pollinator",1,2.0000,18
+"Sapromyza sp1 M_PL_083","Animals","Pollinator",1,1.0000,1
+"Sarcophaga arno ","Animals","Pollinator",1,1.0000,12
+"Simulium sp1 M_PL_083","Animals","Pollinator",1,1.0000,1
+"Stomorhina lunata","Animals","Pollinator",2,2.0000,24
+"Syritta sp1 M_PL_083","Animals","Pollinator",1,1.0000,1
+"Technomyrmex albipes ","Animals","Pollinator",4,19.0000,25
+"Aphloia theiformis","Plants","Plant",6,12.0000,22
+"Badula insularis","Plants","Plant",2,9.0000,2
+"Calophyllum eputamen","Plants","Plant",2,9.0000,4
+"Croton grangeroides","Plants","Plant",6,12.0000,3
+"Diospyros revaughanii","Plants","Plant",3,7.0000,6
+"Embelia angustifolia","Plants","Plant",2,2.0000,3
+"Molinaea macrantha","Plants","Plant",1,4.0000,2
+"Phyllanthus phillyreifolius","Plants","Plant",3,12.0000,8
+"Psiadia terebinthina","Plants","Plant",2,11.0000,17
+"Psidium cattleianum","Plants","Plant",3,3.0000,12
+"Rubus alcefolius","Plants","Plant",2,4.0000,1
+"Stillingia lineata","Plants","Plant",7,15.0000,20
+"Syzygium petrinese","Plants","Plant",6,10.0000,5
+"Tabernaemontana persicarifolia","Plants","Plant",1,2.0000,5

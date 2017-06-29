@@ -1,0 +1,65 @@
+Specie,Kingdom,Role,Degree,Sum(connections strength),Networks presence
+"Amazilia versicolor","Animals","Pollinator",6,57.0000,5
+"Clytolaema rubricauda","Animals","Pollinator",18,590.0000,5
+"Eupetomena macroura","Animals","Pollinator",1,1.0000,2
+"Florisuga fusca","Animals","Pollinator",4,47.0000,1
+"Leucochloris albicollis","Animals","Pollinator",8,61.0000,2
+"Lophornis chalybeus","Animals","Pollinator",3,12.0000,1
+"Phaethornis eurynome","Animals","Pollinator",53,1157.0000,4
+"Stephanoxis lalandi","Animals","Pollinator",6,54.0000,2
+"Thalurania glaucopis","Animals","Pollinator",24,814.0000,5
+"Aechmea distichantha","Plants","Plant",3,37.0000,1
+"Aechmea gamosepala","Plants","Plant",4,121.0000,1
+"Aechmea nudicaulis","Plants","Plant",3,22.0000,2
+"Aechmea sp1 M_PL_063","Plants","Plant",2,36.0000,1
+"Aechmea vanhoutteana","Plants","Plant",2,227.0000,2
+"Alstroemeria inodora","Plants","Plant",3,50.0000,1
+"Aphelandra colorata","Plants","Plant",1,18.0000,1
+"Aphelandra longiflora","Plants","Plant",1,31.0000,1
+"Besleria longimucronata","Plants","Plant",2,28.0000,1
+"Billbergia amoena","Plants","Plant",1,36.0000,2
+"Callianthe rufinerva","Plants","Plant",3,83.0000,1
+"Canistrum perplexum","Plants","Plant",4,101.0000,1
+"Canna paniculata","Plants","Plant",1,65.0000,1
+"Centropogon cornutus","Plants","Plant",1,23.0000,1
+"Edmundoa lindenii","Plants","Plant",2,79.0000,1
+"Erythrina speciosa","Plants","Plant",6,346.0000,1
+"Fuchsia regia","Plants","Plant",3,26.0000,6
+"Inga sessilis","Plants","Plant",7,348.0000,2
+"Justicia sp1 M_PL_063","Plants","Plant",1,7.0000,1
+"Justicia sp2 M_PL_063","Plants","Plant",1,5.0000,1
+"Lantana camara","Plants","Plant",2,27.0000,8
+"Macrocarpaea rubra","Plants","Plant",6,78.0000,1
+"Manettia cordifolia","Plants","Plant",1,50.0000,1
+"Mendoncia velloziana","Plants","Plant",3,32.0000,2
+"Mutisia speciosa","Plants","Plant",2,76.0000,2
+"Nematanthus fluminensis","Plants","Plant",1,22.0000,1
+"Nematanthus fritschii","Plants","Plant",1,36.0000,1
+"Nematanthus gregarius","Plants","Plant",2,22.0000,1
+"Nematanthus sericeus","Plants","Plant",3,10.0000,1
+"Nematanthus sp1 M_PL_063","Plants","Plant",1,15.0000,1
+"Nidularium innocentii","Plants","Plant",2,38.0000,1
+"Nidularium longiflorum","Plants","Plant",1,11.0000,1
+"Nidularium procerum","Plants","Plant",1,31.0000,1
+"Nidularium rutilans","Plants","Plant",2,21.0000,1
+"Psittacanthus dichroos","Plants","Plant",6,67.0000,1
+"Psychotria leiocarpa","Plants","Plant",2,3.0000,2
+"Pyrostegia venusta","Plants","Plant",3,19.0000,2
+"Sinningia cooperi","Plants","Plant",1,35.0000,2
+"Sinningia elatior","Plants","Plant",2,16.0000,1
+"Sinningia glazioviana","Plants","Plant",1,4.0000,1
+"Siphocampylus convolvulaceus","Plants","Plant",2,23.0000,1
+"Siphocampylus lauroanus","Plants","Plant",1,4.0000,1
+"Siphocampylus longipedunculatus","Plants","Plant",1,7.0000,1
+"Spirotheca rivieri","Plants","Plant",4,185.0000,2
+"Tillandsia dura","Plants","Plant",1,1.0000,1
+"Tillandsia geminiflora","Plants","Plant",5,18.0000,1
+"Tillandsia sp1 M_PL_063","Plants","Plant",3,7.0000,1
+"Tillandsia stricta","Plants","Plant",4,6.0000,1
+"Vriesea carinata","Plants","Plant",1,16.0000,3
+"Vriesea erythrodactylon","Plants","Plant",1,17.0000,2
+"Vriesea incurvata","Plants","Plant",1,22.0000,3
+"Vriesea inflata","Plants","Plant",1,9.0000,1
+"Vriesea simplex","Plants","Plant",1,24.0000,1
+"Vriesea sp1 M_PL_063","Plants","Plant",1,20.0000,1
+"Wittrockia superba","Plants","Plant",2,132.0000,1

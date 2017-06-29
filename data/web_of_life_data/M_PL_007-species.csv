@@ -1,0 +1,53 @@
+Specie,Kingdom,Role,Degree,Sum(connections strength),Networks presence
+"Andrena chrysosceles","Animals","Pollinator",1,2.0000,1
+"Andrena pubescens","Animals","Pollinator",1,1.0000,2
+"Anthophora plumipes","Animals","Pollinator",1,5.0000,1
+"Apis mellifera","Animals","Pollinator",1,14.0000,108
+"Bombus hortorum","Animals","Pollinator",1,1.0000,7
+"Bombus lapidarius","Animals","Pollinator",10,528.0000,9
+"Bombus pascuorum","Animals","Pollinator",7,48.0000,10
+"Bombus pratorum","Animals","Pollinator",3,17.0000,7
+"Bombus terrestris/lucorum","Animals","Pollinator",3,14.0000,2
+"Calocoris bipunctatus","Animals","Pollinator",2,37.0000,1
+"Cephus pygmaeus","Animals","Pollinator",1,1.0000,1
+"Cheilosia bergenstammi","Animals","Pollinator",1,4.0000,2
+"Empis livida","Animals","Pollinator",3,32.0000,2
+"Episyrphus balteatus","Animals","Pollinator",5,21.0000,17
+"Eriothrix rufomaculatus","Animals","Pollinator",1,3.0000,3
+"Eristalis intricarius","Animals","Pollinator",1,1.0000,2
+"Eristalis nemorum","Animals","Pollinator",1,3.0000,2
+"Eristalis tenax","Animals","Pollinator",3,13.0000,20
+"Helophilus sp1 M_PL_007","Animals","Pollinator",3,13.0000,1
+"Lasioglossum calceatum","Animals","Pollinator",1,1.0000,3
+"Lasioglossum villosulum","Animals","Pollinator",1,1.0000,6
+"Lucillia sp1 M_PL_007","Animals","Pollinator",1,4.0000,1
+"Lycaena phlaeas ","Animals","Pollinator",1,1.0000,8
+"Maniola jurtina","Animals","Pollinator",4,148.0000,10
+"Melanostoma sp1 M_PL_007","Animals","Pollinator",3,4.0000,1
+"Meliscaeva sp1 M_PL_007","Animals","Pollinator",2,3.0000,1
+"Panameria tenebrata","Animals","Pollinator",1,1.0000,1
+"Platycheirus sp1 M_PL_007","Animals","Pollinator",3,4.0000,1
+"Pollenia sp1 M_PL_007","Animals","Pollinator",1,2.0000,1
+"Psithyrus vest","Animals","Pollinator",3,23.0000,2
+"Sarcophagus sp1 M_PL_007","Animals","Pollinator",1,1.0000,1
+"Scathophaga stercoraria","Animals","Pollinator",3,8.0000,2
+"Sphaerophoria sp1 M_PL_007","Animals","Pollinator",5,7.0000,1
+"Syrphus sp1 M_PL_007","Animals","Pollinator",4,12.0000,1
+"Tropidia scitta","Animals","Pollinator",1,1.0000,2
+"Volucella bombylans","Animals","Pollinator",1,1.0000,3
+"Centaurea nigra","Plants","Plant",15,726.0000,3
+"Cerastium fontanum","Plants","Plant",1,1.0000,2
+"Cirsium arvense","Plants","Plant",5,13.0000,7
+"Cirsium palustre","Plants","Plant",4,23.0000,1
+"Filipendula ulmaria","Plants","Plant",7,12.0000,2
+"Galium verum","Plants","Plant",2,8.0000,2
+"Hypochoeris radicata","Plants","Plant",4,8.0000,6
+"Lathyrus pratensis","Plants","Plant",1,4.0000,5
+"Leucanthemum vulgare","Plants","Plant",21,146.0000,3
+"Lotus corniculatus","Plants","Plant",2,5.0000,4
+"Orchis morio","Plants","Plant",3,3.0000,1
+"Primula veris","Plants","Plant",4,8.0000,1
+"Ranunculus acris","Plants","Plant",11,17.0000,3
+"Taraxacum officinale","Plants","Plant",3,3.0000,6
+"Trifolium dubium","Plants","Plant",1,1.0000,4
+"Trifolium repens","Plants","Plant",1,2.0000,11

@@ -1,0 +1,23 @@
+Specie,Kingdom,Role,Degree,Sum(connections strength),Networks presence
+"Amazilia fimbriata","Animals","Pollinator",1,1.0000,2
+"Amazilia lactea","Animals","Pollinator",1,1.0000,1
+"Calliphlox amethystina","Animals","Pollinator",2,5.0000,2
+"Chlorostilbon aureoventris","Animals","Pollinator",3,5.0000,1
+"Phaethornis pretrei","Animals","Pollinator",2,2.0000,1
+"Phaethornis ruber","Animals","Pollinator",10,47.0000,2
+"Phaethornis squalidus","Animals","Pollinator",9,55.0000,2
+"Thalurania glucopis","Animals","Pollinator",4,62.0000,1
+"Corymborkis flava","Plants","Plant",2,8.0000,1
+"Fridericia speciosa","Plants","Plant",3,9.0000,1
+"Geissomeria schottiana","Plants","Plant",5,54.0000,1
+"Heliconia simulans","Plants","Plant",3,8.0000,1
+"Hyptis asperrima","Plants","Plant",2,2.0000,1
+"Justicia scheidweileri","Plants","Plant",3,33.0000,1
+"Lantana camara","Plants","Plant",2,5.0000,8
+"Mendoncia velloziana","Plants","Plant",3,10.0000,2
+"Mutisia speciosa","Plants","Plant",1,7.0000,2
+"Passiflora kermesina","Plants","Plant",1,4.0000,1
+"Passiflora speciosa","Plants","Plant",1,11.0000,1
+"Rubus rosaefolius","Plants","Plant",2,5.0000,2
+"Ruellia brevifolia","Plants","Plant",3,20.0000,1
+"Ruellia subsessilis","Plants","Plant",1,2.0000,1

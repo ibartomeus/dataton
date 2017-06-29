@@ -1,0 +1,69 @@
+Specie,Kingdom,Role,Degree,Sum(connections strength),Networks presence
+"Amegilla canifrons","Animals","Pollinator",5,5.0000,2
+"Amegilla quadrifasciata","Animals","Pollinator",3,3.0000,4
+"Amegilla sp1 M_PL_058","Animals","Pollinator",8,8.0000,1
+"Andrena vucana","Animals","Pollinator",1,1.0000,1
+"Anthophora alluardii","Animals","Pollinator",6,6.0000,2
+"Anthophora orotavae","Animals","Pollinator",5,5.0000,2
+"Apis mellifera","Animals","Pollinator",6,6.0000,108
+"Camponotus rufoglaucus","Animals","Pollinator",1,1.0000,2
+"Cyclyrius webbianus","Animals","Pollinator",1,1.0000,3
+"Eucera gracilipes","Animals","Pollinator",13,13.0000,3
+"Hylaeus sp1 M_PL_058","Animals","Pollinator",2,2.0000,1
+"Lasioglossum evylaeus","Animals","Pollinator",13,13.0000,2
+"Lucilia sp1 M_PL_058","Animals","Pollinator",3,3.0000,1
+"Macroglossum stellatarum","Animals","Pollinator",1,1.0000,6
+"Sphecodes marginatus ","Animals","Pollinator",1,1.0000,3
+"Tachina canariensis","Animals","Pollinator",1,1.0000,3
+"Thysanoptera sp1 M_PL_058","Animals","Pollinator",1,1.0000,1
+"Unidentified sp1 M_PL_058","Animals","Pollinator",5,5.0000,1
+"Unidentified sp10 M_PL_058","Animals","Pollinator",2,2.0000,1
+"Unidentified sp11 M_PL_058","Animals","Pollinator",2,2.0000,1
+"Unidentified sp12 M_PL_058","Animals","Pollinator",2,2.0000,1
+"Unidentified sp13 M_PL_058","Animals","Pollinator",2,2.0000,1
+"Unidentified sp14 M_PL_058","Animals","Pollinator",2,2.0000,1
+"Unidentified sp15 M_PL_058","Animals","Pollinator",1,1.0000,1
+"Unidentified sp16 M_PL_058","Animals","Pollinator",1,1.0000,1
+"Unidentified sp17 M_PL_058","Animals","Pollinator",1,1.0000,1
+"Unidentified sp18 M_PL_058","Animals","Pollinator",1,1.0000,1
+"Unidentified sp19 M_PL_058","Animals","Pollinator",1,1.0000,1
+"Unidentified sp2 M_PL_058","Animals","Pollinator",4,4.0000,1
+"Unidentified sp20 M_PL_058","Animals","Pollinator",1,1.0000,1
+"Unidentified sp21 M_PL_058","Animals","Pollinator",1,1.0000,1
+"Unidentified sp22 M_PL_058","Animals","Pollinator",1,1.0000,1
+"Unidentified sp23 M_PL_058","Animals","Pollinator",1,1.0000,1
+"Unidentified sp24 M_PL_058","Animals","Pollinator",1,1.0000,1
+"Unidentified sp25 M_PL_058","Animals","Pollinator",1,1.0000,1
+"Unidentified sp26 M_PL_058","Animals","Pollinator",1,1.0000,1
+"Unidentified sp27 M_PL_058","Animals","Pollinator",1,1.0000,1
+"Unidentified sp28 M_PL_058","Animals","Pollinator",1,1.0000,1
+"Unidentified sp29 M_PL_058","Animals","Pollinator",1,1.0000,1
+"Unidentified sp3 M_PL_058","Animals","Pollinator",4,4.0000,1
+"Unidentified sp30 M_PL_058","Animals","Pollinator",1,1.0000,1
+"Unidentified sp31 M_PL_058","Animals","Pollinator",1,1.0000,1
+"Unidentified sp32 M_PL_058","Animals","Pollinator",1,1.0000,1
+"Unidentified sp33 M_PL_058","Animals","Pollinator",1,1.0000,1
+"Unidentified sp34 M_PL_058","Animals","Pollinator",1,1.0000,1
+"Unidentified sp4 M_PL_058","Animals","Pollinator",3,3.0000,1
+"Unidentified sp5 M_PL_058","Animals","Pollinator",3,3.0000,1
+"Unidentified sp6 M_PL_058","Animals","Pollinator",3,3.0000,1
+"Unidentified sp7 M_PL_058","Animals","Pollinator",2,2.0000,1
+"Unidentified sp8 M_PL_058","Animals","Pollinator",2,2.0000,1
+"Unidentified sp9 M_PL_058","Animals","Pollinator",2,2.0000,1
+"Argyranthemum frutescens","Plants","Plant",14,14.0000,1
+"Bituminaria bituminosa","Plants","Plant",6,6.0000,1
+"Ceballosia fruticosa","Plants","Plant",3,3.0000,2
+"Convolvulus floridus","Plants","Plant",12,12.0000,1
+"Echium aculeatum","Plants","Plant",5,5.0000,2
+"Echium plantagineum","Plants","Plant",6,6.0000,2
+"Euphorbia canariensis","Plants","Plant",12,12.0000,2
+"Euphorbia obtusifolia","Plants","Plant",17,17.0000,2
+"Fagonia albiflora","Plants","Plant",2,2.0000,2
+"Galactites tomentosa","Plants","Plant",10,10.0000,3
+"Lavandula buchii","Plants","Plant",12,12.0000,2
+"Lotus glaucus","Plants","Plant",5,5.0000,1
+"Oxalis pes-caprae","Plants","Plant",5,5.0000,2
+"Plocama pendula","Plants","Plant",9,9.0000,2
+"Scandix pecten-veneris","Plants","Plant",4,4.0000,1
+"Sideritis argosphacelus","Plants","Plant",4,4.0000,1
+"Sideritis nervosa","Plants","Plant",3,3.0000,1

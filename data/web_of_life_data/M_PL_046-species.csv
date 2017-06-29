@@ -1,0 +1,61 @@
+Specie,Kingdom,Role,Degree,Sum(connections strength),Networks presence
+"Andreana sp1 M_PL_046","Animals","Pollinator",4,4.0000,1
+"Apis mellifera","Animals","Pollinator",5,5.0000,108
+"Asilus sp1 M_PL_046","Animals","Pollinator",5,5.0000,1
+"Bombus lapidarius","Animals","Pollinator",6,6.0000,9
+"Bombus pascuorum","Animals","Pollinator",9,9.0000,10
+"Bombus terrestris","Animals","Pollinator",9,9.0000,11
+"Cetonia aurata","Animals","Pollinator",4,4.0000,2
+"Colias croceus","Animals","Pollinator",4,4.0000,2
+"Ichneumonidae 1","Animals","Pollinator",1,1.0000,1
+"Inachis io","Animals","Pollinator",1,1.0000,5
+"Lucilia sp1 M_PL_046","Animals","Pollinator",10,10.0000,1
+"Meligethes sp1 M_PL_046","Animals","Pollinator",16,16.0000,1
+"Meligethes sp2 M_PL_046","Animals","Pollinator",7,7.0000,1
+"Musca sp1 M_PL_046","Animals","Pollinator",14,14.0000,1
+"Pararge aegeria","Animals","Pollinator",1,1.0000,1
+"Pieris sp1 M_PL_046","Animals","Pollinator",9,9.0000,1
+"Rhynconycha sp1 M_PL_046","Animals","Pollinator",3,3.0000,1
+"Unidentified sp1 M_PL_046","Animals","Pollinator",15,15.0000,1
+"Unidentified sp10 M_PL_046","Animals","Pollinator",7,7.0000,1
+"Unidentified sp11 M_PL_046","Animals","Pollinator",7,7.0000,1
+"Unidentified sp12 M_PL_046","Animals","Pollinator",7,7.0000,1
+"Unidentified sp13 M_PL_046","Animals","Pollinator",6,6.0000,1
+"Unidentified sp14 M_PL_046","Animals","Pollinator",6,6.0000,1
+"Unidentified sp15 M_PL_046","Animals","Pollinator",6,6.0000,1
+"Unidentified sp16 M_PL_046","Animals","Pollinator",6,6.0000,1
+"Unidentified sp17 M_PL_046","Animals","Pollinator",6,6.0000,1
+"Unidentified sp18 M_PL_046","Animals","Pollinator",4,4.0000,1
+"Unidentified sp19 M_PL_046","Animals","Pollinator",2,2.0000,1
+"Unidentified sp2 M_PL_046","Animals","Pollinator",15,15.0000,1
+"Unidentified sp20 M_PL_046","Animals","Pollinator",2,2.0000,1
+"Unidentified sp21 M_PL_046","Animals","Pollinator",2,2.0000,1
+"Unidentified sp22 M_PL_046","Animals","Pollinator",2,2.0000,1
+"Unidentified sp23 M_PL_046","Animals","Pollinator",1,1.0000,1
+"Unidentified sp24 M_PL_046","Animals","Pollinator",1,1.0000,1
+"Unidentified sp25 M_PL_046","Animals","Pollinator",1,1.0000,1
+"Unidentified sp26 M_PL_046","Animals","Pollinator",1,1.0000,1
+"Unidentified sp3 M_PL_046","Animals","Pollinator",14,14.0000,1
+"Unidentified sp4 M_PL_046","Animals","Pollinator",12,12.0000,1
+"Unidentified sp5 M_PL_046","Animals","Pollinator",11,11.0000,1
+"Unidentified sp6 M_PL_046","Animals","Pollinator",10,10.0000,1
+"Unidentified sp7 M_PL_046","Animals","Pollinator",9,9.0000,1
+"Unidentified sp8 M_PL_046","Animals","Pollinator",8,8.0000,1
+"Unidentified sp9 M_PL_046","Animals","Pollinator",7,7.0000,1
+"Vespula sp1 M_PL_046","Animals","Pollinator",2,2.0000,1
+"Angelica archangelica","Plants","Plant",27,27.0000,1
+"Anthriscus sylvestris","Plants","Plant",25,25.0000,2
+"Chamaenerium angustifolium","Plants","Plant",18,18.0000,2
+"Cirsium arvense","Plants","Plant",30,30.0000,7
+"Cirsium pratensis","Plants","Plant",18,18.0000,1
+"Epilobium hirsutum","Plants","Plant",25,25.0000,1
+"Lathyrus pratensis","Plants","Plant",20,20.0000,5
+"Ranunculus sp1 M_PL_046","Plants","Plant",7,7.0000,1
+"Rubus fruticosus","Plants","Plant",15,15.0000,3
+"Silene dioica","Plants","Plant",4,4.0000,6
+"Stachys sylvatica","Plants","Plant",10,10.0000,4
+"Torilis japonica","Plants","Plant",11,11.0000,4
+"Trfolium sp1 M_PL_046","Plants","Plant",13,13.0000,1
+"Trifolium arvense","Plants","Plant",12,12.0000,1
+"Umbellifer sp1 M_PL_046","Plants","Plant",23,23.0000,1
+"Unidentified sp27 M_PL_046","Plants","Plant",20,20.0000,1

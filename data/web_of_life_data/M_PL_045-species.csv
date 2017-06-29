@@ -1,0 +1,44 @@
+Specie,Kingdom,Role,Degree,Sum(connections strength),Networks presence
+"Acarina sp1 M_PL_045","Animals","Pollinator",1,10.0000,1
+"Coccinella transversoguttata","Animals","Pollinator",1,1.0000,1
+"Delia sp1 M_PL_045","Animals","Pollinator",1,2.0000,1
+"Dolichopus sp1 M_PL_045","Animals","Pollinator",2,4.0000,1
+"Eupeodes curtus","Animals","Pollinator",5,6.0000,3
+"Eupeodes luniger","Animals","Pollinator",1,1.0000,2
+"Lasiomma sp1 M_PL_045","Animals","Pollinator",1,1.0000,1
+"Nysius groenlandicus","Animals","Pollinator",5,12.0000,3
+"Pegomya sp1 M_PL_045","Animals","Pollinator",2,2.0000,1
+"Platycheirus groenlandicus","Animals","Pollinator",1,1.0000,1
+"Platycheirus hyperboreus","Animals","Pollinator",2,3.0000,2
+"Platycheirus lundbecki","Animals","Pollinator",2,3.0000,3
+"Protophormia terranovae","Animals","Pollinator",1,1.0000,1
+"Sphaerophoria scripta","Animals","Pollinator",2,2.0000,10
+"Spilogona sp1 M_PL_045","Animals","Pollinator",3,4.0000,1
+"Sympsitis zetterstedtii","Animals","Pollinator",1,1.0000,1
+"Thysanoptera sp1 M_PL_045","Animals","Pollinator",5,9.0000,1
+"Unidentified sp1 M_PL_045","Animals","Pollinator",8,61.0000,1
+"Unidentified sp2 M_PL_045","Animals","Pollinator",8,10.0000,1
+"Unidentified sp3 M_PL_045","Animals","Pollinator",4,8.0000,1
+"Unidentified sp4 M_PL_045","Animals","Pollinator",2,2.0000,1
+"Unidentified sp5 M_PL_045","Animals","Pollinator",1,1.0000,1
+"Unidentified sp6 M_PL_045","Animals","Pollinator",1,1.0000,1
+"Unidentified sp7 M_PL_045","Animals","Pollinator",1,1.0000,1
+"Unidentified sp8 M_PL_045","Animals","Pollinator",1,1.0000,1
+"Unidentified sp9 M_PL_045","Animals","Pollinator",1,1.0000,1
+"Campanula gieseckiana","Plants","Plant",9,19.0000,2
+"Cassiope tetragona","Plants","Plant",1,1.0000,5
+"Cerastium alpinum","Plants","Plant",3,3.0000,6
+"Dryas integrifolia","Plants","Plant",14,28.0000,4
+"Epilobium latifolium","Plants","Plant",1,2.0000,3
+"Ledum palustre","Plants","Plant",6,12.0000,2
+"Pedicularis flammea","Plants","Plant",1,1.0000,2
+"Polygonum viviparum","Plants","Plant",5,9.0000,6
+"Potentilla rubricaulis","Plants","Plant",1,1.0000,2
+"Pyrola grandiflora","Plants","Plant",1,1.0000,2
+"Rhododendron lapponicum","Plants","Plant",2,4.0000,4
+"Salix sp1 M_PL_045","Plants","Plant",4,4.0000,1
+"Saxifraga caespitosa","Plants","Plant",1,1.0000,2
+"Saxifraga tricuspidata","Plants","Plant",6,53.0000,2
+"Silene acaulis","Plants","Plant",5,6.0000,4
+"Vaccinium uliginosum","Plants","Plant",2,2.0000,5
+"Viscaria alpina","Plants","Plant",1,2.0000,1

@@ -1,0 +1,25 @@
+Specie,Kingdom,Role,Degree,Sum(connections strength),Networks presence
+"Amazilia fimbriata","Animals","Pollinator",2,20.0000,2
+"Amazilia versicolor","Animals","Pollinator",2,3.0000,5
+"Clytolaema rubricauda","Animals","Pollinator",4,219.0000,5
+"Phaethornis eurynome","Animals","Pollinator",9,140.0000,4
+"Ramphodon naevius","Animals","Pollinator",2,2.0000,1
+"Thalurania glaucopis","Animals","Pollinator",10,178.0000,5
+"Aechmea blumenavii","Plants","Plant",2,8.0000,1
+"Billbergia amoena","Plants","Plant",1,6.0000,2
+"Fuchsia regia","Plants","Plant",2,271.0000,6
+"Hedychium coronarium","Plants","Plant",1,2.0000,2
+"Heliconia farinosa","Plants","Plant",2,34.0000,2
+"Hippeastrum aulicum","Plants","Plant",2,35.0000,2
+"Ipomea sp1 M_PL_069_01","Plants","Plant",3,15.0000,1
+"Justicia brasiliana","Plants","Plant",1,71.0000,1
+"Justicia carnea","Plants","Plant",2,5.0000,2
+"Nematanthus australis","Plants","Plant",2,32.0000,3
+"Nidularium inocentii","Plants","Plant",1,17.0000,3
+"Psychotria suterella","Plants","Plant",1,32.0000,2
+"Sinningia douglasii","Plants","Plant",2,15.0000,1
+"Tillandsia sp1 M_PL_069_01","Plants","Plant",1,5.0000,1
+"Vriesea carinata","Plants","Plant",1,3.0000,3
+"Vriesea erythrodactylon","Plants","Plant",1,1.0000,2
+"Vriesea incurvata","Plants","Plant",1,1.0000,3
+"Vriesea vagans","Plants","Plant",3,9.0000,1

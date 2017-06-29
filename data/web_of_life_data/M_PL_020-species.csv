@@ -1,0 +1,112 @@
+Specie,Kingdom,Role,Degree,Sum(connections strength),Networks presence
+"Acarina sp1 M_PL_020","Animals","Pollinator",1,1.0000,1
+"Aedes impiger","Animals","Pollinator",1,1.0000,4
+"Aedes nigripes","Animals","Pollinator",1,1.0000,4
+"Aedes sp1 M_PL_020","Animals","Pollinator",2,2.0000,1
+"Allopiophila fulviceps","Animals","Pollinator",1,1.0000,1
+"Anarta richardsoni","Animals","Pollinator",3,3.0000,3
+"Apanteles sp1 M_PL_020","Animals","Pollinator",1,1.0000,1
+"Arctoseius cetratus","Animals","Pollinator",1,1.0000,1
+"Atractodes sp1 M_PL_020","Animals","Pollinator",1,1.0000,1
+"Boloria chariclea","Animals","Pollinator",3,3.0000,1
+"Boloria polaris","Animals","Pollinator",3,3.0000,1
+"Bombus sp1 M_PL_020","Animals","Pollinator",7,7.0000,1
+"Boreellus atriceps","Animals","Pollinator",5,5.0000,3
+"Bryobia praetiosa","Animals","Pollinator",3,3.0000,1
+"Calliphoridae sp1 M_PL_020","Animals","Pollinator",2,2.0000,1
+"Carposcalis carinata","Animals","Pollinator",7,7.0000,2
+"Cecidophyes sp1 M_PL_020","Animals","Pollinator",1,1.0000,1
+"Ceratopogon sp1 M_PL_020","Animals","Pollinator",2,2.0000,1
+"Ceratopogon sp2 M_PL_020","Animals","Pollinator",1,1.0000,1
+"Chalcidae sp1 M_PL_020","Animals","Pollinator",1,1.0000,1
+"Colias hecla","Animals","Pollinator",3,3.0000,5
+"Corynoneura scutellata","Animals","Pollinator",1,1.0000,3
+"Cricotopus sp1 M_PL_020","Animals","Pollinator",1,1.0000,1
+"Crymodes exulis","Animals","Pollinator",3,3.0000,2
+"Cryptus arcticus","Animals","Pollinator",1,1.0000,2
+"Culicoides sp1 M_PL_020","Animals","Pollinator",1,1.0000,1
+"Dictyna borealis","Animals","Pollinator",4,4.0000,1
+"Dolichopus dasyops","Animals","Pollinator",1,1.0000,2
+"Entomobrya comparata","Animals","Pollinator",1,1.0000,1
+"Erigone pyschrophila","Animals","Pollinator",1,1.0000,1
+"Eupogonomyia groenlandica","Animals","Pollinator",4,4.0000,2
+"Forcipomyia sp1 M_PL_020","Animals","Pollinator",1,1.0000,1
+"Fucellia pictipennis","Animals","Pollinator",2,2.0000,2
+"Helophilus borealis","Animals","Pollinator",1,1.0000,3
+"Ichneumonidae sp1 M_PL_020","Animals","Pollinator",1,1.0000,1
+"Lasiestra leucocycla","Animals","Pollinator",3,3.0000,3
+"Lasiopiophila pilosa","Animals","Pollinator",1,1.0000,2
+"Limnophyes sp1 M_PL_020","Animals","Pollinator",7,7.0000,1
+"Lycaena feildeni","Animals","Pollinator",2,2.0000,1
+"Metasyrphus chillcotti","Animals","Pollinator",3,3.0000,1
+"Microspectra sp1 M_PL_020","Animals","Pollinator",1,1.0000,1
+"Microspectra sp2 M_PL_020","Animals","Pollinator",1,1.0000,1
+"Nematus sp1 M_PL_020","Animals","Pollinator",2,2.0000,1
+"Olethreutes inquietana","Animals","Pollinator",2,2.0000,2
+"Oresbius sp1 M_PL_020","Animals","Pollinator",1,1.0000,1
+"Orthocladiinae sp1 M_PL_020","Animals","Pollinator",1,1.0000,1
+"Paraphaenocladius despectus","Animals","Pollinator",3,3.0000,2
+"Pardosa glacialis","Animals","Pollinator",1,1.0000,1
+"Pectinarctica stylata","Animals","Pollinator",1,1.0000,1
+"Pegomyia sp1 M_PL_020","Animals","Pollinator",1,1.0000,1
+"Peleteria aenea","Animals","Pollinator",5,5.0000,2
+"Periscepsia sp1 M_PL_020","Animals","Pollinator",3,3.0000,1
+"Phalacrodira nigropilosa","Animals","Pollinator",2,2.0000,1
+"Phormia terraenovae","Animals","Pollinator",1,1.0000,2
+"Phytomyza erigerontophaga","Animals","Pollinator",1,1.0000,1
+"Plebius aquilo","Animals","Pollinator",2,2.0000,1
+"Pogonomyoides segnis","Animals","Pollinator",2,2.0000,2
+"Procladius sp1 M_PL_020","Animals","Pollinator",1,1.0000,1
+"Psectrocladius sp1 M_PL_020","Animals","Pollinator",1,1.0000,1
+"Rhamphomyia filicauda","Animals","Pollinator",6,6.0000,2
+"Rhamphomyia hoeli","Animals","Pollinator",2,2.0000,1
+"Rhamphomyia sp1 M_PL_020","Animals","Pollinator",3,3.0000,1
+"Rhamphomyia sp2 M_PL_020","Animals","Pollinator",2,2.0000,1
+"Rhamphomyia ursinella","Animals","Pollinator",1,1.0000,1
+"Saotis sp1 M_PL_020","Animals","Pollinator",1,1.0000,1
+"Scatophaga apicaulis","Animals","Pollinator",3,3.0000,1
+"Scatophaga multisetosa","Animals","Pollinator",1,1.0000,1
+"Scatophaga sp1 M_PL_020","Animals","Pollinator",1,1.0000,1
+"Sciari sp1 M_PL_020","Animals","Pollinator",6,6.0000,1
+"Smittia sp1 M_PL_020","Animals","Pollinator",6,6.0000,1
+"Smittia velutina","Animals","Pollinator",5,5.0000,1
+"Spilogona denudata","Animals","Pollinator",1,1.0000,2
+"Spilogona dorsata","Animals","Pollinator",2,2.0000,4
+"Spilogona extensa","Animals","Pollinator",1,1.0000,2
+"Spilogona melanosoma","Animals","Pollinator",1,1.0000,4
+"Spilogona obsoleta","Animals","Pollinator",1,1.0000,2
+"Spilogona sanctipauli","Animals","Pollinator",2,2.0000,4
+"Spilogona tornensis","Animals","Pollinator",1,1.0000,2
+"Spilogona tundrae","Animals","Pollinator",1,1.0000,3
+"Stenomacrus sp1 M_PL_020","Animals","Pollinator",3,3.0000,1
+"Sympistris labradoris","Animals","Pollinator",1,1.0000,2
+"Tachinidae sp1 M_PL_020","Animals","Pollinator",3,3.0000,1
+"Tarentula exasperans","Animals","Pollinator",1,1.0000,1
+"Tipula arctica","Animals","Pollinator",1,1.0000,2
+"Tridymus sp1 M_PL_020","Animals","Pollinator",1,1.0000,1
+"Unidentified sp1 M_PL_020","Animals","Pollinator",2,2.0000,1
+"Unidentified sp2 M_PL_020","Animals","Pollinator",2,2.0000,1
+"Unidentified sp3 M_PL_020","Animals","Pollinator",2,2.0000,1
+"Unidentified sp4 M_PL_020","Animals","Pollinator",1,1.0000,1
+"Unidentified sp5 M_PL_020","Animals","Pollinator",1,1.0000,1
+"Xysticus deichmanni","Animals","Pollinator",4,4.0000,1
+"Arnica alpina","Plants","Plant",7,7.0000,2
+"Cassiope tetragona","Plants","Plant",1,1.0000,5
+"Cerastium alpinum","Plants","Plant",1,1.0000,6
+"Draba sp1 M_PL_020","Plants","Plant",1,1.0000,1
+"Dryas integrifolia","Plants","Plant",60,60.0000,4
+"Erigeron compositus","Plants","Plant",1,1.0000,2
+"Erigeron eriocephalus","Plants","Plant",1,1.0000,1
+"Erysimum pallasii","Plants","Plant",2,2.0000,1
+"Lesquerella arctica","Plants","Plant",9,9.0000,3
+"Papaver radicatum","Plants","Plant",11,11.0000,4
+"Pedicularis arctica","Plants","Plant",10,10.0000,1
+"Pedicularis capitata","Plants","Plant",1,1.0000,2
+"Polygonum viviparum","Plants","Plant",9,9.0000,6
+"Potentilla nivea","Plants","Plant",12,12.0000,1
+"Ranumculus sulphureus","Plants","Plant",1,1.0000,1
+"Salix arctica","Plants","Plant",27,27.0000,2
+"Saxifraga hirculus","Plants","Plant",2,2.0000,3
+"Saxifraga oppositifolia","Plants","Plant",24,24.0000,4
+"Stellaria longipes","Plants","Plant",4,4.0000,2
+"Taraxacum arctogenum","Plants","Plant",6,6.0000,1

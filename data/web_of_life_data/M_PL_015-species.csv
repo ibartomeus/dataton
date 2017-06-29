@@ -1,0 +1,798 @@
+Specie,Kingdom,Role,Degree,Sum(connections strength),Networks presence
+"Acmaeodera bipunctata ","Animals","Pollinator",4,4.0000,1
+"Acmaeodera boryi ","Animals","Pollinator",1,1.0000,1
+"Acmaeodera brevipes ","Animals","Pollinator",4,4.0000,1
+"Actinoptera mamulae","Animals","Pollinator",2,2.0000,1
+"Adela ausralis","Animals","Pollinator",4,4.0000,1
+"Adia cinerella ","Animals","Pollinator",3,3.0000,2
+"Agrilus viridis ","Animals","Pollinator",1,1.0000,1
+"Alophora pusilla","Animals","Pollinator",1,1.0000,1
+"Amasis lateralis","Animals","Pollinator",2,2.0000,1
+"Amasis similis","Animals","Pollinator",2,2.0000,1
+"Amblyteles armatorius","Animals","Pollinator",1,1.0000,1
+"Amegilla albigena","Animals","Pollinator",14,14.0000,1
+"Amegilla quadrifasciata","Animals","Pollinator",7,7.0000,4
+"Amictus pictus ","Animals","Pollinator",2,2.0000,1
+"Amictus validus ","Animals","Pollinator",6,6.0000,1
+"Ammatomus rogenhoferi","Animals","Pollinator",1,1.0000,1
+"Ammobates oraniensis","Animals","Pollinator",2,2.0000,1
+"Ammophila heydeni","Animals","Pollinator",6,6.0000,2
+"Amphicoma apicalis","Animals","Pollinator",5,5.0000,1
+"Amphicoma distincta","Animals","Pollinator",14,14.0000,1
+"Amphicoma lasserei ","Animals","Pollinator",8,8.0000,1
+"Ancistrocerus longispinosus hellenicus","Animals","Pollinator",1,1.0000,1
+"Andrena alfkenella","Animals","Pollinator",2,2.0000,1
+"Andrena athenensis","Animals","Pollinator",1,1.0000,1
+"Andrena balcanica","Animals","Pollinator",4,4.0000,1
+"Andrena bicolor","Animals","Pollinator",3,3.0000,2
+"Andrena bicolorata","Animals","Pollinator",1,1.0000,1
+"Andrena caneae","Animals","Pollinator",6,6.0000,1
+"Andrena carbonaria","Animals","Pollinator",8,8.0000,1
+"Andrena cinereophila","Animals","Pollinator",1,1.0000,1
+"Andrena clypeata","Animals","Pollinator",6,6.0000,1
+"Andrena combaella","Animals","Pollinator",1,1.0000,1
+"Andrena concinna","Animals","Pollinator",3,3.0000,1
+"Andrena crassana","Animals","Pollinator",4,4.0000,1
+"Andrena distinguenda","Animals","Pollinator",4,4.0000,1
+"Andrena flavipes","Animals","Pollinator",16,16.0000,1
+"Andrena fulvitarsis","Animals","Pollinator",1,1.0000,1
+"Andrena gallinula","Animals","Pollinator",1,1.0000,1
+"Andrena grossella","Animals","Pollinator",3,3.0000,1
+"Andrena hattorfiana","Animals","Pollinator",1,1.0000,1
+"Andrena hesperia","Animals","Pollinator",7,7.0000,1
+"Andrena humilis","Animals","Pollinator",19,19.0000,1
+"Andrena hyemala","Animals","Pollinator",1,1.0000,1
+"Andrena impunctata","Animals","Pollinator",1,1.0000,1
+"Andrena kriechbaumeri","Animals","Pollinator",3,3.0000,1
+"Andrena lamiana","Animals","Pollinator",6,6.0000,1
+"Andrena mocsaryi","Animals","Pollinator",12,12.0000,1
+"Andrena mucronata","Animals","Pollinator",6,6.0000,1
+"Andrena nana","Animals","Pollinator",1,1.0000,1
+"Andrena nigroaenea","Animals","Pollinator",6,6.0000,3
+"Andrena nobilis","Animals","Pollinator",2,2.0000,1
+"Andrena optata","Animals","Pollinator",2,2.0000,1
+"Andrena oralis","Animals","Pollinator",2,2.0000,1
+"Andrena orientata","Animals","Pollinator",1,1.0000,1
+"Andrena osyychniuki","Animals","Pollinator",5,5.0000,1
+"Andrena panurgimorpha","Animals","Pollinator",1,1.0000,1
+"Andrena panurgina","Animals","Pollinator",1,1.0000,1
+"Andrena rugothorace","Animals","Pollinator",17,17.0000,1
+"Andrena schmiedeknechti","Animals","Pollinator",6,6.0000,1
+"Andrena schulzi","Animals","Pollinator",13,13.0000,1
+"Andrena scita","Animals","Pollinator",1,1.0000,1
+"Andrena simontornyella","Animals","Pollinator",2,2.0000,1
+"Andrena sp1 M_PL_015","Animals","Pollinator",4,4.0000,1
+"Andrena sp2 M_PL_015","Animals","Pollinator",1,1.0000,1
+"Andrena sp3 M_PL_015","Animals","Pollinator",1,1.0000,1
+"Andrena taraxaci","Animals","Pollinator",1,1.0000,2
+"Andrena thomsoni","Animals","Pollinator",1,1.0000,1
+"Andrena tomora","Animals","Pollinator",2,2.0000,1
+"Andrena trucatilabris","Animals","Pollinator",4,4.0000,1
+"Andrena ventricosa","Animals","Pollinator",4,4.0000,1
+"Andrena westensis","Animals","Pollinator",8,8.0000,1
+"Anthaxia praeclara ","Animals","Pollinator",1,1.0000,1
+"Anthaxia quadripunctata ","Animals","Pollinator",2,2.0000,1
+"Anthaxia sp1 M_PL_015","Animals","Pollinator",3,3.0000,1
+"Anthaxia umbellatarum ","Animals","Pollinator",3,3.0000,1
+"Anthidiellum strigatum luteum","Animals","Pollinator",18,18.0000,1
+"Anthidium dalmaticum","Animals","Pollinator",1,1.0000,1
+"Anthidium florentinum","Animals","Pollinator",7,7.0000,1
+"Anthidium manicatum","Animals","Pollinator",1,1.0000,2
+"Anthidium taeniatum","Animals","Pollinator",2,2.0000,1
+"Anthidium undulatum","Animals","Pollinator",1,1.0000,1
+"Anthocopa andrenoides","Animals","Pollinator",5,5.0000,1
+"Anthocopa bidentata","Animals","Pollinator",1,1.0000,1
+"Anthocopa bisulca","Animals","Pollinator",3,3.0000,1
+"Anthocopa obtusa","Animals","Pollinator",4,4.0000,1
+"Anthocopa papaveris","Animals","Pollinator",1,1.0000,1
+"Anthocopa perezi","Animals","Pollinator",1,1.0000,1
+"Anthocopa scutellaris","Animals","Pollinator",1,1.0000,1
+"Anthocopa spinigera","Animals","Pollinator",2,2.0000,1
+"Anthocopa yermasoyiae corcyraea","Animals","Pollinator",2,2.0000,1
+"Anthomyia confusanea ","Animals","Pollinator",2,2.0000,1
+"Anthomyia pluvialis ","Animals","Pollinator",4,4.0000,1
+"Anthophora agama","Animals","Pollinator",5,5.0000,1
+"Anthophora atroalba","Animals","Pollinator",8,8.0000,1
+"Anthophora canescens","Animals","Pollinator",2,2.0000,1
+"Anthophora dufouri","Animals","Pollinator",4,4.0000,1
+"Anthophora garrula","Animals","Pollinator",1,1.0000,1
+"Anthophora magnilabris","Animals","Pollinator",1,1.0000,1
+"Anthophora nigrocincta","Animals","Pollinator",4,4.0000,1
+"Anthophora ochroleuca","Animals","Pollinator",2,2.0000,1
+"Anthophora pilipes","Animals","Pollinator",5,5.0000,1
+"Anthophora retusa","Animals","Pollinator",1,1.0000,1
+"Anthophora rubricrus","Animals","Pollinator",16,16.0000,1
+"Anthrax candens ","Animals","Pollinator",1,1.0000,1
+"Anthrax discollis ","Animals","Pollinator",1,1.0000,1
+"Anthrax sp1 M_PL_015","Animals","Pollinator",1,1.0000,1
+"Anthrax sp2 M_PL_015","Animals","Pollinator",1,1.0000,1
+"Anthrenus museorum ","Animals","Pollinator",1,1.0000,1
+"Anthrenus pimpinellae ","Animals","Pollinator",3,3.0000,1
+"Anthrenus sp1 M_PL_015","Animals","Pollinator",3,3.0000,1
+"Anthrenus sp2 M_PL_015","Animals","Pollinator",1,1.0000,1
+"Anthrenus sp3 M_PL_015","Animals","Pollinator",1,1.0000,1
+"Anthrenus verbasci ","Animals","Pollinator",1,1.0000,2
+"Apis mellifera","Animals","Pollinator",104,104.0000,108
+"Aplocnemus sp1 M_PL_015","Animals","Pollinator",5,5.0000,1
+"Arge scita","Animals","Pollinator",1,1.0000,1
+"Aricia agestis","Animals","Pollinator",10,10.0000,1
+"Artogeia rapae ","Animals","Pollinator",9,9.0000,2
+"Athalia glabricollis","Animals","Pollinator",2,2.0000,1
+"Athrycia trepida","Animals","Pollinator",2,2.0000,1
+"Attagenus bifasciatus ","Animals","Pollinator",5,5.0000,1
+"Attagenus sp1 M_PL_015","Animals","Pollinator",1,1.0000,1
+"Attagenus sp2 M_PL_015","Animals","Pollinator",1,1.0000,1
+"Bembicinus peregrinus","Animals","Pollinator",2,2.0000,1
+"Bembix oculata","Animals","Pollinator",3,3.0000,1
+"Bembix pallida","Animals","Pollinator",2,2.0000,1
+"Bibio hortulanus","Animals","Pollinator",4,4.0000,1
+"Bibio leucopterus ","Animals","Pollinator",7,7.0000,1
+"Bibio marci ","Animals","Pollinator",1,1.0000,1
+"Bithia acanthophora","Animals","Pollinator",2,2.0000,1
+"Bithia sp1 M_PL_015","Animals","Pollinator",2,2.0000,1
+"Bombus argillaceus","Animals","Pollinator",11,11.0000,1
+"Bombus terrestris","Animals","Pollinator",13,13.0000,11
+"Bombylius breviusculum ","Animals","Pollinator",2,2.0000,1
+"Bombylius canescens ","Animals","Pollinator",4,4.0000,1
+"Bombylius cinerascens ","Animals","Pollinator",2,2.0000,1
+"Bombylius discolor ","Animals","Pollinator",2,2.0000,1
+"Bombylius fuliginosus ","Animals","Pollinator",14,14.0000,1
+"Bombylius fulvescens ","Animals","Pollinator",2,2.0000,1
+"Bombylius medius ","Animals","Pollinator",11,11.0000,1
+"Bombylius sp1 M_PL_015","Animals","Pollinator",3,3.0000,1
+"Bombylius sp2 M_PL_015","Animals","Pollinator",2,2.0000,1
+"Bombylius undatus ","Animals","Pollinator",15,15.0000,1
+"Bombylius vulpinus ","Animals","Pollinator",5,5.0000,1
+"Brachyodynerus quadrimaculatus","Animals","Pollinator",1,1.0000,1
+"Bruchus biguttatus","Animals","Pollinator",2,2.0000,1
+"Bruchus holosericeus ","Animals","Pollinator",7,7.0000,1
+"Bruchus sp1 M_PL_015","Animals","Pollinator",2,2.0000,1
+"Bruchus sp2 M_PL_015","Animals","Pollinator",2,2.0000,1
+"Bruchus sp3 M_PL_015","Animals","Pollinator",1,1.0000,1
+"Bruchus tibialis ","Animals","Pollinator",1,1.0000,1
+"Calliphora vicina","Animals","Pollinator",3,3.0000,2
+"Calliphora vomitoria","Animals","Pollinator",8,8.0000,3
+"Callophrys rubi","Animals","Pollinator",1,1.0000,4
+"Calocoris angularis","Animals","Pollinator",2,2.0000,1
+"Calocoris cinctipes","Animals","Pollinator",2,2.0000,1
+"Calocoris histrio","Animals","Pollinator",4,4.0000,1
+"Calocoris nemoralis","Animals","Pollinator",2,2.0000,1
+"Calocoris sp1 M_PL_015","Animals","Pollinator",1,1.0000,1
+"Carcharodus alceae","Animals","Pollinator",6,6.0000,1
+"Carpocoris mediterraneus","Animals","Pollinator",2,2.0000,1
+"Carpocoris pudicus","Animals","Pollinator",2,2.0000,1
+"Celonites abbreviatus","Animals","Pollinator",2,2.0000,1
+"Celonites cyprius smyrnensis","Animals","Pollinator",3,3.0000,1
+"Cephidae sp1 M_PL_015","Animals","Pollinator",1,1.0000,1
+"Ceratina acuta","Animals","Pollinator",12,12.0000,1
+"Ceratina bispinosa","Animals","Pollinator",8,8.0000,1
+"Ceratina cucurbitina","Animals","Pollinator",1,1.0000,3
+"Ceratina cyanea","Animals","Pollinator",1,1.0000,2
+"Ceratina dallatorreana","Animals","Pollinator",2,2.0000,1
+"Ceratina dentiventris","Animals","Pollinator",8,8.0000,1
+"Ceratina loewi","Animals","Pollinator",13,13.0000,1
+"Ceratina nigra","Animals","Pollinator",2,2.0000,1
+"Ceratina nigrolabiata","Animals","Pollinator",9,9.0000,1
+"Ceratina parvula","Animals","Pollinator",1,1.0000,1
+"Cerceris arenaria","Animals","Pollinator",1,1.0000,4
+"Cerceris eryngii","Animals","Pollinator",2,2.0000,1
+"Cerceris flavicornis","Animals","Pollinator",1,1.0000,1
+"Cerceris sabulosa","Animals","Pollinator",3,3.0000,1
+"Cerioides conopoides","Animals","Pollinator",1,1.0000,1
+"Chalicodoma albocristata","Animals","Pollinator",4,4.0000,1
+"Chalicodoma ericetorum","Animals","Pollinator",8,8.0000,1
+"Chalicodoma hungarica","Animals","Pollinator",1,1.0000,1
+"Chalicodoma lefebvrei","Animals","Pollinator",3,3.0000,1
+"Chalicodoma manicata","Animals","Pollinator",4,4.0000,1
+"Chalicodoma montenegrensis","Animals","Pollinator",1,1.0000,1
+"Chalicodoma parietina nestorea","Animals","Pollinator",11,11.0000,1
+"Chalicodoma pyrenaica","Animals","Pollinator",2,2.0000,1
+"Chalybion omissum","Animals","Pollinator",1,1.0000,1
+"Chamaesyrphus sp1 M_PL_015","Animals","Pollinator",2,2.0000,1
+"Chelostoma appendiculatum","Animals","Pollinator",1,1.0000,1
+"Chelostoma campanularum","Animals","Pollinator",2,2.0000,1
+"Chelostoma emarginatum","Animals","Pollinator",5,5.0000,1
+"Chelostoma hellenicum","Animals","Pollinator",1,1.0000,1
+"Chelostoma transversum","Animals","Pollinator",6,6.0000,1
+"Chlorodynerus ypsilon rhodius","Animals","Pollinator",2,2.0000,1
+"Chrysis analis","Animals","Pollinator",5,5.0000,1
+"Chrysis incisa","Animals","Pollinator",2,2.0000,1
+"Chrysis sp1 M_PL_015","Animals","Pollinator",1,1.0000,1
+"Chrysis verna","Animals","Pollinator",1,1.0000,1
+"Chrysotoxum intermedium","Animals","Pollinator",5,5.0000,2
+"Clairvillia pninae","Animals","Pollinator",1,1.0000,1
+"Clypeocampulum lubricum","Animals","Pollinator",2,2.0000,1
+"Clytiomyia sp1 M_PL_015","Animals","Pollinator",1,1.0000,1
+"Coccinella sep","Animals","Pollinator",7,7.0000,1
+"Coelioxys afra","Animals","Pollinator",1,1.0000,1
+"Coelioxys aurolimbata","Animals","Pollinator",3,3.0000,1
+"Coelioxys rufocaudata","Animals","Pollinator",3,3.0000,1
+"Colias crocea ","Animals","Pollinator",2,2.0000,2
+"Colletes eous","Animals","Pollinator",1,1.0000,1
+"Colletes foveolaris","Animals","Pollinator",1,1.0000,1
+"Colletes spectabilis","Animals","Pollinator",2,2.0000,1
+"Conophorus glaucescens ","Animals","Pollinator",10,10.0000,1
+"Conophorus pussillus ","Animals","Pollinator",2,2.0000,1
+"Conops flavifrons","Animals","Pollinator",4,4.0000,1
+"Coptocephala unifasciata","Animals","Pollinator",2,2.0000,2
+"Coreidae sp1 M_PL_015","Animals","Pollinator",1,1.0000,1
+"Coriomeris hirticornis","Animals","Pollinator",3,3.0000,1
+"Coriomeris spinolai","Animals","Pollinator",1,1.0000,1
+"Corizus hyosocyami","Animals","Pollinator",1,1.0000,1
+"Creightonella albisecta","Animals","Pollinator",6,6.0000,1
+"Cuneala dahli","Animals","Pollinator",6,6.0000,1
+"Cuphocera ruficornis","Animals","Pollinator",1,1.0000,1
+"Cylindromyia auriceps","Animals","Pollinator",1,1.0000,1
+"Cylindromyia brassicaria","Animals","Pollinator",1,1.0000,2
+"Cylindromyia rufifrons","Animals","Pollinator",2,2.0000,1
+"Cytherea pallasii ","Animals","Pollinator",1,1.0000,1
+"Danacaea nigritarsis","Animals","Pollinator",7,7.0000,1
+"Dasypoda sp1 M_PL_015","Animals","Pollinator",1,1.0000,1
+"Dasytes striatulus ","Animals","Pollinator",31,31.0000,1
+"Dasytes tristiculus","Animals","Pollinator",11,11.0000,1
+"Delia hirticrura","Animals","Pollinator",6,6.0000,1
+"Delia platura ","Animals","Pollinator",12,12.0000,3
+"Deraeocoris schach","Animals","Pollinator",1,1.0000,1
+"Dionaea aurifrons","Animals","Pollinator",2,2.0000,1
+"Dionaea diagramma","Animals","Pollinator",2,2.0000,1
+"Diphyrus quadripunctorius","Animals","Pollinator",1,1.0000,1
+"Dolycoris baccarum","Animals","Pollinator",1,1.0000,1
+"Dorycera hybrida","Animals","Pollinator",4,4.0000,1
+"Ectemnius crassicornis","Animals","Pollinator",4,4.0000,1
+"Elampus spina","Animals","Pollinator",1,1.0000,1
+"Empis sp1 M_PL_015","Animals","Pollinator",3,3.0000,1
+"Empis sp2 M_PL_015","Animals","Pollinator",2,2.0000,1
+"Enneastigma triplex ","Animals","Pollinator",2,2.0000,1
+"Eoanthidium elongatum","Animals","Pollinator",5,5.0000,1
+"Eoanthidium insulare","Animals","Pollinator",1,1.0000,1
+"Epicometis hirta ","Animals","Pollinator",20,20.0000,1
+"Episyrphus balteatus","Animals","Pollinator",33,33.0000,17
+"Eristalinus aeneus","Animals","Pollinator",8,8.0000,1
+"Eristalis arbustorum","Animals","Pollinator",4,4.0000,4
+"Eristalis pratorum","Animals","Pollinator",8,8.0000,2
+"Eristalis sp1 M_PL_015","Animals","Pollinator",1,1.0000,1
+"Eristalis taeniops","Animals","Pollinator",2,2.0000,1
+"Eristalis tenax","Animals","Pollinator",22,22.0000,20
+"Eristalis ventralis","Animals","Pollinator",1,1.0000,1
+"Eucera albofasciata","Animals","Pollinator",10,10.0000,1
+"Eucera bidentata","Animals","Pollinator",32,32.0000,1
+"Eucera clypeata","Animals","Pollinator",33,33.0000,1
+"Eucera furfurea","Animals","Pollinator",13,13.0000,1
+"Eucera nigrescens contraria","Animals","Pollinator",1,1.0000,1
+"Eucera nigrilabris rufitarsis","Animals","Pollinator",1,1.0000,1
+"Eucera parnassia","Animals","Pollinator",11,11.0000,1
+"Eucera punctulata","Animals","Pollinator",1,1.0000,1
+"Eucera seminuda","Animals","Pollinator",21,21.0000,1
+"Eucera sp1 M_PL_015","Animals","Pollinator",1,1.0000,1
+"Eucera sp2 M_PL_015","Animals","Pollinator",1,1.0000,1
+"Euchloe ausonia","Animals","Pollinator",14,14.0000,1
+"Eumenes dubius","Animals","Pollinator",10,10.0000,2
+"Eumenes lunulatus","Animals","Pollinator",5,5.0000,1
+"Eumerus amoenus","Animals","Pollinator",4,4.0000,1
+"Eumerus basalis","Animals","Pollinator",10,10.0000,1
+"Eumerus pulchellus","Animals","Pollinator",6,6.0000,1
+"Eumerus pusillus","Animals","Pollinator",3,3.0000,1
+"Eumerus sp1 M_PL_015","Animals","Pollinator",4,4.0000,1
+"Eumerus sp2 M_PL_015","Animals","Pollinator",1,1.0000,1
+"Eumerus tricolor","Animals","Pollinator",2,2.0000,1
+"Euodynerus velutinus","Animals","Pollinator",1,1.0000,1
+"Eupavlovskia funeraria","Animals","Pollinator",2,2.0000,1
+"Eurydema ornatum","Animals","Pollinator",2,2.0000,1
+"Exhyalanthrax sp1 M_PL_015","Animals","Pollinator",1,1.0000,1
+"Exochomus nigromaculatus","Animals","Pollinator",1,1.0000,1
+"Exoprosopa jacchus ","Animals","Pollinator",5,5.0000,1
+"Exoprosopa megerlei ","Animals","Pollinator",1,1.0000,1
+"Exoprosopa onusta ","Animals","Pollinator",1,1.0000,1
+"Freyeria trochylus","Animals","Pollinator",4,4.0000,1
+"Gasteruption granulithorax","Animals","Pollinator",2,2.0000,1
+"Gasteruption rubricans","Animals","Pollinator",3,3.0000,1
+"Gasteruption terrestre","Animals","Pollinator",1,1.0000,1
+"Geron gibbosus ","Animals","Pollinator",9,9.0000,1
+"Geron sp1 M_PL_015","Animals","Pollinator",3,3.0000,1
+"Geron sp2 M_PL_015","Animals","Pollinator",3,3.0000,1
+"Geron sp3 M_PL_015","Animals","Pollinator",3,3.0000,1
+"Geron sp4 M_PL_015","Animals","Pollinator",2,2.0000,1
+"Glaucopsyche alexis","Animals","Pollinator",2,2.0000,1
+"Globicornis nigripes ","Animals","Pollinator",1,1.0000,1
+"Globicornis sp1 M_PL_015","Animals","Pollinator",1,1.0000,1
+"Gonepteryx rhamni","Animals","Pollinator",10,10.0000,1
+"Graphomyia maculata ","Animals","Pollinator",1,1.0000,3
+"Graphosoma lineatum","Animals","Pollinator",2,2.0000,1
+"Gymnosoma sp1 M_PL_015","Animals","Pollinator",1,1.0000,1
+"Habropoda tarsata","Animals","Pollinator",8,8.0000,1
+"Halictus asperulus","Animals","Pollinator",3,3.0000,1
+"Halictus brunnescens","Animals","Pollinator",10,10.0000,1
+"Halictus cephalicus","Animals","Pollinator",6,6.0000,1
+"Halictus gemmeus","Animals","Pollinator",10,10.0000,3
+"Halictus graecus","Animals","Pollinator",3,3.0000,1
+"Halictus pollinus","Animals","Pollinator",5,5.0000,1
+"Halictus resurgens","Animals","Pollinator",11,11.0000,1
+"Halictus scabiosae","Animals","Pollinator",15,15.0000,2
+"Halictus smaragdulus","Animals","Pollinator",18,18.0000,2
+"Halictus sp1 M_PL_015","Animals","Pollinator",2,2.0000,1
+"Halictus sp2 M_PL_015","Animals","Pollinator",1,1.0000,1
+"Halictus subauratus","Animals","Pollinator",3,3.0000,1
+"Halictus tectus","Animals","Pollinator",3,3.0000,1
+"Halictus tetrazonius","Animals","Pollinator",16,16.0000,1
+"Hebecnema fumosa","Animals","Pollinator",2,2.0000,1
+"Helina evecta","Animals","Pollinator",2,2.0000,1
+"Helina reversio","Animals","Pollinator",5,5.0000,2
+"Helophilus trivittatus","Animals","Pollinator",1,1.0000,4
+"Hemipenthes velutinus ","Animals","Pollinator",5,5.0000,1
+"Heriades coelostomus","Animals","Pollinator",3,3.0000,1
+"Heriades crenulatus","Animals","Pollinator",1,1.0000,1
+"Heriades dalmaticus","Animals","Pollinator",8,8.0000,1
+"Heriades trucorum","Animals","Pollinator",3,3.0000,1
+"Heringia heringi","Animals","Pollinator",1,1.0000,1
+"Heringia sp1 M_PL_015","Animals","Pollinator",1,1.0000,1
+"Heterocnemis graeca ","Animals","Pollinator",5,5.0000,1
+"Hoplitis crenulata","Animals","Pollinator",8,8.0000,1
+"Hoplitis curvipes","Animals","Pollinator",2,2.0000,1
+"Hoplitis fabrei","Animals","Pollinator",4,4.0000,1
+"Hoplitis manicata","Animals","Pollinator",5,5.0000,1
+"Hoplitis pallicornis","Animals","Pollinator",1,1.0000,1
+"Hoplitis pici","Animals","Pollinator",3,3.0000,1
+"Hoplitis rufohirta","Animals","Pollinator",1,1.0000,1
+"Hoplitis sp1 M_PL_015","Animals","Pollinator",1,1.0000,1
+"Hoplitis sp2 M_PL_015","Animals","Pollinator",1,1.0000,1
+"Hoplitis sybarita","Animals","Pollinator",6,6.0000,1
+"Hydrotaea cinerea","Animals","Pollinator",1,1.0000,1
+"Hylaeus bifasciatus","Animals","Pollinator",2,2.0000,1
+"Hylaeus imparilis","Animals","Pollinator",3,3.0000,1
+"Hylaeus lineolatus","Animals","Pollinator",8,8.0000,1
+"Hylaeus meridionalis","Animals","Pollinator",8,8.0000,1
+"Hylaeus pictus","Animals","Pollinator",1,1.0000,1
+"Hylaeus punctatus","Animals","Pollinator",8,8.0000,1
+"Hylaeus signatus","Animals","Pollinator",1,1.0000,1
+"Hylaeus variegatus","Animals","Pollinator",3,3.0000,2
+"Hypovoria hilaris","Animals","Pollinator",3,3.0000,1
+"Icteranthidium grohmanni","Animals","Pollinator",11,11.0000,1
+"Iphiclides podalirius","Animals","Pollinator",6,6.0000,1
+"Lasioglossum aeratum","Animals","Pollinator",2,2.0000,1
+"Lasioglossum anellum","Animals","Pollinator",17,17.0000,1
+"Lasioglossum brevicome","Animals","Pollinator",1,1.0000,1
+"Lasioglossum convexiusculum","Animals","Pollinator",1,1.0000,1
+"Lasioglossum crassepunctatum","Animals","Pollinator",1,1.0000,1
+"Lasioglossum cristula donatum","Animals","Pollinator",9,9.0000,1
+"Lasioglossum laticeps hellenicum","Animals","Pollinator",3,3.0000,1
+"Lasioglossum leucozonium clusium","Animals","Pollinator",1,1.0000,1
+"Lasioglossum limbelloides","Animals","Pollinator",10,10.0000,1
+"Lasioglossum limbellum","Animals","Pollinator",1,1.0000,1
+"Lasioglossum lineare","Animals","Pollinator",16,16.0000,1
+"Lasioglossum lucidulum","Animals","Pollinator",2,2.0000,1
+"Lasioglossum malachurum","Animals","Pollinator",38,38.0000,1
+"Lasioglossum marginatum","Animals","Pollinator",24,24.0000,1
+"Lasioglossum mediterraneum","Animals","Pollinator",6,6.0000,1
+"Lasioglossum mesosclerum","Animals","Pollinator",1,1.0000,1
+"Lasioglossum nigripes","Animals","Pollinator",1,1.0000,1
+"Lasioglossum nitidulum fudakowskii","Animals","Pollinator",2,2.0000,1
+"Lasioglossum obscuratum acerbum","Animals","Pollinator",6,6.0000,1
+"Lasioglossum pauxillum","Animals","Pollinator",9,9.0000,1
+"Lasioglossum politum","Animals","Pollinator",6,6.0000,1
+"Lasioglossum pygmaeum patulum","Animals","Pollinator",3,3.0000,1
+"Lasioglossum quadrinotatum","Animals","Pollinator",3,3.0000,2
+"Lasioglossum sp1 M_PL_015","Animals","Pollinator",1,1.0000,1
+"Lasioglossum subaenescens asiaticum","Animals","Pollinator",1,1.0000,1
+"Lasioglossum transitorium","Animals","Pollinator",1,1.0000,1
+"Lasioglossum villosulum","Animals","Pollinator",6,6.0000,6
+"Lasioglossum zonulum","Animals","Pollinator",2,2.0000,1
+"Lasiomma seminitidum","Animals","Pollinator",1,1.0000,1
+"Lasiopa balius","Animals","Pollinator",1,1.0000,1
+"Leptochilus alpestris","Animals","Pollinator",3,3.0000,1
+"Leptochilus limbiferus","Animals","Pollinator",1,1.0000,1
+"Leptochilus regulus","Animals","Pollinator",3,3.0000,1
+"Lestica clypeata","Animals","Pollinator",3,3.0000,1
+"Leucophora dissimilis","Animals","Pollinator",8,8.0000,1
+"Leucophora sp1 M_PL_015","Animals","Pollinator",3,3.0000,1
+"Linnaemyia soror","Animals","Pollinator",2,2.0000,2
+"Liorhyssus hyalinus","Animals","Pollinator",1,1.0000,1
+"Liriomyza cicerina ","Animals","Pollinator",1,1.0000,1
+"Liriomyza orbona ","Animals","Pollinator",1,1.0000,1
+"Lomatia atropos ","Animals","Pollinator",3,3.0000,1
+"Lomatia erinnys ","Animals","Pollinator",2,2.0000,1
+"Lomatia grajugena ","Animals","Pollinator",8,8.0000,1
+"Lomatia sabaea ","Animals","Pollinator",3,3.0000,1
+"Loricula sp1 M_PL_015","Animals","Pollinator",1,1.0000,1
+"Loxocnemis dentator","Animals","Pollinator",1,1.0000,1
+"Lucilia sericata ","Animals","Pollinator",11,11.0000,5
+"Lycaena phlaeas ","Animals","Pollinator",6,6.0000,8
+"Lygaeus equestris","Animals","Pollinator",1,1.0000,1
+"Macroglossum stellatarum","Animals","Pollinator",2,2.0000,6
+"Macrophya teutona","Animals","Pollinator",1,1.0000,1
+"Macrotylus nigricornis","Animals","Pollinator",1,1.0000,1
+"Malachius bipustulatus ","Animals","Pollinator",9,9.0000,1
+"Malachius geniculatus","Animals","Pollinator",6,6.0000,1
+"Malachius marginellus ","Animals","Pollinator",1,1.0000,1
+"Malachius sp1 M_PL_015","Animals","Pollinator",9,9.0000,1
+"Maniola jurtina","Animals","Pollinator",1,1.0000,10
+"Medetera sp1 M_PL_015","Animals","Pollinator",1,1.0000,1
+"Megachile giraudi bicoloriventris","Animals","Pollinator",2,2.0000,1
+"Megachile pacifica","Animals","Pollinator",1,1.0000,1
+"Megachile pilidens","Animals","Pollinator",15,15.0000,2
+"Megachile sp1 M_PL_015","Animals","Pollinator",17,17.0000,1
+"Megachile sp2 M_PL_015","Animals","Pollinator",2,2.0000,1
+"Megachile sp3 M_PL_015","Animals","Pollinator",2,2.0000,1
+"Megachile sp4 M_PL_015","Animals","Pollinator",1,1.0000,1
+"Megachile villipes","Animals","Pollinator",1,1.0000,1
+"Melanagromyza sp1 M_PL_015","Animals","Pollinator",1,1.0000,1
+"Melanargia larissa","Animals","Pollinator",1,1.0000,1
+"Melanostoma mellinum","Animals","Pollinator",4,4.0000,8
+"Melecta albifrons albovaria","Animals","Pollinator",2,2.0000,1
+"Melecta tuberculata","Animals","Pollinator",4,4.0000,1
+"Meligethes sp1 M_PL_015","Animals","Pollinator",3,3.0000,1
+"Meliscaeva auricollis ","Animals","Pollinator",21,21.0000,3
+"Merodon albifrons","Animals","Pollinator",2,2.0000,1
+"Merodon annulatus","Animals","Pollinator",3,3.0000,1
+"Merodon avidus","Animals","Pollinator",11,11.0000,1
+"Merodon clavipes","Animals","Pollinator",4,4.0000,1
+"Merodon femoratus","Animals","Pollinator",1,1.0000,1
+"Merodon longicornis","Animals","Pollinator",18,18.0000,1
+"Merodon minutus","Animals","Pollinator",3,3.0000,1
+"Merodon nigritarsis","Animals","Pollinator",1,1.0000,1
+"Merodon sp1 M_PL_015","Animals","Pollinator",3,3.0000,1
+"Merodon sp2 M_PL_015","Animals","Pollinator",3,3.0000,1
+"Merodon sp3 M_PL_015","Animals","Pollinator",2,2.0000,1
+"Merodon sp4 M_PL_015","Animals","Pollinator",1,1.0000,1
+"Mesanthidium carduele","Animals","Pollinator",1,1.0000,1
+"Mesochorus sp1 M_PL_015","Animals","Pollinator",1,1.0000,1
+"Metallinella brevicornis","Animals","Pollinator",11,11.0000,1
+"Metasyrphus corollae","Animals","Pollinator",38,38.0000,6
+"Metasyrphus lapponicus","Animals","Pollinator",1,1.0000,1
+"Metopoplax origani","Animals","Pollinator",1,1.0000,1
+"Miltogramma murinum","Animals","Pollinator",1,1.0000,1
+"Miltogramma sp1 M_PL_015","Animals","Pollinator",1,1.0000,1
+"Muscina stabulans","Animals","Pollinator",1,1.0000,1
+"Myathropa florea","Animals","Pollinator",3,3.0000,2
+"Mycterus curculioides ","Animals","Pollinator",1,1.0000,1
+"Mylabris quadripunctata ","Animals","Pollinator",3,3.0000,1
+"Myopa sp1 M_PL_015","Animals","Pollinator",4,4.0000,1
+"Napomyza sp1 M_PL_015","Animals","Pollinator",2,2.0000,1
+"Nemognatha chrysomelina ","Animals","Pollinator",1,1.0000,1
+"Nemoptera sp1 M_PL_015","Animals","Pollinator",2,2.0000,1
+"Neocnemodon latitarsis","Animals","Pollinator",2,2.0000,1
+"Neohipparchia fatua","Animals","Pollinator",1,1.0000,1
+"Neomyia cornicina","Animals","Pollinator",10,10.0000,2
+"Nomada babiyi","Animals","Pollinator",1,1.0000,1
+"Nomada basalis","Animals","Pollinator",8,8.0000,1
+"Nomada callimorpha","Animals","Pollinator",1,1.0000,1
+"Nomada corcyraea","Animals","Pollinator",1,1.0000,1
+"Nomada distinguenda","Animals","Pollinator",1,1.0000,1
+"Nomada eos","Animals","Pollinator",3,3.0000,1
+"Nomada erythrocephala","Animals","Pollinator",1,1.0000,1
+"Nomada femoralis","Animals","Pollinator",9,9.0000,1
+"Nomada fucata","Animals","Pollinator",4,4.0000,1
+"Nomada imperialis","Animals","Pollinator",2,2.0000,1
+"Nomada lucidula","Animals","Pollinator",7,7.0000,1
+"Nomada mavromoustakisi","Animals","Pollinator",1,1.0000,1
+"Nomada nobilia","Animals","Pollinator",5,5.0000,1
+"Nomada propinqua","Animals","Pollinator",8,8.0000,1
+"Nomada rubricolis","Animals","Pollinator",3,3.0000,1
+"Nomada sp1 M_PL_015","Animals","Pollinator",1,1.0000,1
+"Nomada succinta","Animals","Pollinator",1,1.0000,1
+"Nomada trispinosa","Animals","Pollinator",2,2.0000,1
+"Nomia sp1 M_PL_015","Animals","Pollinator",1,1.0000,1
+"Nomioides facilis","Animals","Pollinator",3,3.0000,1
+"Nordmannia ilicis","Animals","Pollinator",2,2.0000,1
+"Nysius cymoides","Animals","Pollinator",1,1.0000,1
+"Nysius graminicola","Animals","Pollinator",1,1.0000,1
+"Ocinimorpha novakii","Animals","Pollinator",14,14.0000,1
+"Odinophora occidentalis","Animals","Pollinator",3,3.0000,1
+"Odontotarsus sp1 M_PL_015","Animals","Pollinator",1,1.0000,1
+"Odynerus albopictus","Animals","Pollinator",1,1.0000,1
+"Odynerus femoratus","Animals","Pollinator",2,2.0000,1
+"Odynerus melanocephalus","Animals","Pollinator",6,6.0000,1
+"Odynerus poecilus","Animals","Pollinator",1,1.0000,1
+"Oedemera flavipes","Animals","Pollinator",7,7.0000,2
+"Oedemera sp1 M_PL_015","Animals","Pollinator",4,4.0000,1
+"Oligodranes sp1 M_PL_015","Animals","Pollinator",2,2.0000,1
+"Orellia falcata","Animals","Pollinator",4,4.0000,1
+"Orphilus niger","Animals","Pollinator",8,8.0000,1
+"Orthocladius sp1 M_PL_015","Animals","Pollinator",1,1.0000,1
+"Oscinella frit","Animals","Pollinator",1,1.0000,1
+"Osmia apicata","Animals","Pollinator",1,1.0000,1
+"Osmia aurulenta","Animals","Pollinator",24,24.0000,1
+"Osmia caerulescens","Animals","Pollinator",1,1.0000,1
+"Osmia fulviventris","Animals","Pollinator",8,8.0000,1
+"Osmia latrellei","Animals","Pollinator",2,2.0000,1
+"Osmia longiceps","Animals","Pollinator",1,1.0000,1
+"Osmia melanogaster","Animals","Pollinator",6,6.0000,1
+"Osmia moreensis","Animals","Pollinator",1,1.0000,1
+"Osmia mustelina","Animals","Pollinator",1,1.0000,1
+"Osmia nana","Animals","Pollinator",1,1.0000,1
+"Osmia nicosiana","Animals","Pollinator",1,1.0000,1
+"Osmia signata","Animals","Pollinator",3,3.0000,1
+"Osmia sp1 M_PL_015","Animals","Pollinator",2,2.0000,1
+"Osmia subcornuta","Animals","Pollinator",1,1.0000,1
+"Osmia versicolor","Animals","Pollinator",6,6.0000,1
+"Oxycarenus hyalinipennis","Animals","Pollinator",1,1.0000,1
+"Oxythyrea funesta ","Animals","Pollinator",19,19.0000,2
+"Oxytorus armatus","Animals","Pollinator",1,1.0000,1
+"Papilio alexanor","Animals","Pollinator",1,1.0000,1
+"Papilio machaon","Animals","Pollinator",11,11.0000,3
+"Paragus bicolor","Animals","Pollinator",4,4.0000,2
+"Paragus haemorrhous","Animals","Pollinator",2,2.0000,4
+"Paragus quadrifasciatus","Animals","Pollinator",6,6.0000,3
+"Paragus tibialis ","Animals","Pollinator",7,7.0000,5
+"Paravespula germanica","Animals","Pollinator",3,3.0000,1
+"Paregle audacula","Animals","Pollinator",14,14.0000,3
+"Parontodynerus ephippium","Animals","Pollinator",4,4.0000,1
+"Pemphredon lethifer","Animals","Pollinator",1,1.0000,1
+"Petrorossia hesperus ","Animals","Pollinator",5,5.0000,1
+"Petrorossia sp1 M_PL_015","Animals","Pollinator",1,1.0000,1
+"Phaniosoma sp1 M_PL_015","Animals","Pollinator",1,1.0000,1
+"Phthiria canescens ","Animals","Pollinator",1,1.0000,1
+"Phthiria umbripennis ","Animals","Pollinator",1,1.0000,1
+"Phthiria vagans ","Animals","Pollinator",3,3.0000,1
+"Physocephala sp1 M_PL_015","Animals","Pollinator",3,3.0000,1
+"Phyto adolescens","Animals","Pollinator",1,1.0000,1
+"Phytomyza sp1 M_PL_015","Animals","Pollinator",1,1.0000,1
+"Pieris brassicae","Animals","Pollinator",28,28.0000,3
+"Plagiognathus bipunctatus","Animals","Pollinator",1,1.0000,1
+"Podonta milleri ","Animals","Pollinator",22,22.0000,1
+"Polistes associus","Animals","Pollinator",1,1.0000,1
+"Polistes dominulus","Animals","Pollinator",6,6.0000,1
+"Polistes gallicus","Animals","Pollinator",3,3.0000,1
+"Pollenia longitheca","Animals","Pollinator",6,6.0000,1
+"Pollenia ruddis ","Animals","Pollinator",2,2.0000,1
+"Polyommatus icarus ","Animals","Pollinator",11,11.0000,9
+"Pontia daplidice ","Animals","Pollinator",19,19.0000,3
+"Prionyx kirbyi","Animals","Pollinator",2,2.0000,1
+"Protosmia tauricola","Animals","Pollinator",1,1.0000,1
+"Proxylocopa olivieri","Animals","Pollinator",3,3.0000,1
+"Psallus ancorifer","Animals","Pollinator",18,18.0000,1
+"Psallus sp1 M_PL_015","Animals","Pollinator",1,1.0000,1
+"Pseudapis diversipes","Animals","Pollinator",3,3.0000,1
+"Pseudapis monstrosa","Animals","Pollinator",2,2.0000,1
+"Pseudapis unidentata","Animals","Pollinator",1,1.0000,1
+"Pseudoanthidium alpinum","Animals","Pollinator",1,1.0000,1
+"Pseudoanthidium cribratum","Animals","Pollinator",1,1.0000,1
+"Pseudoanthidium lituratum","Animals","Pollinator",1,1.0000,1
+"Pseudoheriades asiaticus","Animals","Pollinator",4,4.0000,1
+"Pseudoheriades hofferi","Animals","Pollinator",1,1.0000,1
+"Pseudophilotes vicrama shiffermuelleri","Animals","Pollinator",11,11.0000,1
+"Pseudospinolia uniformis","Animals","Pollinator",1,1.0000,1
+"Psilothrix cyaneus ","Animals","Pollinator",9,9.0000,1
+"Pyrgus centaureae","Animals","Pollinator",3,3.0000,1
+"Rhagonycha sp1 M_PL_015","Animals","Pollinator",2,2.0000,1
+"Rhamphomyia sp1 M_PL_015","Animals","Pollinator",2,2.0000,1
+"Rhodanthidium caturigense","Animals","Pollinator",2,2.0000,1
+"Rhodanthidium septemdentatum","Animals","Pollinator",33,33.0000,1
+"Rophites algirus graecus","Animals","Pollinator",3,3.0000,1
+"Rophites quinquespinosus","Animals","Pollinator",2,2.0000,1
+"Sapyga quinquepunctata","Animals","Pollinator",1,1.0000,1
+"Sarcophaga consanguinea","Animals","Pollinator",2,2.0000,1
+"Sarcophaga graeca","Animals","Pollinator",1,1.0000,1
+"Sarcophaga haemorrhoides","Animals","Pollinator",3,3.0000,1
+"Sarcophaga novercoides","Animals","Pollinator",1,1.0000,1
+"Sarcophaga portchinskyana","Animals","Pollinator",2,2.0000,1
+"Sarcophaga sp1 M_PL_015","Animals","Pollinator",2,2.0000,1
+"Sarcophaga sp2 M_PL_015","Animals","Pollinator",1,1.0000,1
+"Sarcophaga sp3 M_PL_015","Animals","Pollinator",1,1.0000,1
+"Sarcophaga sp4 M_PL_015","Animals","Pollinator",1,1.0000,1
+"Sarcophaga taurica","Animals","Pollinator",1,1.0000,1
+"Satyrus ferula","Animals","Pollinator",1,1.0000,1
+"Scaeva albomaculata","Animals","Pollinator",1,1.0000,2
+"Scaeva pyrastri","Animals","Pollinator",21,21.0000,5
+"Scaeva selenitica","Animals","Pollinator",3,3.0000,3
+"Scaptomyza pallida","Animals","Pollinator",1,1.0000,1
+"Scatophaga stercoraria","Animals","Pollinator",1,1.0000,4
+"Sceliphron destillatorium","Animals","Pollinator",1,1.0000,1
+"Sciocoris sp1 M_PL_015","Animals","Pollinator",1,1.0000,1
+"Scolia galbula","Animals","Pollinator",6,6.0000,1
+"Scolia hirta","Animals","Pollinator",5,5.0000,1
+"Selenocephalus pallidus","Animals","Pollinator",1,1.0000,1
+"Sepsis sp1 M_PL_015","Animals","Pollinator",2,2.0000,1
+"Sicus sp1 M_PL_015","Animals","Pollinator",1,1.0000,1
+"Siphona confusa","Animals","Pollinator",6,6.0000,1
+"Siphona sp1 M_PL_015","Animals","Pollinator",2,2.0000,1
+"Smittia sp1 M_PL_015","Animals","Pollinator",1,1.0000,1
+"Spallanzania hebes","Animals","Pollinator",4,4.0000,1
+"Spallanzania rectistylum","Animals","Pollinator",1,1.0000,1
+"Spermatophagus kuesteri ","Animals","Pollinator",3,3.0000,1
+"Spermophagus sericeus ","Animals","Pollinator",14,14.0000,1
+"Sphaerophoria scripta","Animals","Pollinator",10,10.0000,10
+"Sphecodes ephippius","Animals","Pollinator",3,3.0000,2
+"Sphex pruinosus","Animals","Pollinator",2,2.0000,1
+"Sphex rufocinctus","Animals","Pollinator",2,2.0000,1
+"Stelis punctulatissima","Animals","Pollinator",1,1.0000,1
+"Stevenia signata","Animals","Pollinator",2,2.0000,1
+"Stizoides tridentatus","Animals","Pollinator",1,1.0000,1
+"Stizus ruficornis","Animals","Pollinator",2,2.0000,1
+"Strangalia bifasciata ","Animals","Pollinator",1,1.0000,1
+"Strymonidia spini","Animals","Pollinator",1,1.0000,1
+"Symmorphus gracilis","Animals","Pollinator",1,1.0000,1
+"Syritta pipiens","Animals","Pollinator",26,26.0000,12
+"Syrphus vitripennis ","Animals","Pollinator",5,5.0000,8
+"Systropha planidens","Animals","Pollinator",1,1.0000,1
+"Tachina fera","Animals","Pollinator",6,6.0000,1
+"Tachina vernalis","Animals","Pollinator",1,1.0000,1
+"Tachysphex incertus","Animals","Pollinator",1,1.0000,1
+"Tachysphex pepa","Animals","Pollinator",1,1.0000,1
+"Tehthredo zona","Animals","Pollinator",3,3.0000,1
+"Tehthredo zonula","Animals","Pollinator",1,1.0000,1
+"Tephritis sp1 M_PL_015","Animals","Pollinator",1,1.0000,1
+"Tetralonia alternans","Animals","Pollinator",11,11.0000,1
+"Thymelicus acteon","Animals","Pollinator",14,14.0000,1
+"Thyreus ramosus","Animals","Pollinator",6,6.0000,1
+"Thyreus truncatus","Animals","Pollinator",1,1.0000,1
+"Thyridanthrax obliteratus ","Animals","Pollinator",3,3.0000,1
+"Thyridanthrax polyphemus ","Animals","Pollinator",1,1.0000,1
+"Thyridanthrax sp1 M_PL_015","Animals","Pollinator",3,3.0000,1
+"Thyridanthrax sp2 M_PL_015","Animals","Pollinator",1,1.0000,1
+"Tiphia caucasica","Animals","Pollinator",7,7.0000,1
+"Toxophora maculata ","Animals","Pollinator",2,2.0000,1
+"Trianthidium caturigense ducale","Animals","Pollinator",1,1.0000,1
+"Trichodes favarius Illiger","Animals","Pollinator",12,12.0000,1
+"Trichodes graecus","Animals","Pollinator",3,3.0000,1
+"Trichodes punctatus viridifasciatus","Animals","Pollinator",2,2.0000,1
+"Trielis quinquecincta","Animals","Pollinator",6,6.0000,1
+"Trogoderma sp1 M_PL_015","Animals","Pollinator",1,1.0000,1
+"Unidentified sp1 M_PL_015","Animals","Pollinator",13,13.0000,1
+"Unidentified sp10 M_PL_015","Animals","Pollinator",2,2.0000,1
+"Unidentified sp11 M_PL_015","Animals","Pollinator",2,2.0000,1
+"Unidentified sp12 M_PL_015","Animals","Pollinator",2,2.0000,1
+"Unidentified sp13 M_PL_015","Animals","Pollinator",2,2.0000,1
+"Unidentified sp14 M_PL_015","Animals","Pollinator",2,2.0000,1
+"Unidentified sp15 M_PL_015","Animals","Pollinator",1,1.0000,1
+"Unidentified sp16 M_PL_015","Animals","Pollinator",1,1.0000,1
+"Unidentified sp17 M_PL_015","Animals","Pollinator",1,1.0000,1
+"Unidentified sp18 M_PL_015","Animals","Pollinator",1,1.0000,1
+"Unidentified sp19 M_PL_015","Animals","Pollinator",1,1.0000,1
+"Unidentified sp2 M_PL_015","Animals","Pollinator",11,11.0000,1
+"Unidentified sp20 M_PL_015","Animals","Pollinator",1,1.0000,1
+"Unidentified sp21 M_PL_015","Animals","Pollinator",1,1.0000,1
+"Unidentified sp22 M_PL_015","Animals","Pollinator",1,1.0000,1
+"Unidentified sp23 M_PL_015","Animals","Pollinator",1,1.0000,1
+"Unidentified sp24 M_PL_015","Animals","Pollinator",1,1.0000,1
+"Unidentified sp25 M_PL_015","Animals","Pollinator",1,1.0000,1
+"Unidentified sp26 M_PL_015","Animals","Pollinator",1,1.0000,1
+"Unidentified sp3 M_PL_015","Animals","Pollinator",6,6.0000,1
+"Unidentified sp4 M_PL_015","Animals","Pollinator",5,5.0000,1
+"Unidentified sp5 M_PL_015","Animals","Pollinator",4,4.0000,1
+"Unidentified sp6 M_PL_015","Animals","Pollinator",4,4.0000,1
+"Unidentified sp7 M_PL_015","Animals","Pollinator",3,3.0000,1
+"Unidentified sp8 M_PL_015","Animals","Pollinator",3,3.0000,1
+"Unidentified sp9 M_PL_015","Animals","Pollinator",3,3.0000,1
+"Usia forcipata ","Animals","Pollinator",17,17.0000,1
+"Vanessa atalanta ","Animals","Pollinator",2,2.0000,3
+"Villa hottentotta ","Animals","Pollinator",5,5.0000,1
+"Xanthandrus comtus","Animals","Pollinator",2,2.0000,1
+"Xylocopa iris","Animals","Pollinator",8,8.0000,1
+"Xylocopa violacea","Animals","Pollinator",5,5.0000,2
+"Zerynthia polyxena","Animals","Pollinator",3,3.0000,1
+"Zodion sp1 M_PL_015","Animals","Pollinator",2,2.0000,1
+"Zodion sp2 M_PL_015","Animals","Pollinator",1,1.0000,1
+"Zonitis immaculata ","Animals","Pollinator",1,1.0000,1
+"Zygaena carniolica","Animals","Pollinator",4,4.0000,1
+"Zygaena punctum","Animals","Pollinator",1,1.0000,1
+"Acanthus spinosus","Plants","Plant",5,5.0000,1
+"Alcea pallida","Plants","Plant",3,3.0000,1
+"Alkanna tinctoria","Plants","Plant",20,20.0000,1
+"Allium neapolitanum","Plants","Plant",10,10.0000,1
+"Allium subhirsutum","Plants","Plant",14,14.0000,1
+"Anagallis arvensis","Plants","Plant",7,7.0000,1
+"Anchusa undulata","Plants","Plant",19,19.0000,1
+"Anchusa variegata","Plants","Plant",2,2.0000,1
+"Anemone coronaria","Plants","Plant",19,19.0000,1
+"Anemone pavonina","Plants","Plant",10,10.0000,1
+"Anthyllis hermanniae","Plants","Plant",6,6.0000,1
+"Arisarum vulgare","Plants","Plant",3,3.0000,1
+"Asparagus acutifolius","Plants","Plant",5,5.0000,1
+"Asphodelus aestivus","Plants","Plant",54,54.0000,1
+"Astragalus monspessulanus","Plants","Plant",5,5.0000,1
+"Ballota acetabulosa","Plants","Plant",28,28.0000,1
+"Bellardia trixago","Plants","Plant",8,8.0000,1
+"Bellis annua","Plants","Plant",18,18.0000,1
+"Biscutella didyma","Plants","Plant",18,18.0000,1
+"Calendula arvensis","Plants","Plant",55,55.0000,1
+"Campanula drabifolia","Plants","Plant",4,4.0000,1
+"Capparis ovata","Plants","Plant",18,18.0000,1
+"Capsella bursa-pastoris","Plants","Plant",9,9.0000,2
+"Cardaria draba","Plants","Plant",53,53.0000,1
+"Carduus pycnocephalus","Plants","Plant",22,22.0000,1
+"Centaurea orphanidea","Plants","Plant",45,45.0000,1
+"Centaurea raphanina","Plants","Plant",4,4.0000,1
+"Chamomilla recutita","Plants","Plant",63,63.0000,3
+"Chondrilla juncea","Plants","Plant",13,13.0000,1
+"Chondrilla ramosissima","Plants","Plant",10,10.0000,1
+"Chrysanthemum coronarium","Plants","Plant",69,69.0000,1
+"Cistus parviflorus","Plants","Plant",47,47.0000,1
+"Cistus salvifolius","Plants","Plant",39,39.0000,3
+"Convolvulus althaeoides","Plants","Plant",32,32.0000,2
+"Convolvulus arvensis","Plants","Plant",22,22.0000,2
+"Convolvulus cantabrica","Plants","Plant",31,31.0000,1
+"Crocus cancellatus","Plants","Plant",14,14.0000,1
+"Crocus laevigatus","Plants","Plant",11,11.0000,1
+"Crupina crupinastrum","Plants","Plant",32,32.0000,1
+"Cyclamen graecum","Plants","Plant",18,18.0000,1
+"Daucus guttatus","Plants","Plant",14,14.0000,1
+"Delphinium peregrinum","Plants","Plant",12,12.0000,1
+"Dittrichia graveolens","Plants","Plant",14,14.0000,1
+"Ebenus sibthorpii","Plants","Plant",8,8.0000,1
+"Ecballium elaterium","Plants","Plant",31,31.0000,1
+"Echinops microcephalus","Plants","Plant",41,41.0000,1
+"Echium angustifolium","Plants","Plant",55,55.0000,1
+"Erica manipuliflora","Plants","Plant",17,17.0000,1
+"Erodium cicutarium","Plants","Plant",24,24.0000,2
+"Erodium malacoides","Plants","Plant",35,35.0000,1
+"Eruca vesicaria","Plants","Plant",13,13.0000,1
+"Eryngium campestre","Plants","Plant",25,25.0000,2
+"Euphorbia acanthothamnos","Plants","Plant",50,50.0000,1
+"Fritillaria graeca","Plants","Plant",3,3.0000,1
+"Fumana arabica","Plants","Plant",11,11.0000,1
+"Fumana thymifolia","Plants","Plant",34,34.0000,1
+"Fumaria amarysia","Plants","Plant",3,3.0000,1
+"Gagea granatelli","Plants","Plant",28,28.0000,1
+"Geranium rotundifolium","Plants","Plant",19,19.0000,1
+"Globularia alypum","Plants","Plant",9,9.0000,1
+"Helichrysum stoechas","Plants","Plant",35,35.0000,2
+"Heliotropium dolosum","Plants","Plant",48,48.0000,1
+"Heliotropium europaeum","Plants","Plant",43,43.0000,1
+"Heliotropium hirsutissimum","Plants","Plant",49,49.0000,1
+"Hirschfeldia incana","Plants","Plant",31,31.0000,1
+"Hymenocarpus circinnatus","Plants","Plant",2,2.0000,1
+"Hypericum empetrifolium","Plants","Plant",15,15.0000,1
+"Hypericum triquetrifolium","Plants","Plant",50,50.0000,1
+"Hypochoeris achyrophorus","Plants","Plant",63,63.0000,1
+"Iris pumila","Plants","Plant",4,4.0000,1
+"Lamium amplexicaule","Plants","Plant",9,9.0000,1
+"Lathyrus cicera","Plants","Plant",7,7.0000,1
+"Linum strictum","Plants","Plant",1,1.0000,1
+"Malcolmia chia","Plants","Plant",9,9.0000,1
+"Malva sylvestris","Plants","Plant",8,8.0000,3
+"Medicago lupulina","Plants","Plant",14,14.0000,2
+"Muscari commutatum","Plants","Plant",14,14.0000,1
+"Muscari comosum","Plants","Plant",18,18.0000,1
+"Muscari neglectum","Plants","Plant",18,18.0000,1
+"Nigella arvensis","Plants","Plant",27,27.0000,1
+"Ononis ornithopioides","Plants","Plant",10,10.0000,1
+"Ophrys lutea","Plants","Plant",10,10.0000,1
+"Ophrys sphegodes","Plants","Plant",10,10.0000,1
+"Ophrys tenthredinifera","Plants","Plant",10,10.0000,1
+"Ornithogalum exscapum","Plants","Plant",36,36.0000,1
+"Osyris alba","Plants","Plant",18,18.0000,3
+"Oxalis pes-caprae","Plants","Plant",5,5.0000,2
+"Pallenis spinosa","Plants","Plant",13,13.0000,1
+"Papaver rhoeas","Plants","Plant",24,24.0000,1
+"Petrorhagia velutina","Plants","Plant",9,9.0000,1
+"Phagnalon graecum","Plants","Plant",32,32.0000,1
+"Phlomis fructicosa","Plants","Plant",11,11.0000,1
+"Plantago lagopus","Plants","Plant",14,14.0000,1
+"Prasium majus","Plants","Plant",15,15.0000,1
+"Psoralea bituminosa","Plants","Plant",5,5.0000,2
+"Pterocephalus papposus","Plants","Plant",7,7.0000,1
+"Ranunculus spruneranus","Plants","Plant",27,27.0000,1
+"Reichardia picroides","Plants","Plant",13,13.0000,1
+"Reseda alba","Plants","Plant",43,43.0000,1
+"Ruta graveolens","Plants","Plant",8,8.0000,1
+"Salvia triloba","Plants","Plant",19,19.0000,1
+"Salvia verbenaca","Plants","Plant",22,22.0000,1
+"Sarcopoterium spinosum","Plants","Plant",1,1.0000,1
+"Satureja thymbra","Plants","Plant",34,34.0000,1
+"Scabiosa atropurpurea","Plants","Plant",42,42.0000,1
+"Scaligeria cretica","Plants","Plant",9,9.0000,1
+"Scandix australis","Plants","Plant",51,51.0000,1
+"Scilla autumnalis","Plants","Plant",25,25.0000,1
+"Scolymus hispanicus","Plants","Plant",11,11.0000,1
+"Scorzonera cana","Plants","Plant",39,39.0000,1
+"Scorzonera lanata","Plants","Plant",18,18.0000,1
+"Senecio vulgaris","Plants","Plant",20,20.0000,1
+"Sherardia arvensis","Plants","Plant",21,21.0000,1
+"Silene colorata","Plants","Plant",7,7.0000,1
+"Sisymbrium orientale","Plants","Plant",58,58.0000,1
+"Stachys cretica","Plants","Plant",31,31.0000,1
+"Sternbergia lutea","Plants","Plant",10,10.0000,1
+"Taraxacum officinale","Plants","Plant",15,15.0000,6
+"Teucrium polium","Plants","Plant",33,33.0000,1
+"Thapsia garganica","Plants","Plant",62,62.0000,1
+"Thymelaea hirsuta","Plants","Plant",48,48.0000,1
+"Thymelaea tartonraira","Plants","Plant",7,7.0000,1
+"Thymus capitatus","Plants","Plant",124,124.0000,1
+"Tordylium apulum","Plants","Plant",41,41.0000,1
+"Tragopogon porrifolius","Plants","Plant",10,10.0000,1
+"Tremastelma palestinum","Plants","Plant",9,9.0000,1
+"Trifolium repens","Plants","Plant",6,6.0000,11
+"Trifolium stellatum","Plants","Plant",12,12.0000,1
+"Urginea maritima","Plants","Plant",27,27.0000,1
+"Verbascum undulatum","Plants","Plant",18,18.0000,1
+"Veronica persica","Plants","Plant",7,7.0000,2

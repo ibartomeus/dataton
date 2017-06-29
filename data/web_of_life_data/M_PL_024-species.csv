@@ -1,0 +1,30 @@
+Specie,Kingdom,Role,Degree,Sum(connections strength),Networks presence
+"Anarta richardsoni","Animals","Pollinator",1,1.0000,3
+"Boloria improba ","Animals","Pollinator",1,8.0000,1
+"Bombus polaris","Animals","Pollinator",2,16.0000,2
+"Boreellus atriceps","Animals","Pollinator",2,4.0000,3
+"Colias hecla","Animals","Pollinator",1,11.0000,5
+"Colias nastes ","Animals","Pollinator",1,1.0000,1
+"Eupogonomyia probilofensis ","Animals","Pollinator",3,10.0000,1
+"Pogonomyiodes segnis ","Animals","Pollinator",3,7.0000,1
+"Protocalliphora sp1 M_PL_024","Animals","Pollinator",1,1.0000,1
+"Rhamphomyia sp1 M_PL_024","Animals","Pollinator",1,1.0000,1
+"Spilogona aesturium ","Animals","Pollinator",1,2.0000,1
+"Spilogona almquistii ","Animals","Pollinator",7,15.0000,1
+"Spilogona dorsata","Animals","Pollinator",2,3.0000,4
+"Spilogona hurdiana ","Animals","Pollinator",1,1.0000,1
+"Spilogona latilamina","Animals","Pollinator",1,5.0000,2
+"Spilogona melanosoma","Animals","Pollinator",2,2.0000,4
+"Spilogona projecta ","Animals","Pollinator",2,3.0000,1
+"Spilogona sanctipauli","Animals","Pollinator",6,43.0000,4
+"Arnica alpina","Plants","Plant",3,4.0000,2
+"Astragalus alpinus","Plants","Plant",3,27.0000,2
+"Caltha palustris ","Plants","Plant",5,7.0000,1
+"Cerastium alpinum","Plants","Plant",2,5.0000,6
+"Dryas integrifolia","Plants","Plant",6,34.0000,4
+"Geum rossii ","Plants","Plant",1,1.0000,1
+"Oxytropis arctica ","Plants","Plant",1,1.0000,1
+"Papaver radicatum","Plants","Plant",2,2.0000,4
+"Petasites frigidus ","Plants","Plant",1,1.0000,1
+"Potentilla vahliana ","Plants","Plant",9,44.0000,1
+"Taraxacum sp1 M_PL_024","Plants","Plant",5,8.0000,1

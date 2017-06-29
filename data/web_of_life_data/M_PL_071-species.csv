@@ -1,0 +1,53 @@
+Specie,Kingdom,Role,Degree,Sum(connections strength),Networks presence
+"Amazilia versicolor","Animals","Pollinator",1,1.0000,5
+"Chlorostilbon olivaresi","Animals","Pollinator",7,159.0000,1
+"Florisuga mellivora","Animals","Pollinator",1,1.0000,1
+"Phaethornis bourcieri","Animals","Pollinator",40,433.0000,1
+"Phaethornis malaris","Animals","Pollinator",15,145.0000,1
+"Phaethornis ruber","Animals","Pollinator",8,27.0000,2
+"Thalurania furcata","Animals","Pollinator",16,125.0000,1
+"Topaza pyra","Animals","Pollinator",1,1.0000,1
+"Aechmea chantiniii","Plants","Plant",3,52.0000,1
+"Aechmea contracta","Plants","Plant",2,24.0000,1
+"Aechmea corymbosa","Plants","Plant",1,10.0000,1
+"Aechmea rubiginosa","Plants","Plant",1,3.0000,1
+"Alloplectus savanarum","Plants","Plant",2,22.0000,1
+"Amasonia arborea","Plants","Plant",2,5.0000,1
+"Aphelandra macrostachya","Plants","Plant",2,52.0000,1
+"Billbergia decora","Plants","Plant",2,25.0000,1
+"Bromelia sp1 M_PL_071","Plants","Plant",2,5.0000,1
+"Calathea zingiberea","Plants","Plant",2,5.0000,1
+"Columnea ericae","Plants","Plant",2,6.0000,1
+"Costus scaber","Plants","Plant",1,7.0000,1
+"Decagonocarpus cornutus","Plants","Plant",1,102.0000,1
+"Drymonia semicordata","Plants","Plant",2,29.0000,1
+"Ferdinandusa sprucei","Plants","Plant",2,3.0000,1
+"Gurania rufipila","Plants","Plant",1,3.0000,1
+"Heliconia sp1 M_PL_071","Plants","Plant",2,24.0000,1
+"Heliconia tarumaensis","Plants","Plant",2,5.0000,1
+"Ischnosiphon lasiocoleus","Plants","Plant",2,19.0000,1
+"Isertia hypoleuca","Plants","Plant",5,52.0000,1
+"Isertia rosea","Plants","Plant",2,6.0000,1
+"Justicia cuatrecasii","Plants","Plant",1,3.0000,1
+"Markea coccinea","Plants","Plant",2,15.0000,1
+"Monotagma secundum","Plants","Plant",3,41.0000,1
+"Palicourea sp1 M_PL_071","Plants","Plant",1,17.0000,1
+"Palicourea subspicata","Plants","Plant",1,3.0000,1
+"Passiflora sp1 M_PL_071","Plants","Plant",3,5.0000,1
+"Passiflora vitifolia","Plants","Plant",2,25.0000,1
+"Payparola hulkiana","Plants","Plant",4,41.0000,1
+"Pepinia sp1 M_PL_071","Plants","Plant",2,20.0000,1
+"Psittacanthus lasianthus","Plants","Plant",2,11.0000,1
+"Pslicourea quadrifolia","Plants","Plant",3,14.0000,1
+"Psychotria bahiensis","Plants","Plant",3,14.0000,1
+"Psychotria peppigiana","Plants","Plant",1,12.0000,1
+"Psychotria platypoda","Plants","Plant",1,14.0000,1
+"Renealmia sp1 M_PL_071","Plants","Plant",1,1.0000,1
+"Retiniphyllum rhabdocalyx","Plants","Plant",3,74.0000,1
+"Ryania pyrifera","Plants","Plant",2,16.0000,1
+"Satyria panurensis","Plants","Plant",3,27.0000,1
+"Symphonia globulifera","Plants","Plant",2,17.0000,1
+"Tabernamontana macrocalyx","Plants","Plant",1,13.0000,1
+"Tachia occidentalis","Plants","Plant",2,34.0000,1
+"Vriesea chrysostachys","Plants","Plant",2,8.0000,1
+"Zygia lathetica","Plants","Plant",3,8.0000,1

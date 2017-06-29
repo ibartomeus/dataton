@@ -1,0 +1,73 @@
+Specie,Kingdom,Role,Degree,Sum(connections strength),Networks presence
+"Adelpha abyla","Animals","Pollinator",2,4.0000,1
+"Agapostemon sp1 M_PL_040","Animals","Pollinator",2,6.0000,1
+"Aguna asander jasper","Animals","Pollinator",2,15.0000,1
+"Anolis grahami","Animals","Pollinator",1,11.0000,1
+"Anolis sagrei","Animals","Pollinator",1,1.0000,1
+"Apis mellifera","Animals","Pollinator",6,79.0000,108
+"Atlantea pantoni","Animals","Pollinator",1,2.0000,1
+"Camponotus hannani","Animals","Pollinator",6,62.0000,1
+"Camponotus subdepilis","Animals","Pollinator",3,11.0000,1
+"Centris sp1 M_PL_040","Animals","Pollinator",3,17.0000,1
+"Centris sp2 M_PL_040","Animals","Pollinator",3,29.0000,1
+"Coereba flaveola ","Animals","Pollinator",4,5.0000,11
+"Conotelus obscurus","Animals","Pollinator",1,8.0000,1
+"Crematogaster steinheili","Animals","Pollinator",7,74.0000,1
+"Dione vanillae insularis","Animals","Pollinator",1,2.0000,1
+"Diptera sp1 M_PL_040","Animals","Pollinator",1,1.0000,1
+"Dryas iulia delila","Animals","Pollinator",1,43.0000,1
+"Euglossa jamaicensis","Animals","Pollinator",6,45.0000,1
+"Euneornis campestris","Animals","Pollinator",1,2.0000,1
+"Eurytides marcellinus","Animals","Pollinator",2,9.0000,1
+"Heliconius charitonius simulator","Animals","Pollinator",1,38.0000,1
+"Marpesia chiron","Animals","Pollinator",2,7.0000,1
+"Mellisuga minima","Animals","Pollinator",3,16.0000,1
+"Nesopsar nigerrimus","Animals","Pollinator",1,3.0000,1
+"Papilio thersites","Animals","Pollinator",1,11.0000,1
+"Paragymnetis lanius","Animals","Pollinator",1,1.0000,1
+"Paraphrissopoda chrysostoma","Animals","Pollinator",2,4.0000,1
+"Polistes sp1 M_PL_040","Animals","Pollinator",1,2.0000,1
+"Sphex jamaicensis","Animals","Pollinator",2,52.0000,1
+"Trochilus polytmus polytmus","Animals","Pollinator",5,20.0000,1
+"Unidentified sp1 M_PL_040","Animals","Pollinator",5,24.0000,1
+"Unidentified sp11 M_PL_040","Animals","Pollinator",1,4.0000,1
+"Unidentified sp12 M_PL_040","Animals","Pollinator",1,3.0000,1
+"Unidentified sp2 M_PL_040","Animals","Pollinator",5,6.0000,1
+"Unidentified sp3 M_PL_040","Animals","Pollinator",3,26.0000,1
+"Unidentified sp4 M_PL_040","Animals","Pollinator",3,68.0000,1
+"Unidentified sp5 M_PL_040","Animals","Pollinator",2,2.0000,1
+"Unidentified sp6 M_PL_040","Animals","Pollinator",2,2.0000,1
+"Unidentified sp7 M_PL_040","Animals","Pollinator",2,11.0000,1
+"Unidentified sp8 M_PL_040","Animals","Pollinator",1,1.0000,1
+"Unidentified sp9 M_PL_040","Animals","Pollinator",1,1.0000,1
+"Wasmannia auropunctata","Animals","Pollinator",10,240.0000,3
+"Xylocopa sp1 M_PL_040","Animals","Pollinator",5,34.0000,1
+"Aechmea paniculigera","Plants","Plant",3,28.0000,1
+"Blakea trinervia","Plants","Plant",4,12.0000,1
+"Byrsonima sp1 M_PL_040","Plants","Plant",5,9.0000,1
+"Dendropanax arboreus ","Plants","Plant",18,268.0000,5
+"Dendropanax sp1 M_PL_040","Plants","Plant",14,140.0000,1
+"Guarea swartzii","Plants","Plant",1,2.0000,1
+"Impatiens walleriana","Plants","Plant",4,22.0000,1
+"Miconia sp1 M_PL_040","Plants","Plant",7,44.0000,1
+"Nectandra coriacea","Plants","Plant",1,1.0000,1
+"Passiflora sp1 M_PL_040","Plants","Plant",2,3.0000,1
+"Petiveria sp1 M_PL_040","Plants","Plant",2,22.0000,1
+"Pilea sp1 M_PL_040","Plants","Plant",2,6.0000,1
+"Pilea sp2 M_PL_040","Plants","Plant",1,1.0000,1
+"Portlandia grandiflora","Plants","Plant",4,57.0000,1
+"Psidium montanum","Plants","Plant",2,2.0000,1
+"Spermacoce assurgens","Plants","Plant",3,39.0000,2
+"Tradescantia zebrina","Plants","Plant",1,1.0000,1
+"Unidentified sp13 M_PL_040","Plants","Plant",10,35.0000,1
+"Unidentified sp14 M_PL_040","Plants","Plant",7,85.0000,1
+"Unidentified sp15 M_PL_040","Plants","Plant",6,34.0000,1
+"Unidentified sp16 M_PL_040","Plants","Plant",3,5.0000,1
+"Unidentified sp17 M_PL_040","Plants","Plant",3,3.0000,1
+"Unidentified sp18 M_PL_040","Plants","Plant",2,5.0000,1
+"Unidentified sp19 M_PL_040","Plants","Plant",2,12.0000,1
+"Unidentified sp20 M_PL_040","Plants","Plant",2,5.0000,1
+"Unidentified sp21 M_PL_040","Plants","Plant",2,108.0000,1
+"Unidentified sp22 M_PL_040","Plants","Plant",1,2.0000,1
+"Unidentified sp23 M_PL_040","Plants","Plant",1,46.0000,1
+"Wallenia laurifolia","Plants","Plant",1,5.0000,1

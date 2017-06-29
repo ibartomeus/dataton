@@ -1,0 +1,50 @@
+Specie,Kingdom,Role,Degree,Sum(connections strength),Networks presence
+"Anastoechus latifrons","Animals","Pollinator",6,6.0000,1
+"Andrena wollestoni","Animals","Pollinator",2,2.0000,1
+"Anthidium manicatum","Animals","Pollinator",1,1.0000,2
+"Anthophora alluaudi","Animals","Pollinator",6,6.0000,2
+"Anthrax anthrax","Animals","Pollinator",4,4.0000,1
+"Apis mellifera","Animals","Pollinator",6,6.0000,108
+"Bibio elmoi","Animals","Pollinator",1,1.0000,2
+"Cephalodromia sp1 M_PL_008","Animals","Pollinator",3,3.0000,1
+"Colletes dimidiatus","Animals","Pollinator",2,2.0000,1
+"Cyclyrius webbianus","Animals","Pollinator",3,3.0000,3
+"Dermasothes gracile","Animals","Pollinator",1,1.0000,1
+"Drosophila sp1 M_PL_008","Animals","Pollinator",1,1.0000,1
+"Eristalis tenax","Animals","Pollinator",5,5.0000,20
+"Estheria simonyi","Animals","Pollinator",3,3.0000,1
+"Eucera gracilipes","Animals","Pollinator",4,4.0000,3
+"Euodynerus reflexus","Animals","Pollinator",6,6.0000,1
+"Gasteruption sp1 M_PL_008","Animals","Pollinator",2,2.0000,1
+"Geron hesperidon","Animals","Pollinator",6,6.0000,1
+"Hyleaus canariensis","Animals","Pollinator",4,4.0000,1
+"Lasioglossum actifrons","Animals","Pollinator",3,3.0000,1
+"Lasioglossum chalcodes","Animals","Pollinator",1,1.0000,2
+"Lasioglossum viride","Animals","Pollinator",4,4.0000,1
+"Leptochilus eatoni","Animals","Pollinator",1,1.0000,1
+"Linnaemyia soror","Animals","Pollinator",4,4.0000,2
+"Lucilia sericata ","Animals","Pollinator",2,2.0000,5
+"Macroglossum stellatarum","Animals","Pollinator",2,2.0000,6
+"Megachile canariensis","Animals","Pollinator",5,5.0000,1
+"Melecta curvispina","Animals","Pollinator",3,3.0000,1
+"Nyctia lugubris","Animals","Pollinator",1,1.0000,1
+"Osmia canariensis","Animals","Pollinator",3,3.0000,1
+"Peleteria ruficornis","Animals","Pollinator",1,1.0000,1
+"Phylloscopus collybita","Animals","Pollinator",1,1.0000,1
+"Scaeva albomaculata","Animals","Pollinator",2,2.0000,2
+"Serinus canarius","Animals","Pollinator",1,1.0000,1
+"Stomorhina lunata","Animals","Pollinator",2,2.0000,24
+"Tachina canariensis","Animals","Pollinator",1,1.0000,3
+"Tachysphex unicolor","Animals","Pollinator",1,1.0000,1
+"Unidentified sp1 M_PL_008","Animals","Pollinator",2,2.0000,1
+"Adenocarpus viscosus","Plants","Plant",2,2.0000,1
+"Argyranthemum teneriffae","Plants","Plant",7,7.0000,1
+"Echium wildpretii","Plants","Plant",18,18.0000,1
+"Erysimum scoparium","Plants","Plant",10,10.0000,1
+"Mentha longifolia","Plants","Plant",12,12.0000,1
+"Nepeta teydea","Plants","Plant",5,5.0000,1
+"Pimpinella cumbrae","Plants","Plant",14,14.0000,1
+"Pterocephalus lasiospermus","Plants","Plant",14,14.0000,1
+"Scrophularia glabrata","Plants","Plant",7,7.0000,1
+"Spartocytisus supranubius","Plants","Plant",9,9.0000,1
+"Tolpis webbii","Plants","Plant",8,8.0000,1

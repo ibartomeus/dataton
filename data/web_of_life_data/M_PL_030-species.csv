@@ -1,0 +1,82 @@
+Specie,Kingdom,Role,Degree,Sum(connections strength),Networks presence
+"Amazilia fibriata","Animals","Pollinator",2,2.0000,1
+"Amazilia tovasi","Animals","Pollinator",2,2.0000,1
+"Anthidiellum sp1 M_PL_030","Animals","Pollinator",1,1.0000,1
+"Apis mellifera","Animals","Pollinator",8,8.0000,108
+"Athidium sp1 M_PL_030","Animals","Pollinator",2,2.0000,1
+"Augochlora sp1 M_PL_030","Animals","Pollinator",1,1.0000,1
+"Augochlora sp2 M_PL_030","Animals","Pollinator",1,1.0000,1
+"Augochlorensis callichroa","Animals","Pollinator",7,7.0000,1
+"Augochloropsis sp1 M_PL_030","Animals","Pollinator",1,1.0000,1
+"Auhochloropsis vesta","Animals","Pollinator",4,4.0000,1
+"Campsomeris dorsata","Animals","Pollinator",2,2.0000,1
+"Ceratina sp1 M_PL_030","Animals","Pollinator",1,1.0000,1
+"Cerceris sp1 M_PL_030","Animals","Pollinator",2,2.0000,1
+"Chrysagria duodecimpuntata","Animals","Pollinator",1,1.0000,1
+"Cogia calchas","Animals","Pollinator",1,1.0000,1
+"Cyclocephala gravis","Animals","Pollinator",1,1.0000,1
+"Dialictus sp1 M_PL_030","Animals","Pollinator",3,3.0000,1
+"Dialictus sp2 M_PL_030","Animals","Pollinator",1,1.0000,1
+"Euglossa cordata","Animals","Pollinator",2,2.0000,2
+"Euhibus sp1 M_PL_030","Animals","Pollinator",1,1.0000,1
+"Eulaema nigrita","Animals","Pollinator",1,1.0000,1
+"Eumenes sp1 M_PL_030","Animals","Pollinator",2,2.0000,1
+"Eurema nise","Animals","Pollinator",2,2.0000,1
+"Exomalopsis sp1 M_PL_030","Animals","Pollinator",1,1.0000,1
+"Extemnius sp1 M_PL_030","Animals","Pollinator",1,1.0000,1
+"Helicobia morionella","Animals","Pollinator",2,2.0000,1
+"Heliopetes arsalte","Animals","Pollinator",2,2.0000,1
+"Junonia evarete ","Animals","Pollinator",1,1.0000,1
+"Megachile sp1 M_PL_030","Animals","Pollinator",1,1.0000,1
+"Melipona favosa","Animals","Pollinator",3,3.0000,1
+"Omicrom ruficolle","Animals","Pollinator",1,1.0000,1
+"Ornidia obesa","Animals","Pollinator",2,2.0000,47
+"Oxyssarcodexia peltata","Animals","Pollinator",2,2.0000,1
+"Pachodunerus brevithorax","Animals","Pollinator",1,1.0000,1
+"Palpada pusio","Animals","Pollinator",4,4.0000,1
+"Parancistrocerus sp1 M_PL_030","Animals","Pollinator",1,1.0000,1
+"Pepsis sp1 M_PL_030","Animals","Pollinator",1,1.0000,1
+"Pereirapis sp1 M_PL_030","Animals","Pollinator",3,3.0000,1
+"Phaenica sp1 M_PL_030","Animals","Pollinator",1,1.0000,1
+"Polistes subsericeus","Animals","Pollinator",3,3.0000,1
+"Polybia ignobilis","Animals","Pollinator",2,2.0000,1
+"Polybia occidentalis","Animals","Pollinator",4,4.0000,2
+"Pompeius amblyspoila","Animals","Pollinator",1,1.0000,1
+"Pyrgus oileus orcus","Animals","Pollinator",3,3.0000,1
+"Sarcophagula occidua","Animals","Pollinator",1,1.0000,1
+"Sphex melanopus","Animals","Pollinator",2,2.0000,1
+"Tabanus sp1 M_PL_030","Animals","Pollinator",1,1.0000,1
+"Toxomerus floralis","Animals","Pollinator",6,6.0000,1
+"Toxomerus marginatus","Animals","Pollinator",3,3.0000,2
+"Trigona angustula","Animals","Pollinator",1,1.0000,1
+"Urbanus dorantes dorantes","Animals","Pollinator",4,4.0000,1
+"Urbanus simplicius","Animals","Pollinator",1,1.0000,1
+"Xylocopa fibriata","Animals","Pollinator",1,1.0000,1
+"Aeschynomene pratensis","Plants","Plant",4,4.0000,1
+"Besmoscelis villosa","Plants","Plant",6,6.0000,1
+"Caperonia pallustris","Plants","Plant",3,3.0000,1
+"Clidemia capitellata","Plants","Plant",2,2.0000,1
+"Croton hirtus","Plants","Plant",3,3.0000,1
+"Cuphea o'donellii","Plants","Plant",6,6.0000,1
+"Desmodium barbatum","Plants","Plant",3,3.0000,1
+"Diodia multiflora","Plants","Plant",2,2.0000,1
+"Heliconia psittacorum","Plants","Plant",2,2.0000,1
+"Hyptis conferta","Plants","Plant",5,5.0000,1
+"Hyptis dilatata","Plants","Plant",10,10.0000,1
+"Ludwigia decurrens","Plants","Plant",3,3.0000,1
+"Ludwigia nervosa","Plants","Plant",16,16.0000,1
+"Melochia villosa","Plants","Plant",3,3.0000,1
+"Miconia stephananthera","Plants","Plant",2,2.0000,1
+"Mimosa camporum","Plants","Plant",3,3.0000,1
+"Montricharida arborescens","Plants","Plant",1,1.0000,1
+"Pterolepis glomerata","Plants","Plant",5,5.0000,1
+"Rhynchanthera serrulata","Plants","Plant",3,3.0000,1
+"Saggitaria quyanensis","Plants","Plant",3,3.0000,1
+"Sauvagesia rubiginosa","Plants","Plant",4,4.0000,1
+"Shultesia brachyptera","Plants","Plant",3,3.0000,1
+"Sinningia sp1 M_PL_030","Plants","Plant",2,2.0000,1
+"Synqonanthus caulescens","Plants","Plant",4,4.0000,1
+"Thalia geniculata","Plants","Plant",1,1.0000,1
+"Tyttnera scabra","Plants","Plant",4,4.0000,1
+"Xyris laxifolia","Plants","Plant",2,2.0000,1
+"Xyris savanensis","Plants","Plant",4,4.0000,1

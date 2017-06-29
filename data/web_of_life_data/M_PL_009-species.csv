@@ -1,0 +1,143 @@
+Specie,Kingdom,Role,Degree,Sum(connections strength),Networks presence
+"Acamptocladius submontanus","Animals","Pollinator",1,1.0000,1
+"Aclastus sp1 M_PL_009","Animals","Pollinator",5,5.0000,1
+"Aclastus sp2 M_PL_009","Animals","Pollinator",2,2.0000,1
+"Alliopsis glacialis","Animals","Pollinator",1,1.0000,1
+"Allophorocera lapponica ","Animals","Pollinator",1,1.0000,1
+"Alysiinae sp1 M_PL_009","Animals","Pollinator",1,1.0000,1
+"Alysiinae sp2 M_PL_009","Animals","Pollinator",1,1.0000,1
+"Alysiinae sp3 M_PL_009","Animals","Pollinator",1,1.0000,1
+"Alysiinae sp4 M_PL_009","Animals","Pollinator",1,1.0000,1
+"Alysiinae sp5 M_PL_009","Animals","Pollinator",1,1.0000,1
+"Anarta sp1 M_PL_009","Animals","Pollinator",1,1.0000,1
+"Anthomyiidae sp1 M_PL_009","Animals","Pollinator",1,1.0000,1
+"Anthomyiidae sp2 M_PL_009","Animals","Pollinator",1,1.0000,1
+"Anthomyiidae sp3 M_PL_009","Animals","Pollinator",1,1.0000,1
+"Arpedium sp1 M_PL_009","Animals","Pollinator",4,4.0000,1
+"Bellardia pubicornis","Animals","Pollinator",1,1.0000,1
+"Boletina sp1 M_PL_009","Animals","Pollinator",1,1.0000,1
+"Bombus alpinus","Animals","Pollinator",1,1.0000,1
+"Bombus hyperboreus","Animals","Pollinator",1,1.0000,2
+"Botanophila bidens","Animals","Pollinator",2,2.0000,1
+"Bradysia giraudi","Animals","Pollinator",1,1.0000,1
+"Bradysia sp1 M_PL_009","Animals","Pollinator",1,1.0000,1
+"Bradysia sp2 M_PL_009","Animals","Pollinator",1,1.0000,1
+"Bradysia sp3 M_PL_009","Animals","Pollinator",1,1.0000,1
+"Chamaepsila morio","Animals","Pollinator",1,1.0000,1
+"Chloropinae sp1 M_PL_009","Animals","Pollinator",6,6.0000,1
+"Cidaria sp1 M_PL_009","Animals","Pollinator",2,2.0000,1
+"Coenosia atritibia","Animals","Pollinator",1,1.0000,1
+"Coenosia octopunctata","Animals","Pollinator",1,1.0000,1
+"Corynoneura scutellata","Animals","Pollinator",1,1.0000,3
+"Corynoptera refrigerata","Animals","Pollinator",3,3.0000,1
+"Corynoptera sp1 M_PL_009","Animals","Pollinator",1,1.0000,1
+"Corynoptera sp2 M_PL_009","Animals","Pollinator",1,1.0000,1
+"Cotesia sp1 M_PL_009","Animals","Pollinator",3,3.0000,1
+"Dasineura sp1 M_PL_009","Animals","Pollinator",1,1.0000,1
+"Delia piliventris","Animals","Pollinator",1,1.0000,1
+"Dolichopus plumipes","Animals","Pollinator",1,1.0000,1
+"Egle minuta","Animals","Pollinator",1,1.0000,2
+"Egle parva","Animals","Pollinator",2,2.0000,1
+"Egle sp1 M_PL_009","Animals","Pollinator",2,2.0000,1
+"Empis lucida","Animals","Pollinator",3,3.0000,1
+"Fannia mollissima","Animals","Pollinator",1,1.0000,1
+"Gimnomera dorsala","Animals","Pollinator",1,1.0000,1
+"Heterotrissocladius subpilosus","Animals","Pollinator",1,1.0000,2
+"Ichneumonidae sp1 M_PL_009","Animals","Pollinator",1,1.0000,1
+"Ichneumonidae sp2 M_PL_009","Animals","Pollinator",1,1.0000,1
+"Ichneumonidae sp3 M_PL_009","Animals","Pollinator",1,1.0000,1
+"Ichneumonidae sp4 M_PL_009","Animals","Pollinator",1,1.0000,1
+"Limnophilus sp1 M_PL_009","Animals","Pollinator",3,3.0000,1
+"Limnophyes brachytomus","Animals","Pollinator",2,2.0000,2
+"Limnophyes natalensis","Animals","Pollinator",2,2.0000,1
+"Limnophyes ninae ","Animals","Pollinator",9,9.0000,1
+"Limnophyes schnelli ","Animals","Pollinator",1,1.0000,1
+"Lycoriella curvispina ","Animals","Pollinator",1,1.0000,1
+"Lycoriella freyi","Animals","Pollinator",1,1.0000,1
+"Lycoriella sp1 M_PL_009","Animals","Pollinator",1,1.0000,1
+"Lycoriella sp2 M_PL_009","Animals","Pollinator",1,1.0000,1
+"Megaselia cirriventris","Animals","Pollinator",1,1.0000,1
+"Megaselia coei ","Animals","Pollinator",1,1.0000,1
+"Megaselia digitalis","Animals","Pollinator",8,8.0000,1
+"Megaselia diversa ","Animals","Pollinator",9,9.0000,1
+"Megaselia giraudii","Animals","Pollinator",2,2.0000,1
+"Megaselia groenlandica ","Animals","Pollinator",1,1.0000,1
+"Megaselia pleuralis","Animals","Pollinator",1,1.0000,1
+"Megaselia sordida","Animals","Pollinator",2,2.0000,1
+"Megaselia sp1 M_PL_009","Animals","Pollinator",9,9.0000,1
+"Micropsectra radialis","Animals","Pollinator",5,5.0000,1
+"Micropsectra sp1 M_PL_009","Animals","Pollinator",2,2.0000,1
+"Micropsectra sp2 M_PL_009","Animals","Pollinator",1,1.0000,1
+"Mycomya fuscata","Animals","Pollinator",4,4.0000,1
+"Noctuidae sp1 M_PL_009","Animals","Pollinator",5,5.0000,1
+"Oliveridia tricornis ","Animals","Pollinator",4,4.0000,1
+"Orthocentrinae sp1 M_PL_009","Animals","Pollinator",2,2.0000,1
+"Paradelia sp1 M_PL_009","Animals","Pollinator",3,3.0000,1
+"Parapiophila vulgaris","Animals","Pollinator",6,6.0000,1
+"Pegomya haemorrhoum","Animals","Pollinator",1,1.0000,1
+"Pegomya sp1 M_PL_009","Animals","Pollinator",1,1.0000,1
+"Pegoplata aestiva","Animals","Pollinator",3,3.0000,1
+"Phaonia alpicola","Animals","Pollinator",10,10.0000,1
+"Phaonia lugubris","Animals","Pollinator",1,1.0000,1
+"Phaonia subfuscinervis","Animals","Pollinator",4,4.0000,1
+"Phygadeuon sp1 M_PL_009","Animals","Pollinator",2,2.0000,1
+"Phyllolabis macroura","Animals","Pollinator",1,1.0000,1
+"Phytomyza aquilonia","Animals","Pollinator",1,1.0000,1
+"Platygaster sp1 M_PL_009","Animals","Pollinator",1,1.0000,1
+"Platypalpus nigritarsis","Animals","Pollinator",1,1.0000,1
+"Podabrus sp1 M_PL_009","Animals","Pollinator",4,4.0000,1
+"Porizontini sp1 M_PL_009","Animals","Pollinator",1,1.0000,1
+"Pseudosmittia oxoniana ","Animals","Pollinator",1,1.0000,1
+"Pteromalidae sp1 M_PL_009","Animals","Pollinator",3,3.0000,1
+"Pteromalidae sp2 M_PL_009","Animals","Pollinator",1,1.0000,1
+"Rhamphomyia aethiops","Animals","Pollinator",4,4.0000,1
+"Rhamphomyia morio","Animals","Pollinator",2,2.0000,1
+"Rhamphomyia obscuripennis","Animals","Pollinator",1,1.0000,1
+"Rhamphomyia reflexa","Animals","Pollinator",4,4.0000,1
+"Rhaphium crassipes","Animals","Pollinator",1,1.0000,1
+"Smittia betuletorum ","Animals","Pollinator",1,1.0000,1
+"Smittia cf. aterrima","Animals","Pollinator",1,1.0000,1
+"Smittia sp1 M_PL_009","Animals","Pollinator",9,9.0000,1
+"Smittia sp2 M_PL_009","Animals","Pollinator",1,1.0000,1
+"Spilagona nitidicauda","Animals","Pollinator",2,2.0000,1
+"Spilogona alpica","Animals","Pollinator",1,1.0000,1
+"Spilogona megastoma","Animals","Pollinator",1,1.0000,1
+"Spilogona triangulifera","Animals","Pollinator",1,1.0000,1
+"Stenomacrus sp1 M_PL_009","Animals","Pollinator",1,1.0000,1
+"Tetrastichinae sp1 M_PL_009","Animals","Pollinator",1,1.0000,1
+"Thricops cunctans","Animals","Pollinator",1,1.0000,1
+"Thricops furcatus","Animals","Pollinator",2,2.0000,1
+"Thricops hirtulus","Animals","Pollinator",1,1.0000,1
+"Thricops nigritellus","Animals","Pollinator",1,1.0000,1
+"Thricops rostratus","Animals","Pollinator",1,1.0000,1
+"Trichosia truncata ","Animals","Pollinator",1,1.0000,1
+"Urbicola sp1 M_PL_009","Animals","Pollinator",3,3.0000,1
+"Xestommaster sp1 M_PL_009","Animals","Pollinator",3,3.0000,1
+"Zaphne barbiventris","Animals","Pollinator",1,1.0000,1
+"Zaphne frontata","Animals","Pollinator",1,1.0000,2
+"Zaphne sp1 M_PL_009","Animals","Pollinator",1,1.0000,1
+"Zaphne sp2 M_PL_009","Animals","Pollinator",1,1.0000,1
+"Antennaria alpina","Plants","Plant",4,4.0000,1
+"Arabis alpina","Plants","Plant",4,4.0000,1
+"Astragalus alpinus","Plants","Plant",4,4.0000,2
+"Bartsia alpina","Plants","Plant",1,1.0000,1
+"Cassiope hypnoides","Plants","Plant",2,2.0000,1
+"Cassiope tetragona","Plants","Plant",4,4.0000,5
+"Cerastium alpinum","Plants","Plant",14,14.0000,6
+"Diapensia lapponica","Plants","Plant",25,25.0000,1
+"Dryas octopetala","Plants","Plant",28,28.0000,2
+"Parnassia palustris","Plants","Plant",13,13.0000,2
+"Pinguicula alpina","Plants","Plant",6,6.0000,1
+"Polygonum viviparum","Plants","Plant",13,13.0000,6
+"Potentilla crantzii","Plants","Plant",24,24.0000,1
+"Rhodiola rosea","Plants","Plant",6,6.0000,1
+"Rhododendron lapponicum","Plants","Plant",5,5.0000,4
+"Salix lanata","Plants","Plant",9,9.0000,1
+"Salix polaris","Plants","Plant",3,3.0000,1
+"Salix reticulata","Plants","Plant",8,8.0000,1
+"Saxifraga aizoides","Plants","Plant",25,25.0000,1
+"Saxifraga oppositifolia","Plants","Plant",8,8.0000,4
+"Silene acaulis","Plants","Plant",15,15.0000,4
+"Taraxacum officinale","Plants","Plant",5,5.0000,6
+"Trollius europaeus","Plants","Plant",8,8.0000,1
+"Viola biflora","Plants","Plant",8,8.0000,1

@@ -1,0 +1,75 @@
+Specie,Kingdom,Role,Degree,Sum(connections strength),Networks presence
+"Agraulis vanillae","Animals","Pollinator",3,7.0000,2
+"Allosmaitia piplea","Animals","Pollinator",2,7.0000,1
+"Anartia jatrophae","Animals","Pollinator",1,1.0000,2
+"Anolis oculatus","Animals","Pollinator",1,1.0000,1
+"Apis mellifera","Animals","Pollinator",11,78.0000,108
+"Appias drusilla","Animals","Pollinator",6,22.0000,1
+"Ascia monuste","Animals","Pollinator",3,16.0000,1
+"Coereba flaveola ","Animals","Pollinator",5,12.0000,11
+"Cyanophaia bicolor","Animals","Pollinator",1,2.0000,1
+"Dryas iulia","Animals","Pollinator",4,8.0000,1
+"Electrostrymon angerona","Animals","Pollinator",3,12.0000,1
+"Eulampis holosericeus","Animals","Pollinator",1,4.0000,1
+"Eulampis jugularis","Animals","Pollinator",2,4.0000,1
+"Hemiargus hanno","Animals","Pollinator",1,1.0000,1
+"Janonia evarete","Animals","Pollinator",3,11.0000,1
+"Loxigilla noctis","Animals","Pollinator",1,2.0000,1
+"Marpesia petreus","Animals","Pollinator",1,4.0000,1
+"Orthorhyncus cristatus","Animals","Pollinator",14,144.0000,1
+"Phoebis sp1 M_PL_041","Animals","Pollinator",3,5.0000,1
+"Polygonus sp1 M_PL_041","Animals","Pollinator",3,12.0000,1
+"Pyrgus oileus","Animals","Pollinator",1,1.0000,1
+"Unidentified sp1 M_PL_041","Animals","Pollinator",10,76.0000,1
+"Unidentified sp10 M_PL_041","Animals","Pollinator",3,5.0000,1
+"Unidentified sp11 M_PL_041","Animals","Pollinator",1,1.0000,1
+"Unidentified sp12 M_PL_041","Animals","Pollinator",1,1.0000,1
+"Unidentified sp13 M_PL_041","Animals","Pollinator",1,3.0000,1
+"Unidentified sp15 M_PL_041","Animals","Pollinator",1,1.0000,1
+"Unidentified sp16 M_PL_041","Animals","Pollinator",1,3.0000,1
+"Unidentified sp17 M_PL_041","Animals","Pollinator",1,2.0000,1
+"Unidentified sp18 M_PL_041","Animals","Pollinator",1,4.0000,1
+"Unidentified sp19 M_PL_041","Animals","Pollinator",1,2.0000,1
+"Unidentified sp2 M_PL_041","Animals","Pollinator",9,57.0000,1
+"Unidentified sp20 M_PL_041","Animals","Pollinator",1,3.0000,1
+"Unidentified sp3 M_PL_041","Animals","Pollinator",6,39.0000,1
+"Unidentified sp4 M_PL_041","Animals","Pollinator",6,43.0000,1
+"Unidentified sp5 M_PL_041","Animals","Pollinator",5,14.0000,1
+"Unidentified sp6 M_PL_041","Animals","Pollinator",4,21.0000,1
+"Unidentified sp7 M_PL_041","Animals","Pollinator",4,16.0000,1
+"Unidentified sp8 M_PL_041","Animals","Pollinator",3,49.0000,1
+"Unidentified sp9 M_PL_041","Animals","Pollinator",2,2.0000,1
+"Urbanus sp1 M_PL_041","Animals","Pollinator",3,7.0000,1
+"Wasmannia auropunctata","Animals","Pollinator",5,24.0000,3
+"Xylocopa sp1 M_PL_041","Animals","Pollinator",6,45.0000,1
+"Byrsonima spicata","Plants","Plant",2,5.0000,2
+"Calliandra tergemina","Plants","Plant",6,10.0000,1
+"Centrosema virginianum","Plants","Plant",1,1.0000,1
+"Chamaecrista glandulosa","Plants","Plant",7,42.0000,1
+"Coccoloba sp1 M_PL_041","Plants","Plant",1,1.0000,1
+"Cordia martinicensis","Plants","Plant",23,220.0000,1
+"Cordia sp1 M_PL_041","Plants","Plant",12,64.0000,1
+"Cornutia pyramidata","Plants","Plant",4,58.0000,1
+"Croton flavens","Plants","Plant",3,48.0000,1
+"Daphnopsis americana","Plants","Plant",1,10.0000,2
+"Desmodium adscendens","Plants","Plant",1,1.0000,1
+"Gonzalagunia hirsuta","Plants","Plant",6,23.0000,1
+"Guettarda scabra","Plants","Plant",3,22.0000,1
+"Ipomoea tiliacea","Plants","Plant",4,12.0000,2
+"Lantana camara","Plants","Plant",5,27.0000,8
+"Lantana involucrata","Plants","Plant",5,10.0000,2
+"Ludwigia octovalvis","Plants","Plant",2,4.0000,1
+"Miconia striata","Plants","Plant",3,5.0000,1
+"Mimosa casta","Plants","Plant",4,31.0000,1
+"Odontonema nitidum","Plants","Plant",1,3.0000,1
+"Oxalis barrelieri","Plants","Plant",1,1.0000,1
+"Oxalis frutescens","Plants","Plant",1,1.0000,1
+"Palicourea crocea ","Plants","Plant",1,3.0000,2
+"Sida rhombifolia","Plants","Plant",3,6.0000,2
+"Spermacoce assurgens","Plants","Plant",2,5.0000,2
+"Stigmaphyllon diversifolium","Plants","Plant",1,1.0000,1
+"Tetrazygia angustifolia","Plants","Plant",1,9.0000,1
+"Unidentified sp21 M_PL_041","Plants","Plant",10,53.0000,1
+"Vernonia sp1 M_PL_041","Plants","Plant",14,46.0000,1
+"Wedelia calycina","Plants","Plant",13,42.0000,1
+"Wedelia trilobata","Plants","Plant",4,8.0000,1

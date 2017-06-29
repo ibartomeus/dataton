@@ -1,0 +1,79 @@
+Specie,Kingdom,Role,Degree,Sum(connections strength),Networks presence
+"Adoxia cheesemani","Animals","Pollinator",2,2.0000,2
+"Adoxia obscura","Animals","Pollinator",1,1.0000,3
+"Apsonia muscaria","Animals","Pollinator",2,2.0000,1
+"Argirophenga sp1 M_PL_027","Animals","Pollinator",3,3.0000,1
+"Argyrophenga janitae","Animals","Pollinator",1,1.0000,1
+"Asilis pilicomis","Animals","Pollinator",1,1.0000,2
+"Avibrissina isolata","Animals","Pollinator",4,4.0000,3
+"Avibrissina sp1 M_PL_027","Animals","Pollinator",1,1.0000,1
+"Calliphora quadrimaculata","Animals","Pollinator",1,1.0000,3
+"Cheilosia fulvipes","Animals","Pollinator",4,4.0000,2
+"Cheilosia sp1 M_PL_027","Animals","Pollinator",4,4.0000,1
+"Cyphon sp1 M_PL_027","Animals","Pollinator",1,1.0000,1
+"Erythronychia aliena","Animals","Pollinator",2,2.0000,2
+"Eudonia sabulosella","Animals","Pollinator",1,1.0000,3
+"Eulalia sp1 M_PL_027","Animals","Pollinator",1,1.0000,1
+"Gracilicera setosa","Animals","Pollinator",1,1.0000,3
+"Helophilus hochstetteri","Animals","Pollinator",1,1.0000,3
+"Heteria appendiculata","Animals","Pollinator",1,1.0000,3
+"Heteria plebeia","Animals","Pollinator",2,2.0000,3
+"Hoplocneme sp1 M_PL_027","Animals","Pollinator",1,1.0000,1
+"Lasioglossum sp1 M_PL_027","Animals","Pollinator",4,4.0000,1
+"Leioproctus fulvescens","Animals","Pollinator",6,6.0000,3
+"Leioproctus maritimus","Animals","Pollinator",1,1.0000,3
+"Leioproctus sp1 M_PL_027","Animals","Pollinator",4,4.0000,1
+"Leioproctus sp2 M_PL_027","Animals","Pollinator",2,2.0000,1
+"Lepidomyia decessum","Animals","Pollinator",1,1.0000,3
+"Mallochomacquartia setiventris","Animals","Pollinator",1,1.0000,2
+"Medinella flavotemorata","Animals","Pollinator",1,1.0000,2
+"Melangyna novaezelandiae","Animals","Pollinator",3,3.0000,3
+"Melangyna ortas","Animals","Pollinator",1,1.0000,3
+"Melangyna sp1 M_PL_027","Animals","Pollinator",9,9.0000,1
+"Mordella detracta","Animals","Pollinator",2,2.0000,3
+"Neotachina obtusa","Animals","Pollinator",1,1.0000,2
+"Neotachina sp1 M_PL_027","Animals","Pollinator",1,1.0000,1
+"Occisor sp1 M_PL_027","Animals","Pollinator",2,2.0000,1
+"Occisor versutus","Animals","Pollinator",1,1.0000,3
+"Pasiphila inductata","Animals","Pollinator",1,1.0000,3
+"Peremptor modica","Animals","Pollinator",3,3.0000,3
+"Pilinasica cingulata","Animals","Pollinator",2,2.0000,1
+"Procissio sp1 M_PL_027","Animals","Pollinator",2,2.0000,1
+"Proscissio cana","Animals","Pollinator",2,2.0000,3
+"Proscissio kumarensis","Animals","Pollinator",1,1.0000,2
+"Proscissio lateralis","Animals","Pollinator",2,2.0000,3
+"Protohystricia huttoni","Animals","Pollinator",1,1.0000,3
+"Protohystricia orientalis","Animals","Pollinator",1,1.0000,1
+"Rhopalomerus sp1 M_PL_027","Animals","Pollinator",1,1.0000,1
+"Unidentified sp1 M_PL_027","Animals","Pollinator",7,7.0000,1
+"Unidentified sp2 M_PL_027","Animals","Pollinator",3,3.0000,1
+"Unidentified sp3 M_PL_027","Animals","Pollinator",3,3.0000,1
+"Unidentified sp4 M_PL_027","Animals","Pollinator",2,2.0000,1
+"Unidentified sp5 M_PL_027","Animals","Pollinator",1,1.0000,1
+"Unidentified sp6 M_PL_027","Animals","Pollinator",1,1.0000,1
+"Unidentified sp7 M_PL_027","Animals","Pollinator",1,1.0000,1
+"Unidentified sp8 M_PL_027","Animals","Pollinator",1,1.0000,1
+"Unidentified sp9 M_PL_027","Animals","Pollinator",1,1.0000,1
+"Veluta albicincta","Animals","Pollinator",3,3.0000,2
+"Xylota montana","Animals","Pollinator",2,2.0000,3
+"Zealandotachina nigrifemorata","Animals","Pollinator",2,2.0000,3
+"Zealandotachina varipes","Animals","Pollinator",1,1.0000,3
+"Zorion minutum","Animals","Pollinator",1,1.0000,3
+"Cassinia vauvilliersi","Plants","Plant",12,12.0000,1
+"Celmisia armstrongii","Plants","Plant",7,7.0000,1
+"Celmisia coriacea","Plants","Plant",9,9.0000,1
+"Chrysanthemum leucanthemum","Plants","Plant",7,7.0000,3
+"Craspedia uniflora","Plants","Plant",7,7.0000,2
+"Galium propinquum","Plants","Plant",9,9.0000,3
+"Gentiana corymbifera","Plants","Plant",10,10.0000,1
+"Hebe odora","Plants","Plant",5,5.0000,2
+"Helichrysum bellidioides","Plants","Plant",8,8.0000,2
+"Hoheria glabrata","Plants","Plant",7,7.0000,1
+"Ourisia macrocarpa","Plants","Plant",1,1.0000,1
+"Parahebe lyalii","Plants","Plant",3,3.0000,2
+"Pratia angulata","Plants","Plant",11,11.0000,3
+"Ranunculus lyalii","Plants","Plant",2,2.0000,1
+"Senecio bellidioides","Plants","Plant",6,6.0000,1
+"Senecio bidwilli","Plants","Plant",4,4.0000,1
+"Senecio scorzoneroides","Plants","Plant",2,2.0000,2
+"Wahlenbergia albomarginata","Plants","Plant",10,10.0000,3

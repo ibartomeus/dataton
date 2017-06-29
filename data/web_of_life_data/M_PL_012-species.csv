@@ -1,0 +1,85 @@
+Specie,Kingdom,Role,Degree,Sum(connections strength),Networks presence
+"Acmaeodera cisti ","Animals","Pollinator",1,1.0000,1
+"Anaspis proteus ","Animals","Pollinator",2,2.0000,1
+"Andrena sp1 M_PL_012","Animals","Pollinator",1,1.0000,1
+"Anthophora alluaudi","Animals","Pollinator",8,8.0000,2
+"Apis mellifera","Animals","Pollinator",6,6.0000,108
+"Aricia cramera ","Animals","Pollinator",1,1.0000,2
+"Artogeia rapae ","Animals","Pollinator",5,5.0000,2
+"Attalus sp1 M_PL_012","Animals","Pollinator",2,2.0000,1
+"Bibio elmoi","Animals","Pollinator",1,1.0000,2
+"Bombus canariensis ","Animals","Pollinator",14,14.0000,1
+"Brachypterus sp1 M_PL_012","Animals","Pollinator",1,1.0000,1
+"Bruchidius wollastoni ","Animals","Pollinator",2,2.0000,1
+"Chrysotoxum triarcuatum ","Animals","Pollinator",1,1.0000,1
+"Cleora fortunata ","Animals","Pollinator",1,1.0000,1
+"Colias crocea ","Animals","Pollinator",1,1.0000,2
+"Cornutiplusia circumflexa ","Animals","Pollinator",1,1.0000,1
+"Cyclyrius webbianus","Animals","Pollinator",4,4.0000,3
+"Dasyphora albofasciata ","Animals","Pollinator",1,1.0000,1
+"Delia platura ","Animals","Pollinator",2,2.0000,3
+"Drosophila sp1 M_PL_012","Animals","Pollinator",1,1.0000,1
+"Empis sp1 M_PL_012","Animals","Pollinator",2,2.0000,1
+"Eristalis tenax","Animals","Pollinator",6,6.0000,20
+"Gonepteryx cleopatra","Animals","Pollinator",3,3.0000,2
+"Halictus sp1 M_PL_012","Animals","Pollinator",2,2.0000,1
+"Heringia adpropinquans ","Animals","Pollinator",1,1.0000,1
+"Lampides boeticus ","Animals","Pollinator",1,1.0000,4
+"Lasioglossum chalcodes","Animals","Pollinator",3,3.0000,2
+"Lasioglossum loetum ","Animals","Pollinator",3,3.0000,1
+"Lycaena phlaeas ","Animals","Pollinator",3,3.0000,8
+"Macroglossum stellatarum","Animals","Pollinator",6,6.0000,6
+"Maniola jurtina","Animals","Pollinator",3,3.0000,10
+"Meliscaeva auricollis ","Animals","Pollinator",2,2.0000,3
+"Mordella israelsoni ","Animals","Pollinator",1,1.0000,1
+"Myotropa florea ","Animals","Pollinator",1,1.0000,1
+"Pandoriana pandora ","Animals","Pollinator",2,2.0000,1
+"Pararge xiphioides ","Animals","Pollinator",3,3.0000,1
+"Piezodorus punctipes ","Animals","Pollinator",1,1.0000,1
+"Podalonia tydei ","Animals","Pollinator",1,1.0000,2
+"Pontia daplidice ","Animals","Pollinator",3,3.0000,3
+"Pseudogonia fasciata ","Animals","Pollinator",1,1.0000,1
+"Sapromyza sp1 M_PL_012","Animals","Pollinator",1,1.0000,1
+"Siphona sp1 M_PL_012","Animals","Pollinator",1,1.0000,1
+"Sphecodes marginatus ","Animals","Pollinator",1,1.0000,3
+"Sphecodes ruficrus ","Animals","Pollinator",1,1.0000,1
+"Tachina canariensis","Animals","Pollinator",4,4.0000,3
+"Thaumatomyia notata ","Animals","Pollinator",1,1.0000,1
+"Thyreus histrionicus ","Animals","Pollinator",3,3.0000,1
+"Tricimba humeralis ","Animals","Pollinator",1,1.0000,1
+"Unidentified sp1 M_PL_012","Animals","Pollinator",16,16.0000,1
+"Unidentified sp2 M_PL_012","Animals","Pollinator",1,1.0000,1
+"Unidentified sp3 M_PL_012","Animals","Pollinator",1,1.0000,1
+"Unidentified sp4 M_PL_012","Animals","Pollinator",1,1.0000,1
+"Vanessa atalanta ","Animals","Pollinator",1,1.0000,3
+"Vanessa cardui ","Animals","Pollinator",1,1.0000,3
+"Vanessa indica ","Animals","Pollinator",7,7.0000,5
+"Adenocarpus foliosus","Plants","Plant",2,2.0000,1
+"Ageretina adenophora","Plants","Plant",1,1.0000,1
+"Aichryson laxum","Plants","Plant",1,1.0000,1
+"Anacyclus radiatus","Plants","Plant",15,15.0000,1
+"Andryala pinnatifida","Plants","Plant",13,13.0000,1
+"Appolonias barbujana","Plants","Plant",1,1.0000,1
+"Argyranthemum broussonetti","Plants","Plant",1,1.0000,1
+"Carduus tenuiflorus","Plants","Plant",1,1.0000,1
+"Cedronella canariensis","Plants","Plant",24,24.0000,1
+"Cistus monspeliensis","Plants","Plant",3,3.0000,2
+"Echium plantagineum","Plants","Plant",6,6.0000,2
+"Erica arborea","Plants","Plant",1,1.0000,1
+"Galactites tomentosa","Plants","Plant",19,19.0000,3
+"Geranium canariense","Plants","Plant",11,11.0000,1
+"Geranium robertianum","Plants","Plant",1,1.0000,5
+"Hypericum grandifolium","Plants","Plant",1,1.0000,1
+"Ilex canarienis","Plants","Plant",2,2.0000,1
+"Laurus azorica","Plants","Plant",10,10.0000,2
+"Leontodon taraxacoides","Plants","Plant",2,2.0000,1
+"Picconia excelsa","Plants","Plant",2,2.0000,1
+"Psoralia bituminosa","Plants","Plant",1,1.0000,1
+"Ranunculus cortusaefolius","Plants","Plant",2,2.0000,1
+"Raphanus raphanistrum","Plants","Plant",3,3.0000,1
+"Rhamnus glandulosa","Plants","Plant",1,1.0000,1
+"Senecio steetzii","Plants","Plant",9,9.0000,1
+"Silene gallica","Plants","Plant",1,1.0000,1
+"Sonchus cf. ortunoi","Plants","Plant",7,7.0000,1
+"Sonchus tenerrimus","Plants","Plant",2,2.0000,2
+"Viola riviniana","Plants","Plant",2,2.0000,1

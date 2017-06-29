@@ -1,0 +1,98 @@
+Specie,Kingdom,Role,Degree,Sum(connections strength),Networks presence
+"Agraulis vanillae","Animals","Pollinator",3,3.0000,2
+"Anartia jatrophae","Animals","Pollinator",3,3.0000,2
+"Apis mellifera","Animals","Pollinator",19,19.0000,108
+"Ascia josephina","Animals","Pollinator",2,2.0000,1
+"Centris dirrhoda","Animals","Pollinator",2,2.0000,1
+"Centris sp1 M_PL_035","Animals","Pollinator",2,2.0000,1
+"Coereba flaveola ","Animals","Pollinator",3,3.0000,11
+"Culex sp1 M_PL_035","Animals","Pollinator",1,1.0000,1
+"Danaus eresimus","Animals","Pollinator",1,1.0000,1
+"Danaus gilippus","Animals","Pollinator",3,3.0000,1
+"Dielis dorsata","Animals","Pollinator",8,8.0000,1
+"Eristalis vinatorum","Animals","Pollinator",5,5.0000,1
+"Euglossa cordata","Animals","Pollinator",4,4.0000,2
+"Eurema sp1 M_PL_035","Animals","Pollinator",3,3.0000,1
+"Exomalopsis sp1 M_PL_035","Animals","Pollinator",4,4.0000,1
+"Hylephila phyleus","Animals","Pollinator",1,1.0000,1
+"Junonia sp1 M_PL_035","Animals","Pollinator",5,5.0000,1
+"Leptotes cassius","Animals","Pollinator",3,3.0000,1
+"Mellisuga humilis","Animals","Pollinator",6,6.0000,1
+"Microbembex monadonta","Animals","Pollinator",3,3.0000,1
+"Oncopeltus piltus","Animals","Pollinator",4,4.0000,1
+"Papilio polydamas","Animals","Pollinator",7,7.0000,1
+"Phoebis sennae","Animals","Pollinator",3,3.0000,3
+"Polygonus leo","Animals","Pollinator",4,4.0000,1
+"Strymon columella","Animals","Pollinator",2,2.0000,1
+"Trochilus polytmus","Animals","Pollinator",6,6.0000,1
+"Unidentified sp1 M_PL_035","Animals","Pollinator",31,31.0000,1
+"Unidentified sp2 M_PL_035","Animals","Pollinator",17,17.0000,1
+"Unidentified sp3 M_PL_035","Animals","Pollinator",8,8.0000,1
+"Unidentified sp4 M_PL_035","Animals","Pollinator",4,4.0000,1
+"Unidentified sp5 M_PL_035","Animals","Pollinator",3,3.0000,1
+"Unidentified sp6 M_PL_035","Animals","Pollinator",2,2.0000,1
+"Unidentified sp7 M_PL_035","Animals","Pollinator",1,1.0000,1
+"Unidentified sp8 M_PL_035","Animals","Pollinator",1,1.0000,1
+"Urbanus proteus","Animals","Pollinator",3,3.0000,1
+"Xylocopa sp1 M_PL_035","Animals","Pollinator",1,1.0000,1
+"Alternanthera ficoidea","Plants","Plant",3,3.0000,1
+"Argythamnia candicans","Plants","Plant",1,1.0000,1
+"Ascleptas curassavica","Plants","Plant",2,2.0000,1
+"Avicennia germinans","Plants","Plant",1,1.0000,2
+"Bauhinia divaricata","Plants","Plant",4,4.0000,1
+"Blechum pyramidatum","Plants","Plant",5,5.0000,1
+"Borreria laevis","Plants","Plant",7,7.0000,1
+"Bourreria succulenta","Plants","Plant",1,1.0000,1
+"Broughtonia sanguinea","Plants","Plant",1,1.0000,1
+"Bunchosia media","Plants","Plant",2,2.0000,1
+"Bursera simaruba ","Plants","Plant",3,3.0000,2
+"Byrsonia coriacea","Plants","Plant",1,1.0000,1
+"Capparis ferruginea","Plants","Plant",1,1.0000,1
+"Capraria biflora","Plants","Plant",3,3.0000,1
+"Cassia occidentalis","Plants","Plant",4,4.0000,2
+"Cassia sp1 M_PL_035","Plants","Plant",4,4.0000,1
+"Cissus sicycoides","Plants","Plant",1,1.0000,1
+"Conocarpus erectus","Plants","Plant",2,2.0000,1
+"Cordia brownei","Plants","Plant",2,2.0000,1
+"Cordia gerascanthus","Plants","Plant",6,6.0000,1
+"Cordia globosa","Plants","Plant",11,11.0000,1
+"Cordia sebestena","Plants","Plant",4,4.0000,1
+"Crotalaria verrucosa","Plants","Plant",2,2.0000,1
+"Ehretia tinifolia","Plants","Plant",4,4.0000,2
+"Eupatorium odoratum","Plants","Plant",6,6.0000,1
+"Euphorbia heterophylla","Plants","Plant",1,1.0000,1
+"Euphorbia hyssopifolia","Plants","Plant",1,1.0000,1
+"Evolvulus nummularius","Plants","Plant",3,3.0000,1
+"Guazuma ulmifolia","Plants","Plant",2,2.0000,1
+"Indigofera tinctoria","Plants","Plant",2,2.0000,2
+"Ipomoea acuminata","Plants","Plant",3,3.0000,1
+"Ipomoea tiliacea","Plants","Plant",1,1.0000,2
+"Jacquinia arborea","Plants","Plant",1,1.0000,1
+"Lantana camara","Plants","Plant",1,1.0000,8
+"Lantana involucrata","Plants","Plant",4,4.0000,2
+"Lippia nodiflora","Plants","Plant",1,1.0000,1
+"Malpighia glabra","Plants","Plant",1,1.0000,1
+"Melochia nodiflora","Plants","Plant",3,3.0000,1
+"Merremia umbellata","Plants","Plant",2,2.0000,1
+"Mikania micrantha","Plants","Plant",4,4.0000,1
+"Mimosa pudica","Plants","Plant",1,1.0000,1
+"Momordica charantia ","Plants","Plant",1,1.0000,4
+"Morinda royoc","Plants","Plant",9,9.0000,1
+"Philoxerus vermicularis","Plants","Plant",1,1.0000,1
+"Physalis angulata","Plants","Plant",1,1.0000,1
+"Piscidia piscipula","Plants","Plant",8,8.0000,1
+"Rhabdadenia biflora","Plants","Plant",1,1.0000,1
+"Sarcostemma clausum","Plants","Plant",1,1.0000,1
+"Sesuvium portulacastrum","Plants","Plant",1,1.0000,2
+"Solanum erianthum","Plants","Plant",1,1.0000,1
+"Solanum havanense","Plants","Plant",1,1.0000,1
+"Solanum torvum","Plants","Plant",1,1.0000,2
+"Spilanthes urens","Plants","Plant",13,13.0000,1
+"Stachytarpheta jamaicensis","Plants","Plant",12,12.0000,1
+"Stylosanthes hamata","Plants","Plant",1,1.0000,1
+"Thunbergia fragrans","Plants","Plant",2,2.0000,1
+"Tribulus cistoides","Plants","Plant",1,1.0000,2
+"Turnera ulmifolia","Plants","Plant",2,2.0000,1
+"Urechites lutea","Plants","Plant",4,4.0000,1
+"Vernonia cinerea","Plants","Plant",1,1.0000,1
+"Waltheria indica","Plants","Plant",4,4.0000,1

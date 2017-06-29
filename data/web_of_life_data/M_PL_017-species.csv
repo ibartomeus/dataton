@@ -1,0 +1,105 @@
+Specie,Kingdom,Role,Degree,Sum(connections strength),Networks presence
+"Aglais urticae","Animals","Pollinator",3,4.0000,1
+"Apis mellifera","Animals","Pollinator",1,5.0000,108
+"Bombus lapidarius","Animals","Pollinator",4,6.0000,9
+"Bombus muscorum","Animals","Pollinator",2,10.0000,2
+"Bombus pascuorum","Animals","Pollinator",5,27.0000,10
+"Bombus terrestris","Animals","Pollinator",2,6.0000,11
+"Chrysotoxum bicinctum","Animals","Pollinator",1,5.0000,3
+"Episyrphus arbustorum","Animals","Pollinator",6,25.0000,1
+"Episyrphus balteatus","Animals","Pollinator",14,159.0000,17
+"Eriothrix rufomaculata","Animals","Pollinator",14,198.0000,1
+"Eristalis pertinax","Animals","Pollinator",5,10.0000,5
+"Eristalis tenax","Animals","Pollinator",7,33.0000,20
+"Helophilus pendulus","Animals","Pollinator",4,8.0000,4
+"Helophilus trivittatus","Animals","Pollinator",1,1.0000,4
+"Maniola jurtina","Animals","Pollinator",2,2.0000,10
+"Melanostoma mellinum","Animals","Pollinator",9,26.0000,8
+"Melanostoma scalare","Animals","Pollinator",7,12.0000,12
+"Meliscaeva auricollis ","Animals","Pollinator",3,6.0000,3
+"Metasyrphus corollae","Animals","Pollinator",3,6.0000,6
+"Pieris brassicae","Animals","Pollinator",2,4.0000,3
+"Platycheirus albimanus","Animals","Pollinator",3,8.0000,1
+"Platycheirus clypeatus","Animals","Pollinator",3,12.0000,2
+"Platycheirus scutatus","Animals","Pollinator",1,1.0000,3
+"Polyommatus icarus ","Animals","Pollinator",3,6.0000,9
+"Psithyrus sp1 M_PL_017","Animals","Pollinator",2,2.0000,1
+"Pyonia tithonus","Animals","Pollinator",3,7.0000,1
+"Rhingia campestris","Animals","Pollinator",4,6.0000,5
+"Scaeva pyrastri","Animals","Pollinator",1,1.0000,5
+"Scatophaga stercoraria","Animals","Pollinator",3,13.0000,4
+"Sphaerophoria scripta","Animals","Pollinator",17,247.0000,10
+"Symphyta sp1 M_PL_017","Animals","Pollinator",7,67.0000,1
+"Syritta pipiens","Animals","Pollinator",10,60.0000,12
+"Syrphus ribesii","Animals","Pollinator",1,6.0000,7
+"Syrphus vitripennis.","Animals","Pollinator",2,8.0000,1
+"Thymelicus sylvestris","Animals","Pollinator",1,1.0000,5
+"Unidentified sp1 M_PL_017","Animals","Pollinator",4,4.0000,1
+"Unidentified sp10 M_PL_017","Animals","Pollinator",1,5.0000,1
+"Unidentified sp11 M_PL_017","Animals","Pollinator",1,1.0000,1
+"Unidentified sp12 M_PL_017","Animals","Pollinator",2,4.0000,1
+"Unidentified sp13 M_PL_017","Animals","Pollinator",3,20.0000,1
+"Unidentified sp14 M_PL_017","Animals","Pollinator",2,2.0000,1
+"Unidentified sp15 M_PL_017","Animals","Pollinator",6,39.0000,1
+"Unidentified sp16 M_PL_017","Animals","Pollinator",3,13.0000,1
+"Unidentified sp17 M_PL_017","Animals","Pollinator",8,60.0000,1
+"Unidentified sp18 M_PL_017","Animals","Pollinator",5,51.0000,1
+"Unidentified sp19 M_PL_017","Animals","Pollinator",3,12.0000,1
+"Unidentified sp2 M_PL_017","Animals","Pollinator",1,4.0000,1
+"Unidentified sp20 M_PL_017","Animals","Pollinator",4,4.0000,1
+"Unidentified sp21 M_PL_017","Animals","Pollinator",1,1.0000,1
+"Unidentified sp22 M_PL_017","Animals","Pollinator",9,164.0000,1
+"Unidentified sp23 M_PL_017","Animals","Pollinator",1,1.0000,1
+"Unidentified sp24 M_PL_017","Animals","Pollinator",1,4.0000,1
+"Unidentified sp25 M_PL_017","Animals","Pollinator",2,4.0000,1
+"Unidentified sp26 M_PL_017","Animals","Pollinator",1,1.0000,1
+"Unidentified sp27 M_PL_017","Animals","Pollinator",3,5.0000,1
+"Unidentified sp28 M_PL_017","Animals","Pollinator",1,2.0000,1
+"Unidentified sp29 M_PL_017","Animals","Pollinator",2,11.0000,1
+"Unidentified sp3 M_PL_017","Animals","Pollinator",2,2.0000,1
+"Unidentified sp30 M_PL_017","Animals","Pollinator",1,1.0000,1
+"Unidentified sp31 M_PL_017","Animals","Pollinator",8,146.0000,1
+"Unidentified sp32 M_PL_017","Animals","Pollinator",18,387.0000,1
+"Unidentified sp33 M_PL_017","Animals","Pollinator",4,18.0000,1
+"Unidentified sp34 M_PL_017","Animals","Pollinator",1,1.0000,1
+"Unidentified sp35 M_PL_017","Animals","Pollinator",1,1.0000,1
+"Unidentified sp36 M_PL_017","Animals","Pollinator",1,2.0000,1
+"Unidentified sp37 M_PL_017","Animals","Pollinator",1,1.0000,1
+"Unidentified sp38 M_PL_017","Animals","Pollinator",4,12.0000,1
+"Unidentified sp39 M_PL_017","Animals","Pollinator",8,76.0000,1
+"Unidentified sp4 M_PL_017","Animals","Pollinator",1,1.0000,1
+"Unidentified sp40 M_PL_017","Animals","Pollinator",1,2.0000,1
+"Unidentified sp41 M_PL_017","Animals","Pollinator",3,3.0000,1
+"Unidentified sp42 M_PL_017","Animals","Pollinator",12,92.0000,1
+"Unidentified sp43 M_PL_017","Animals","Pollinator",2,6.0000,1
+"Unidentified sp5 M_PL_017","Animals","Pollinator",1,1.0000,1
+"Unidentified sp6 M_PL_017","Animals","Pollinator",2,3.0000,1
+"Unidentified sp7 M_PL_017","Animals","Pollinator",2,4.0000,1
+"Unidentified sp8 M_PL_017","Animals","Pollinator",4,10.0000,1
+"Unidentified sp9 M_PL_017","Animals","Pollinator",1,2.0000,1
+"Xanthogramma pedissequum","Animals","Pollinator",1,2.0000,1
+"Aethusa cynapium","Plants","Plant",12,43.0000,1
+"Agrimonia eupatoria","Plants","Plant",8,11.0000,1
+"Angelica sylvestris","Plants","Plant",9,14.0000,4
+"Centaurea nigra","Plants","Plant",20,60.0000,3
+"Chamerion angustifolium","Plants","Plant",10,23.0000,1
+"Clematis vitalba","Plants","Plant",4,6.0000,1
+"Convolvulus arvensis","Plants","Plant",3,4.0000,2
+"Crepis capillaris","Plants","Plant",12,30.0000,1
+"Daucus carota","Plants","Plant",46,937.0000,4
+"Eupatorium cannabinum","Plants","Plant",23,140.0000,3
+"Euphrasia officinalis","Plants","Plant",4,6.0000,1
+"Hypochoeris radicata","Plants","Plant",10,38.0000,6
+"Knautia arvensis","Plants","Plant",20,46.0000,2
+"Lathyrus pratensis","Plants","Plant",2,2.0000,5
+"Leontodon autumnalis","Plants","Plant",13,55.0000,1
+"Leontodon hispidus","Plants","Plant",34,435.0000,1
+"Leontodon saxatilis","Plants","Plant",4,13.0000,1
+"Linum catharticum","Plants","Plant",7,24.0000,2
+"Lotus corniculatus","Plants","Plant",2,2.0000,4
+"Medicago lupulina","Plants","Plant",2,4.0000,2
+"Plantago major","Plants","Plant",3,15.0000,2
+"Rubus fruticosus","Plants","Plant",1,1.0000,3
+"Senecio jacobea","Plants","Plant",8,13.0000,3
+"Torilis japonica","Plants","Plant",25,215.0000,4
+"Trifolium pratense","Plants","Plant",17,46.0000,5

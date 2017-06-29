@@ -1,0 +1,37 @@
+Specie,Kingdom,Role,Degree,Sum(connections strength),Networks presence
+"Clytolaema rubricauda","Animals","Pollinator",7,224.9000,5
+"Leucochloris albicollis","Animals","Pollinator",2,49.2000,2
+"Phaethornis eurynome","Animals","Pollinator",28,1544.6000,4
+"Phaethornis squalidus","Animals","Pollinator",19,628.6000,2
+"Thalurania glaucopis","Animals","Pollinator",17,652.7000,5
+"Abutilon bedfordianum","Plants","Plant",3,100.0000,1
+"Aechmea nudicaulis","Plants","Plant",4,100.0000,2
+"Aechmea vanhoutteana","Plants","Plant",4,100.0000,2
+"Billbergia distachya","Plants","Plant",3,100.0000,1
+"Billbergia vitata","Plants","Plant",3,100.0000,1
+"Bomarea edulis","Plants","Plant",3,100.0000,1
+"Fuchsia regia","Plants","Plant",3,100.0000,6
+"Hippeastrum aulicum","Plants","Plant",3,100.0000,2
+"Justicia sebastianopolitanae","Plants","Plant",1,100.0000,1
+"Manettia mirtis","Plants","Plant",3,100.0000,1
+"Mendoncia sp1 M_PL_066","Plants","Plant",3,100.0000,1
+"Nematanthus crassifolius","Plants","Plant",1,100.0000,1
+"Nematanthus fornix","Plants","Plant",3,100.0000,1
+"Nematanthus lanceolatus","Plants","Plant",2,100.0000,1
+"Nidularium itatiaiae","Plants","Plant",1,100.0000,1
+"Odontonema barlerioides","Plants","Plant",2,100.0000,1
+"Pitcaimia flammea","Plants","Plant",3,100.0000,1
+"Psittacanthus flavo viridis","Plants","Plant",2,100.0000,1
+"Pyrostegia venusta","Plants","Plant",4,100.0000,2
+"Quesnelia augusto-coburgii","Plants","Plant",1,100.0000,1
+"Salvia sellowiana","Plants","Plant",2,100.0000,1
+"Sinningia cooperi","Plants","Plant",3,100.0000,2
+"Sinningia gigantifolia","Plants","Plant",2,100.0000,1
+"Siphocampylus longepedunculatus","Plants","Plant",1,100.0000,1
+"Staurogyne itatiaiae","Plants","Plant",2,100.0000,1
+"Stromanthe thalia","Plants","Plant",3,100.0000,1
+"Tillandsia gardneri","Plants","Plant",2,100.0000,1
+"Velloziela dracocephaloides","Plants","Plant",1,100.0000,1
+"Vriesea carinata","Plants","Plant",2,100.0000,3
+"Vriesea longicaulis","Plants","Plant",2,100.0000,1
+"Vriesea sp1 M_PL_066","Plants","Plant",1,100.0000,1

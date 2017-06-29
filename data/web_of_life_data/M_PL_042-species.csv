@@ -1,0 +1,19 @@
+Specie,Kingdom,Role,Degree,Sum(connections strength),Networks presence
+"Halmenus cuspidatus","Animals","Pollinator",5,5.0000,1
+"Lepidanthrax tinctus","Animals","Pollinator",6,6.0000,2
+"Phoebis sennae","Animals","Pollinator",1,1.0000,3
+"Unidentified sp1 M_PL_042","Animals","Pollinator",1,1.0000,1
+"Unidentified sp2 M_PL_042","Animals","Pollinator",1,1.0000,1
+"Xylocopa darwini","Animals","Pollinator",11,11.0000,2
+"Chiococa alba","Plants","Plant",3,3.0000,1
+"Cordia lutea","Plants","Plant",1,1.0000,2
+"Cordia revoluta","Plants","Plant",1,1.0000,1
+"Darwiniothamnus tenuifolius","Plants","Plant",3,3.0000,2
+"Jasminoserius thouarsii","Plants","Plant",1,1.0000,1
+"Lippia rosmarinifolia","Plants","Plant",1,1.0000,1
+"Opuntia echios","Plants","Plant",3,3.0000,2
+"Passiflora foetida","Plants","Plant",1,1.0000,2
+"Pectis tenuifolia","Plants","Plant",4,4.0000,1
+"Plumbago scandens","Plants","Plant",1,1.0000,3
+"Scalesia affinis","Plants","Plant",3,3.0000,2
+"Waltheria ovata","Plants","Plant",3,3.0000,2

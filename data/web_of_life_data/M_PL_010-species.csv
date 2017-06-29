@@ -1,0 +1,108 @@
+Specie,Kingdom,Role,Degree,Sum(connections strength),Networks presence
+"Aedes impiger","Animals","Pollinator",11,11.0000,4
+"Aedes nigripes","Animals","Pollinator",15,15.0000,4
+"Aphidius sp1 M_PL_010","Animals","Pollinator",1,1.0000,1
+"Bombus sp1 M_PL_010","Animals","Pollinator",4,4.0000,1
+"Brachypogon sp1 M_PL_010","Animals","Pollinator",5,5.0000,1
+"Bradysia sp1 M_PL_010","Animals","Pollinator",16,16.0000,1
+"Chironomus sp1 M_PL_010","Animals","Pollinator",1,1.0000,1
+"Clossiana chariclea","Animals","Pollinator",15,15.0000,2
+"Colias hecla","Animals","Pollinator",5,5.0000,5
+"Cricotopus sp1 M_PL_010","Animals","Pollinator",4,4.0000,1
+"Culicoides sp1 M_PL_010","Animals","Pollinator",6,6.0000,1
+"Delia echinata","Animals","Pollinator",2,2.0000,1
+"Drymeia groenlandica","Animals","Pollinator",3,3.0000,2
+"Drymeia segnis","Animals","Pollinator",11,11.0000,1
+"Entephria puncticeps","Animals","Pollinator",2,2.0000,1
+"Eukiefferiella sp1 M_PL_010","Animals","Pollinator",2,2.0000,1
+"Eupeodes curtus","Animals","Pollinator",3,3.0000,3
+"Eupeodes nigroventris","Animals","Pollinator",3,3.0000,1
+"Forcipomyia sp1 M_PL_010","Animals","Pollinator",2,2.0000,1
+"Gonarcticus arcticus","Animals","Pollinator",1,1.0000,1
+"Lasiopiophila pilosa","Animals","Pollinator",3,3.0000,2
+"Limnophora sinuata","Animals","Pollinator",7,7.0000,1
+"Limnophyes brachytomus","Animals","Pollinator",19,19.0000,2
+"Limnophyes sp1 M_PL_010","Animals","Pollinator",13,13.0000,1
+"Lophosceles minimus","Animals","Pollinator",3,3.0000,1
+"Megaselia sp1 M_PL_010","Animals","Pollinator",2,2.0000,1
+"Neoleria prominens","Animals","Pollinator",2,2.0000,1
+"Nysius groenlandicus","Animals","Pollinator",12,12.0000,3
+"Olethreutes inquitana","Animals","Pollinator",2,2.0000,1
+"Olethreutes mengelana","Animals","Pollinator",1,1.0000,2
+"Orthocladius sp1 M_PL_010","Animals","Pollinator",2,2.0000,1
+"Paraphaenocladius sp1 M_PL_010","Animals","Pollinator",16,16.0000,1
+"Parasyrphus tarsatus","Animals","Pollinator",6,6.0000,1
+"Peleteria aenea","Animals","Pollinator",6,6.0000,2
+"Phaonia bidentata","Animals","Pollinator",4,4.0000,1
+"Phytomyza fuscula","Animals","Pollinator",2,2.0000,1
+"Platycheirus carinatus","Animals","Pollinator",8,8.0000,1
+"Platycheirus lundbecki","Animals","Pollinator",16,16.0000,3
+"Plebeius glandon","Animals","Pollinator",2,2.0000,1
+"Polia richardsoni","Animals","Pollinator",4,4.0000,1
+"Procladius sp1 M_PL_010","Animals","Pollinator",2,2.0000,1
+"Protophormia terraenovae","Animals","Pollinator",2,2.0000,2
+"Pseudosmittia sp1 M_PL_010","Animals","Pollinator",14,14.0000,1
+"Rhamphomyia filicauda","Animals","Pollinator",10,10.0000,2
+"Rhamphomyia nigrita","Animals","Pollinator",12,12.0000,1
+"Rheocricotopus sp1 M_PL_010","Animals","Pollinator",5,5.0000,1
+"Scathophaga furcata","Animals","Pollinator",4,4.0000,1
+"Scatopsciara sp1 M_PL_010","Animals","Pollinator",4,4.0000,1
+"Smittia sp1 M_PL_010","Animals","Pollinator",12,12.0000,1
+"Spilogona almqvistii","Animals","Pollinator",16,16.0000,1
+"Spilogona arcticola","Animals","Pollinator",1,1.0000,1
+"Spilogona deflorata","Animals","Pollinator",1,1.0000,2
+"Spilogona denudata","Animals","Pollinator",11,11.0000,2
+"Spilogona dorsata","Animals","Pollinator",18,18.0000,4
+"Spilogona extensa","Animals","Pollinator",16,16.0000,2
+"Spilogona malaisei","Animals","Pollinator",1,1.0000,1
+"Spilogona melanosoma","Animals","Pollinator",2,2.0000,4
+"Spilogona micans","Animals","Pollinator",9,9.0000,1
+"Spilogona obsoleta","Animals","Pollinator",1,1.0000,2
+"Spilogona sanctipauli","Animals","Pollinator",20,20.0000,4
+"Spilogona tornensis","Animals","Pollinator",5,5.0000,2
+"Spilogona tundrae","Animals","Pollinator",3,3.0000,3
+"Stenomacrus sp1 M_PL_010","Animals","Pollinator",8,8.0000,1
+"Stenomacrus sp2 M_PL_010","Animals","Pollinator",2,2.0000,1
+"Stenomacrus sp3 M_PL_010","Animals","Pollinator",1,1.0000,1
+"Sympistis lapponica","Animals","Pollinator",2,2.0000,1
+"Sympistis zetterstedti","Animals","Pollinator",6,6.0000,1
+"Syngrapha parilis","Animals","Pollinator",1,1.0000,1
+"Unidentified sp1 M_PL_010","Animals","Pollinator",5,5.0000,1
+"Unidentified sp2 M_PL_010","Animals","Pollinator",4,4.0000,1
+"Unidentified sp3 M_PL_010","Animals","Pollinator",4,4.0000,1
+"Unidentified sp4 M_PL_010","Animals","Pollinator",2,2.0000,1
+"Unidentified sp5 M_PL_010","Animals","Pollinator",2,2.0000,1
+"Unidentified sp6 M_PL_010","Animals","Pollinator",2,2.0000,1
+"Unidentified sp7 M_PL_010","Animals","Pollinator",1,1.0000,1
+"Zaphne frontata","Animals","Pollinator",5,5.0000,2
+"Arenaria pseudofrigida","Plants","Plant",14,14.0000,1
+"Armeria scabra","Plants","Plant",9,9.0000,1
+"Arnica angustifolia","Plants","Plant",15,15.0000,1
+"Cassiope tetragona","Plants","Plant",16,16.0000,5
+"Cerastium arcticum","Plants","Plant",20,20.0000,2
+"Cochlearia groenlandica","Plants","Plant",11,11.0000,1
+"Draba arctica","Plants","Plant",6,6.0000,1
+"Draba lactea","Plants","Plant",8,8.0000,1
+"Dryas octopetala","Plants","Plant",32,32.0000,2
+"Epilobium latifolium","Plants","Plant",10,10.0000,3
+"Erigeron compositus","Plants","Plant",6,6.0000,2
+"Lesquerella arctica","Plants","Plant",6,6.0000,3
+"Melandrium triflorum","Plants","Plant",14,14.0000,1
+"Papaver radicatum","Plants","Plant",19,19.0000,4
+"Pedicularis flammea","Plants","Plant",3,3.0000,2
+"Pedicularis hirsuta","Plants","Plant",9,9.0000,1
+"Polygonum viviparum","Plants","Plant",23,23.0000,6
+"Potentilla hyparctica","Plants","Plant",17,17.0000,1
+"Potentilla rubricaulis","Plants","Plant",26,26.0000,2
+"Ranunculus sulphureus","Plants","Plant",12,12.0000,1
+"Rhododendron lapponicum","Plants","Plant",10,10.0000,4
+"Salix arctica","Plants","Plant",28,28.0000,2
+"Saxifraga caespitosa","Plants","Plant",25,25.0000,2
+"Saxifraga cernua","Plants","Plant",13,13.0000,2
+"Saxifraga hirculus","Plants","Plant",7,7.0000,3
+"Saxifraga nivalis","Plants","Plant",16,16.0000,1
+"Saxifraga oppositifolia","Plants","Plant",29,29.0000,4
+"Silene acaulis","Plants","Plant",23,23.0000,4
+"Stellaria longipes","Plants","Plant",11,11.0000,2
+"Taraxacum phymatocarpum","Plants","Plant",10,10.0000,1
+"Vaccinium uliginosum","Plants","Plant",8,8.0000,5

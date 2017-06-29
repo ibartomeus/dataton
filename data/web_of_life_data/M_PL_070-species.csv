@@ -1,0 +1,17 @@
+Specie,Kingdom,Role,Degree,Sum(connections strength),Networks presence
+"Archilochus colubris","Animals","Pollinator",5,68.0000,2
+"Colibri thalassinus","Animals","Pollinator",4,32.0000,1
+"Eugenes fulgens","Animals","Pollinator",8,53.0000,1
+"Hylocharis leucotis","Animals","Pollinator",8,91.0000,1
+"Lampornis clemenciae","Animals","Pollinator",4,38.0000,1
+"Selasphorus platycercus","Animals","Pollinator",4,27.0000,2
+"Selasphorus rufus","Animals","Pollinator",4,26.0000,1
+"Selasphorus sasin","Animals","Pollinator",4,23.0000,1
+"Bouvardia ternifolia","Plants","Plant",5,83.0000,1
+"Castilleja scorzonerifolia","Plants","Plant",2,9.0000,1
+"Castilleja tenuiflora","Plants","Plant",6,43.0000,1
+"Penstemon gentianoides","Plants","Plant",5,42.0000,1
+"Penstemon roseus","Plants","Plant",8,74.0000,1
+"Prunella vulgaris","Plants","Plant",5,22.0000,7
+"Salvia elegans","Plants","Plant",8,77.0000,1
+"Salvia mocinoi","Plants","Plant",2,8.0000,1

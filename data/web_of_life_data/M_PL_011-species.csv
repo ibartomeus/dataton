@@ -1,0 +1,28 @@
+Specie,Kingdom,Role,Degree,Sum(connections strength),Networks presence
+"Apis mellifera","Animals","Pollinator",12,12.0000,108
+"Leptotes pirithous","Animals","Pollinator",5,5.0000,11
+"Lucilia sp1 M_PL_011","Animals","Pollinator",1,1.0000,1
+"Ornidia obesa","Animals","Pollinator",1,1.0000,47
+"Phalantha phalantha","Animals","Pollinator",2,2.0000,1
+"Phelsuma ornata","Animals","Pollinator",10,10.0000,1
+"Protaetia aurichalcea","Animals","Pollinator",1,1.0000,1
+"Syrphid sp1 M_PL_011","Animals","Pollinator",3,3.0000,1
+"Unidentified sp1 M_PL_011","Animals","Pollinator",6,6.0000,1
+"Unidentified sp2 M_PL_011","Animals","Pollinator",3,3.0000,1
+"Unidentified sp3 M_PL_011","Animals","Pollinator",3,3.0000,1
+"Unidentified sp4 M_PL_011","Animals","Pollinator",2,2.0000,1
+"Xylocopa fenestrata","Animals","Pollinator",3,3.0000,1
+"Dracaena concinna","Plants","Plant",2,2.0000,1
+"Gastonia mauritiana","Plants","Plant",8,8.0000,1
+"Hibiscus tiliaceus","Plants","Plant",2,2.0000,2
+"Ipomoea macrantha","Plants","Plant",1,1.0000,1
+"Leucaena leucocephala","Plants","Plant",3,3.0000,1
+"Morinda citrifolia","Plants","Plant",3,3.0000,1
+"Passiflora suberosa","Plants","Plant",2,2.0000,1
+"Pemphis acidula","Plants","Plant",6,6.0000,1
+"Scaevola sericea","Plants","Plant",4,4.0000,1
+"Stachytapheta jamaicensis","Plants","Plant",6,6.0000,1
+"Suriana maritima","Plants","Plant",2,2.0000,1
+"Thespesia populnea","Plants","Plant",4,4.0000,1
+"Tourneortia argentea","Plants","Plant",4,4.0000,1
+"Turnera angustifolia","Plants","Plant",5,5.0000,1

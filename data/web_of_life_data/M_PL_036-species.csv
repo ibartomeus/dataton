@@ -1,0 +1,23 @@
+Specie,Kingdom,Role,Degree,Sum(connections strength),Networks presence
+"Apis mellifera","Animals","Pollinator",3,3.0000,108
+"Bombus sp1 M_PL_036","Animals","Pollinator",3,3.0000,1
+"Calliphora sp1 M_PL_036","Animals","Pollinator",1,1.0000,1
+"Lucilia sp1 M_PL_036","Animals","Pollinator",2,2.0000,1
+"Moth sp1 M_PL_036","Animals","Pollinator",1,1.0000,1
+"Unidentified sp1 M_PL_036","Animals","Pollinator",6,6.0000,1
+"Unidentified sp2 M_PL_036","Animals","Pollinator",4,4.0000,1
+"Unidentified sp3 M_PL_036","Animals","Pollinator",4,4.0000,1
+"Unidentified sp4 M_PL_036","Animals","Pollinator",3,3.0000,1
+"Unidentified sp5 M_PL_036","Animals","Pollinator",1,1.0000,1
+"Unidentified sp6 M_PL_036","Animals","Pollinator",1,1.0000,1
+"Unidentified sp7 M_PL_036","Animals","Pollinator",1,1.0000,1
+"Azorina vidalii","Plants","Plant",8,8.0000,1
+"Beta maritima","Plants","Plant",1,1.0000,1
+"Crithmum maritimum","Plants","Plant",4,4.0000,1
+"Daucus carota","Plants","Plant",3,3.0000,4
+"Freesia sp1 M_PL_036","Plants","Plant",2,2.0000,1
+"Leucanthemum vulgare","Plants","Plant",3,3.0000,3
+"Lotus corniculatus","Plants","Plant",3,3.0000,4
+"Reseada luteola","Plants","Plant",2,2.0000,1
+"Silene vulgaris","Plants","Plant",2,2.0000,1
+"Solidago sempervirens","Plants","Plant",2,2.0000,1

@@ -1,0 +1,27 @@
+Specie,Kingdom,Role,Degree,Sum(connections strength),Networks presence
+"Amazilia rutila","Animals","Pollinator",17,3668.0000,1
+"Archilochus colubris","Animals","Pollinator",3,259.0000,2
+"Chlorostilbon canivetii","Animals","Pollinator",7,2811.0000,1
+"Cynanthus latirostris","Animals","Pollinator",9,1652.0000,1
+"Heliomaster constantii","Animals","Pollinator",8,558.0000,1
+"Caesalpinia pulcherrima","Plants","Plant",1,243.0000,2
+"Ceiba aesculifolia","Plants","Plant",3,301.0000,1
+"Combretum farinosum","Plants","Plant",3,1051.0000,1
+"Cordia seleriana","Plants","Plant",2,185.0000,1
+"Erythrina lanata","Plants","Plant",1,5.0000,1
+"Groton suberosus","Plants","Plant",1,58.0000,1
+"Hamelia versicolor","Plants","Plant",4,2013.0000,1
+"Ipomoea bracteata","Plants","Plant",4,695.0000,1
+"Ipomoea quamoclit","Plants","Plant",3,5.0000,1
+"Ipomoea wolcottiana","Plants","Plant",3,475.0000,1
+"Justicia mexicana","Plants","Plant",2,46.0000,1
+"Mirabilis sp1 M_PL_065","Plants","Plant",1,627.0000,1
+"Nopalea karwinskiana","Plants","Plant",2,378.0000,1
+"Opuntia excelsa","Plants","Plant",3,419.0000,1
+"Pithecellobium mangens","Plants","Plant",1,104.0000,1
+"Psittacanthus calyculatus","Plants","Plant",2,138.0000,1
+"Tabebuia donnell-smithii","Plants","Plant",1,3.0000,1
+"Tillandsia bartramii","Plants","Plant",1,119.0000,1
+"Tillandsia dasyrifolia","Plants","Plant",1,85.0000,1
+"Tillandsia paucifolia","Plants","Plant",3,99.0000,1
+"Vitex mollis","Plants","Plant",2,1899.0000,1

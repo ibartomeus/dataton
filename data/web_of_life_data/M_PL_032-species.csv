@@ -1,0 +1,41 @@
+Specie,Kingdom,Role,Degree,Sum(connections strength),Networks presence
+"Andrena carlini","Animals","Pollinator",4,4.0000,4
+"Andrena cressoni","Animals","Pollinator",2,2.0000,1
+"Andrena erythronii","Animals","Pollinator",1,1.0000,1
+"Andrena forbesii","Animals","Pollinator",3,3.0000,1
+"Andrena irgeniae","Animals","Pollinator",4,4.0000,1
+"Andrena mansonii","Animals","Pollinator",3,3.0000,1
+"Andrena miserabilis","Animals","Pollinator",2,2.0000,1
+"Andrena personata","Animals","Pollinator",1,1.0000,3
+"Andrena rugosa","Animals","Pollinator",3,3.0000,1
+"Andrena sp1 M_PL_032","Animals","Pollinator",1,1.0000,1
+"Apis mellifera","Animals","Pollinator",6,6.0000,108
+"Augochlora pura","Animals","Pollinator",1,1.0000,2
+"Augochlorella striata","Animals","Pollinator",1,1.0000,1
+"Bombus griseocollis","Animals","Pollinator",4,4.0000,1
+"Carposcalis obscura","Animals","Pollinator",1,1.0000,2
+"Ceratina metallica","Animals","Pollinator",1,1.0000,1
+"Dialictus coeruleus","Animals","Pollinator",1,1.0000,1
+"Dialictus imitatus","Animals","Pollinator",1,1.0000,2
+"Dialictus oblongus","Animals","Pollinator",1,1.0000,1
+"Dialictus obscurus","Animals","Pollinator",1,1.0000,1
+"Dialictus zephyrus","Animals","Pollinator",1,1.0000,1
+"Eristalis dimidiatus","Animals","Pollinator",2,2.0000,2
+"Erylaeus macroupinensis","Animals","Pollinator",1,1.0000,1
+"Halictus confusus","Animals","Pollinator",1,1.0000,3
+"Helophilus fasciatus","Animals","Pollinator",3,3.0000,2
+"Lasioglossum forbesii","Animals","Pollinator",1,1.0000,1
+"Melanostoma sp1 M_PL_032","Animals","Pollinator",3,3.0000,1
+"Mesograpta marginata","Animals","Pollinator",1,1.0000,1
+"Metasyrphus americanus","Animals","Pollinator",3,3.0000,1
+"Nomada luteola","Animals","Pollinator",1,1.0000,2
+"Syrphus sp1 M_PL_032","Animals","Pollinator",2,2.0000,1
+"Syrphus torvus","Animals","Pollinator",3,3.0000,6
+"Xylota nemorum","Animals","Pollinator",1,1.0000,1
+"Claytonia virginica","Plants","Plant",23,23.0000,3
+"Dentaria laciniata","Plants","Plant",11,11.0000,2
+"Dicentra canadensis","Plants","Plant",1,1.0000,1
+"Dicentra cucullaria","Plants","Plant",2,2.0000,2
+"Erythronium albidum","Plants","Plant",6,6.0000,2
+"Isopyrum biternatum","Plants","Plant",20,20.0000,2
+"Sanguinaria canadensis","Plants","Plant",2,2.0000,2

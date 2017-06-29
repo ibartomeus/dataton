@@ -1,0 +1,50 @@
+Specie,Kingdom,Role,Degree,Sum(connections strength),Networks presence
+"Amegilla canifrons","Animals","Pollinator",2,2.0000,2
+"Amegilla quadrifasciata","Animals","Pollinator",3,3.0000,4
+"Amegilla sp1 M_PL_050","Animals","Pollinator",3,3.0000,1
+"Anthophora alluardii","Animals","Pollinator",1,1.0000,2
+"Anthophora orotavae","Animals","Pollinator",3,3.0000,2
+"Apis mellifera","Animals","Pollinator",2,2.0000,108
+"Camponotus rufoglaucus","Animals","Pollinator",7,7.0000,2
+"Eucera gracilipes","Animals","Pollinator",7,7.0000,3
+"Gallotia galloti","Animals","Pollinator",1,1.0000,1
+"Hylaeus sp1 M_PL_050","Animals","Pollinator",3,3.0000,1
+"Lasioglossum evylaeus","Animals","Pollinator",8,8.0000,2
+"Lucilia sp1 M_PL_050","Animals","Pollinator",2,2.0000,1
+"Sphecodes marginatus ","Animals","Pollinator",6,6.0000,3
+"Unidentified sp1 M_PL_050","Animals","Pollinator",5,5.0000,1
+"Unidentified sp10 M_PL_050","Animals","Pollinator",1,1.0000,1
+"Unidentified sp11 M_PL_050","Animals","Pollinator",1,1.0000,1
+"Unidentified sp12 M_PL_050","Animals","Pollinator",1,1.0000,1
+"Unidentified sp13 M_PL_050","Animals","Pollinator",1,1.0000,1
+"Unidentified sp14 M_PL_050","Animals","Pollinator",1,1.0000,1
+"Unidentified sp15 M_PL_050","Animals","Pollinator",1,1.0000,1
+"Unidentified sp16 M_PL_050","Animals","Pollinator",1,1.0000,1
+"Unidentified sp17 M_PL_050","Animals","Pollinator",1,1.0000,1
+"Unidentified sp18 M_PL_050","Animals","Pollinator",1,1.0000,1
+"Unidentified sp19 M_PL_050","Animals","Pollinator",1,1.0000,1
+"Unidentified sp2 M_PL_050","Animals","Pollinator",4,4.0000,1
+"Unidentified sp20 M_PL_050","Animals","Pollinator",1,1.0000,1
+"Unidentified sp21 M_PL_050","Animals","Pollinator",1,1.0000,1
+"Unidentified sp22 M_PL_050","Animals","Pollinator",1,1.0000,1
+"Unidentified sp3 M_PL_050","Animals","Pollinator",3,3.0000,1
+"Unidentified sp4 M_PL_050","Animals","Pollinator",3,3.0000,1
+"Unidentified sp5 M_PL_050","Animals","Pollinator",2,2.0000,1
+"Unidentified sp6 M_PL_050","Animals","Pollinator",2,2.0000,1
+"Unidentified sp7 M_PL_050","Animals","Pollinator",2,2.0000,1
+"Unidentified sp8 M_PL_050","Animals","Pollinator",2,2.0000,1
+"Unidentified sp9 M_PL_050","Animals","Pollinator",2,2.0000,1
+"Argyranthemum frutescencs","Plants","Plant",10,10.0000,1
+"Ceballosia fruticosa","Plants","Plant",2,2.0000,2
+"Convolvulus sp1 M_PL_050","Plants","Plant",10,10.0000,1
+"Echium aculeatum","Plants","Plant",2,2.0000,2
+"Echium bonnetii","Plants","Plant",5,5.0000,1
+"Euphorbia canariensis","Plants","Plant",8,8.0000,2
+"Euphorbia obtusifolia","Plants","Plant",17,17.0000,2
+"Fagonia albiflora","Plants","Plant",1,1.0000,2
+"Lavandula buchii","Plants","Plant",8,8.0000,2
+"Lotus sp1 M_PL_050","Plants","Plant",1,1.0000,1
+"Noechamaelea pulverulenta","Plants","Plant",1,1.0000,1
+"Parolinea intermedia","Plants","Plant",11,11.0000,1
+"Periploca laevigata","Plants","Plant",4,4.0000,1
+"Plocama pendula","Plants","Plant",6,6.0000,2

@@ -1,0 +1,79 @@
+Specie,Kingdom,Role,Degree,Sum(connections strength),Networks presence
+"Adela rufimatrella","Animals","Pollinator",1,1.0000,1
+"Andrena haemorrhoa","Animals","Pollinator",3,4.0000,3
+"Andrena pubescens","Animals","Pollinator",2,2.0000,2
+"Andrena wilkella","Animals","Pollinator",5,25.0000,3
+"Anosymia sp1 M_PL_006","Animals","Pollinator",1,1.0000,1
+"Anthomyidae sp1 M_PL_006","Animals","Pollinator",3,36.0000,1
+"Autographa sp1 M_PL_006","Animals","Pollinator",1,2.0000,1
+"Bombus hortorum","Animals","Pollinator",5,25.0000,7
+"Bombus lapidarius","Animals","Pollinator",1,1.0000,9
+"Bombus pascuorum","Animals","Pollinator",10,84.0000,10
+"Bombus pratorum","Animals","Pollinator",3,4.0000,7
+"Bombus terrestris/lucorum","Animals","Pollinator",10,1276.0000,2
+"Cheilosia albitarsis","Animals","Pollinator",2,16.0000,4
+"Chloromyia formosa ","Animals","Pollinator",1,1.0000,2
+"Chrysogaster sp1 M_PL_006","Animals","Pollinator",1,30.0000,1
+"Empis livida","Animals","Pollinator",1,15.0000,2
+"Eriothrix rufomaculatus","Animals","Pollinator",1,2.0000,3
+"Eristalinus sepulcharius","Animals","Pollinator",4,202.0000,1
+"Eristalis intricarius","Animals","Pollinator",4,29.0000,2
+"Eristalis nemorum","Animals","Pollinator",2,36.0000,2
+"Eristalis pertinax","Animals","Pollinator",1,2.0000,5
+"Eristalis tenax","Animals","Pollinator",2,20.0000,20
+"Helophilus sp1 M_PL_006","Animals","Pollinator",8,242.0000,1
+"Helophilus trivittatus","Animals","Pollinator",1,5.0000,4
+"Lasioglossum calceatum","Animals","Pollinator",1,1.0000,3
+"Lasioglossum leucozonium","Animals","Pollinator",1,1.0000,3
+"Lasioglossum villosulum","Animals","Pollinator",1,1.0000,6
+"Lasiommata megera ","Animals","Pollinator",3,10.0000,1
+"Lejogaster splendida","Animals","Pollinator",1,26.0000,1
+"Lucillia sp1 M_PL_006","Animals","Pollinator",2,69.0000,1
+"Lycaena phlaeas ","Animals","Pollinator",1,8.0000,8
+"Malachius viridus ","Animals","Pollinator",1,1.0000,1
+"Maniola jurtina","Animals","Pollinator",7,63.0000,10
+"Megachile willughbiella","Animals","Pollinator",1,9.0000,2
+"Melanostoma sp1 M_PL_006","Animals","Pollinator",1,3.0000,1
+"Meliscaeva sp1 M_PL_006","Animals","Pollinator",1,1.0000,1
+"Micromoth sp1 M_PL_006","Animals","Pollinator",1,6.0000,1
+"Nemotelus pantherinus","Animals","Pollinator",1,1.0000,1
+"Neoascia tenur","Animals","Pollinator",1,5.0000,2
+"Ochlodes venata ","Animals","Pollinator",2,3.0000,2
+"Odontomyia tigrina","Animals","Pollinator",2,8.0000,1
+"Odontomyia viridula","Animals","Pollinator",2,5.0000,1
+"Oligia sp1 M_PL_006","Animals","Pollinator",1,1.0000,1
+"Parhelophilus sp1 M_PL_006","Animals","Pollinator",1,1.0000,1
+"Phaonia incarna","Animals","Pollinator",8,448.0000,1
+"Platycheirus sp1 M_PL_006","Animals","Pollinator",2,6.0000,1
+"Pollenia sp1 M_PL_006","Animals","Pollinator",2,56.0000,1
+"Polyommatus icarus ","Animals","Pollinator",2,5.0000,9
+"Psithyrus vest","Animals","Pollinator",2,11.0000,2
+"Pyronia tithonus ","Animals","Pollinator",1,1.0000,2
+"Rhagio tringarius","Animals","Pollinator",1,5.0000,1
+"Rhagonycha fulva","Animals","Pollinator",1,1.0000,4
+"Sarcophagus sp1 M_PL_006","Animals","Pollinator",1,2.0000,1
+"Scathophaga stercoraria","Animals","Pollinator",2,15.0000,2
+"Sphaerophoria sp1 M_PL_006","Animals","Pollinator",3,6.0000,1
+"Syritta pipiens","Animals","Pollinator",2,30.0000,12
+"Syrphus sp1 M_PL_006","Animals","Pollinator",3,9.0000,1
+"Tetanocera ferruginea ","Animals","Pollinator",1,1.0000,1
+"Thymelicus sp1 M_PL_006","Animals","Pollinator",3,9.0000,1
+"Tropidia scitta","Animals","Pollinator",3,256.0000,2
+"Zygaena filipendulae ","Animals","Pollinator",4,5.0000,4
+"Achillea millefolium","Plants","Plant",6,9.0000,7
+"Centaurea nigra","Plants","Plant",3,7.0000,3
+"Cirsium arvense","Plants","Plant",1,1.0000,7
+"Hypochoeris radicata","Plants","Plant",15,53.0000,6
+"Lathyrus pratensis","Plants","Plant",6,201.0000,5
+"Leucanthemum vulgare","Plants","Plant",49,1586.0000,3
+"Lotus corniculatus","Plants","Plant",24,1101.0000,4
+"Lychnis flos-cuculi","Plants","Plant",1,3.0000,4
+"Plantago lanceolata","Plants","Plant",2,3.0000,1
+"Prunella vulgaris","Plants","Plant",4,13.0000,7
+"Ranunculus acris","Plants","Plant",12,44.0000,3
+"Taraxacum officinale","Plants","Plant",1,1.0000,6
+"Trifolium dubium","Plants","Plant",6,19.0000,4
+"Trifolium pratense","Plants","Plant",2,3.0000,5
+"Trifolium repens","Plants","Plant",1,7.0000,11
+"Vicia cracca","Plants","Plant",9,92.0000,2
+"Vicia sativa","Plants","Plant",4,7.0000,1
