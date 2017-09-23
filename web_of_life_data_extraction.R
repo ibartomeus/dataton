@@ -139,5 +139,12 @@ out[73,2]<- "Rosero 2003"
 out
 write.csv(out, "results.csv", row.names = FALSE)
   
-  
-  
+d <- read.csv("data/web_of_life_data/results.csv", h = T)  
+head(d)  
+mean(d$inds_fully_resolved)
+mean(d$inds_to_morphosps)
+mean(d$inds_to_genus)
+
+mean(d$sps_fully_resolved)
+mean(d$sps_to_morphosps)
+mean(d$sps_to_genus)
