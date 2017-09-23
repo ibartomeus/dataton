@@ -1,11 +1,13 @@
 #null models test----
 int <- read.csv("data/interactions_clean.csv", h = T)
+source("functions/toolbox.R") #load the toolbox by Saavedra.
 
 #creo modelo nulo
 head(int)
 sites <- unique(int$Site_ID)
 ntw_m <- data.frame(site = sites, connectance = NA, links_per_species = NA, nestedness = NA, 
-                    H2 = NA, weighted_NODF = NA, interaction_evenness = NA)
+                    H2 = NA, weighted_NODF = NA, interaction_evenness = NA, 
+                    zNODF = NA, cNODF = NA)
 for(i in 1:length(sites)){
     temp <- subset(int, Site_ID == sites[i])
     temp <- droplevels(temp)
@@ -37,13 +39,18 @@ for(i in 1:length(sites)){
     sig <- ( ntw_lev - colMeans(ntw_null) ) / sd_
     ntw_m[i,2:(length(sig)+1)] <- sig
     #saavedra method
-    N <- networklevel(web = webs, index = "nestedness")
-    M <- dim(web)[1]+dim[2]
-    C <- networklevel(web = webs, index = "connectance")
+    #N <- networklevel(web = webs, index = "nestedness")
+    #M <- dim(web)[1]+dim[2]
+    #C <- networklevel(web = webs, index = "connectance")
     # Nmax <- function... serguei.
-    Nmax <- N
-    N_ <- N/Nmax
-    N_cor <- N_/C*log(M, base = 10) 
+    #Nmax <- N
+    #N_ <- N/Nmax
+    #N_cor <- N_/C*log(M, base = 10) 
     #need to add... 
+    NODF <- nestedness_NODF(webs) # this calculates the raw value of NODF
+    #N == NODF test saavedra do the same as bipartite
+    max_NODF <- max_nest(webs) # this calculates the maximum value of NODF for that network
+    combined_NODF <- comb_nest(webs,NODF,max_NODF) # this calculates the combined NODF statistic as described in the manuscript
+    ntw_m[i,"cNODF"] <- combined_NODF
 }
 ntw_m
